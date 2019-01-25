@@ -1,0 +1,201 @@
+{% extends "layout.html" %}
+{% block title %}About{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-sm"></div>
+    <div class="col-sm">
+        <h2 class="text-center">Practice Hiragana</h2>
+    </div>
+    <div class="col-sm"></div>
+</div>
+
+<br>
+<br>
+
+
+<div class="row">
+    <div class="col-sm"></div>
+
+    <div class="col-sm">
+        <h3 id="question" class="text-center"></h3>
+    </div>
+
+    <div class="col-sm"></div>
+</div>
+
+<br>
+
+<div class="row">
+    <div class="col-sm"></div>
+    
+    <div class="col-sm">
+        <div class="form-group">
+            <input type="text" class="form-control" id="answer">
+        </div>
+    </div>
+
+    <div class="col-sm"></div>
+</div>
+
+<div class="row">
+    <div class="col-sm"></div>
+    
+    <div class="col-sm">
+        <button id="check_button" type="button" class="btn btn-primary btn-lg btn-block" onclick="check()">check</button>
+        
+    </div>
+
+    <div class="col-sm"></div>
+</div>
+
+<br>
+
+<div class="row">
+    <div class="col-sm"></div>
+    
+        <div class="col-sm">
+            <h4 id="grade" class="text-center">&nbsp;</h4>
+        </div>
+
+    <div class="col-sm"></div>
+</div>
+
+<div class="row">
+    <div class="col-sm"></div>
+    
+        <div class="col-sm">
+            <h4 id="position" class="text-center"></h4>
+        </div>
+
+    <div class="col-sm"></div>
+</div>
+
+<div class="row">
+    <div class="col-sm"></div>
+    
+        <div class="col-sm">
+            <h4 id="score" class="text-center"></h4>
+        </div>
+
+    <div class="col-sm"></div>
+</div>
+
+
+
+
+<script>
+// Shuffles an array in place using the Fisher-Yates algorithm
+function shuffle(a) {
+    var j, x, i;
+    for (i = a.length - 1; i > 0; i--) {
+        j = Math.floor(Math.random() * (i + 1));
+        x = a[i];
+        a[i] = a[j];
+        a[j] = x;
+    }
+    return a;
+}
+
+function check(){
+
+    if ($("#check_button").text() == "check"){
+        if ($("#answer").val() == data[index][1]){
+            score++;
+            $("#score").text(score + " correct");
+            $("#grade").text("Correct");
+            $("#grade").removeClass("text-danger");
+            $("#grade").addClass("text-success");        
+        }
+        else{
+            $("#grade").text("Wrong");
+            $("#grade").removeClass("text-success");
+            $("#grade").addClass("text-danger");
+        }
+
+        $("#check_button").text("next");
+        index++;
+        $("#position").text(index + " of " + data.length);
+
+    }
+    else{
+        $("#check_button").text("check");
+        
+        if (index == data.length){
+            $("#check_button").attr("disabled", "disabled");
+            $("#score").text(score + " correct " + Math.round(100 * score / data.length)  + "%");
+        }
+        $("#question").text(data[index][0]);
+        $("#grade").html("&nbsp;");
+        $("#answer").val("");
+    }
+
+}
+
+
+
+
+var index = 0;
+score = 0;
+
+var data = [
+    ["a", "あ"],
+    ["o", "お"],
+    ["i", "い"],
+    ["e", "え"],
+    ["u", "う"],
+    ["ka", "か"],
+    ["ko", "こ"],
+    ["ki", "き"],
+    ["ke", "け"],
+    ["ku", "く"],
+    ["sa", "さ"],
+    ["so", "そ"],
+    ["shi", "し"],
+    ["se", "せ"],
+    ["su", "す"],
+    ["ta", "た"],
+    ["to", "と"],
+    ["chi", "ち"],
+    ["te", "て"],
+    ["tsu", "つ"],
+    ["ma", "ま"],
+    ["mo", "も"],
+    ["mi", "み"],
+    ["me", "め"],
+    ["mu", "む"],
+    ["ra", "ら"],
+    ["ro", "ろ"],
+    ["ri", "り"],
+    ["re", "れ"],
+    ["ru", "る"],
+    ["ha", "は"],
+    ["ho", "ほ"],
+    ["hi", "ひ"],
+    ["he", "へ"],
+    ["fu", "ふ"],
+    ["na", "な"],
+    ["no", "の"],
+    ["ni", "に"],
+    ["ne", "ね"],
+    ["nu", "ぬ"],
+    ["ya", "や"],
+    ["yo", "よ"],
+    ["yu", "ゆ"],
+    ["wa", "わ"],
+    ["wo", "を"],
+    ["n", "ん"]
+];
+
+shuffle(data);
+
+$(document).ready(function(){
+    $("#question").text(data[index][0]);
+    $("#position").text("0 of " + data.length);
+    $("#score").text("0 correct");
+});
+
+</script>
+
+
+{% endblock %}

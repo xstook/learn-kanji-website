@@ -1,0 +1,149 @@
+{% extends "layout.html" %}
+{% block title %}About{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-lg"></div>
+
+    <div class="col-lg">
+
+        <div class="accordion" id="n5_accordian">
+
+            <div class="card">
+                <div class="card-header">
+                        <!-- <button class="btn btn-outline-primary btn-block collapsed" type="button" data-toggle="collapse" data-target="#practice_card"> -->
+                        <button id="practice_button" class="btn btn-outline-primary btn-block" type="button" onclick="practice_button_click()">
+                            Practice Kanji - N5
+                        </button>
+                </div>
+                <div id="practice_card" class="collapse" data-parent="#n5_accordian">
+                    <div class="card-body">
+                        <h1 id="question" class="text-center">Click Start</h1>
+                        <br>
+                        <form>
+                            <div class="form-group">
+                                <input id="answer" class="form-control" type="text">
+                            </div>
+                            <div class="form-group">
+                                <button class="btn btn-block btn-dark" type="button" onclick="enter_button_click()">
+                                    Enter
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                        <!-- <button class="btn btn-primary btn-block collapsed" type="button" data-toggle="collapse" data-target="#settings_card"> -->
+                        <button id="settings_button" class="btn btn-primary btn-block" type="button" onclick="settings_button_click()">
+                            Settings
+                        </button>
+                </div>
+
+                <div id="settings_card" class="collapse show" data-parent="#n5_accordian">
+                    <div class="card-body">
+
+                        <form id="start_form">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="order_radios" id="in_order_radio" value="in_order" checked>
+                                        <label class="form-check-label" for="in_order_radio">
+                                            In Order
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="order_radios" id="random_radio" value="random">
+                                        <label class="form-check-label" for="random_radio">
+                                            Random
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <button id="start_button" class="btn btn-dark btn-block" type="button">
+                                        Start
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-lg"></div>
+</div>
+
+
+
+
+<script>
+// Variables
+var kanji_list = [];
+var score = 0;
+var total_kanji = 0;
+
+// Ajax POST on start button in settings card
+// Sends data to server from radio buttons if the list of kanji should be shuffled or not
+// then fills the kanji_list with the returned data from the server
+$("#start_button").click(function(){
+    $.post(
+        "/n5_start",
+        $("#start_form").serialize(),
+        function(data){
+            kanji_list = data;
+            total_kanji = kanji_list.length;
+            practice_button_click();
+            start_practice();
+        },
+        "json"
+        );
+    });
+
+
+
+function start_practice(){
+    $("#question").text(kanji_list[0].symbol);
+    $("#answer").val("");
+}
+
+
+
+function enter_button_click() {
+
+}
+
+
+function settings_button_click() {
+    if ($("#settings_card").hasClass("show") == false && $("#practice_card").hasClass("show") == true){
+        $("#settings_card").collapse("show");
+        $("#settings_button").removeClass("btn-outline-primary");
+        $("#settings_button").addClass("btn-primary");
+        $("#practice_button").removeClass("btn-primary");
+        $("#practice_button").addClass("btn-outline-primary");
+    }
+}
+
+function practice_button_click() {
+    if ($("#settings_card").hasClass("show") == true && $("#practice_card").hasClass("show") == false){
+        $("#practice_card").collapse("show");
+        $("#settings_button").removeClass("btn-primary");
+        $("#settings_button").addClass("btn-outline-primary");
+        $("#practice_button").removeClass("btn-outline-primary");
+        $("#practice_button").addClass("btn-primary");
+    }
+}
+
+
+</script>
+
+
+
+{% endblock %}
