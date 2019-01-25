@@ -29,6 +29,7 @@ def n5():
 
 @app.route('/n5_start', methods=['POST'])
 def n5_start():
+    # TODO Possibly put the kanji in a database
     kanji_list = [
         {"symbol": "耳", "hiragana": "みみ", "english": "ear"},
         {"symbol": "水", "hiragana": "みず", "english": "water"},

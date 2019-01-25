@@ -11,7 +11,6 @@
 
             <div class="card">
                 <div class="card-header">
-                        <!-- <button class="btn btn-outline-primary btn-block collapsed" type="button" data-toggle="collapse" data-target="#practice_card"> -->
                         <button id="practice_button" class="btn btn-outline-primary btn-block" type="button" onclick="practice_button_click()">
                             Practice Kanji - N5
                         </button>
@@ -19,24 +18,20 @@
                 <div id="practice_card" class="collapse" data-parent="#n5_accordian">
                     <div class="card-body">
                         <h1 id="question" class="text-center">Click Start</h1>
+                        <h2 id="feedback" class="text-center">&nbsp;</h2>
                         <br>
-                        <form>
-                            <div class="form-group">
-                                <input id="answer" class="form-control" type="text">
-                            </div>
-                            <div class="form-group">
-                                <button class="btn btn-block btn-dark" type="button" onclick="enter_button_click()">
-                                    Enter
-                                </button>
-                            </div>
-                        </form>
+                        <div class="form-group">
+                            <input id="answer" class="form-control" type="text">
+                        </div>
+                        <div class="form-group">
+                            <button id="enter_button" class="btn btn-block btn-dark" type="button" onclick="enter_button_click()">Enter</button>
+                        </div>
                     </div>
                 </div>
             </div>
 
             <div class="card">
                 <div class="card-header">
-                        <!-- <button class="btn btn-primary btn-block collapsed" type="button" data-toggle="collapse" data-target="#settings_card"> -->
                         <button id="settings_button" class="btn btn-primary btn-block" type="button" onclick="settings_button_click()">
                             Settings
                         </button>
@@ -87,6 +82,7 @@
 <script>
 // Variables
 var kanji_list = [];
+var kanji_index = -1;
 var score = 0;
 var total_kanji = 0;
 
@@ -100,8 +96,9 @@ $("#start_button").click(function(){
         function(data){
             kanji_list = data;
             total_kanji = kanji_list.length;
+            kanji_index = 0;
             practice_button_click();
-            start_practice();
+            reset();
         },
         "json"
         );
@@ -109,15 +106,50 @@ $("#start_button").click(function(){
 
 
 
-function start_practice(){
-    $("#question").text(kanji_list[0].symbol);
-    $("#answer").val("");
+
+function enter_button_click() {
+    if (kanji_index >= 0 && $("#enter_button").text() == "Enter"){
+        if ($("#answer").val().toLowerCase() == kanji_list[kanji_index].english.toLowerCase()){
+            $("#enter_button").removeClass("btn-dark");
+            $("#enter_button").addClass("btn-success");
+            $("#feedback").addClass("text-white");
+            $("#feedback").addClass("bg-success");
+        }
+        else{
+            $("#enter_button").removeClass("btn-dark");
+            $("#enter_button").addClass("btn-danger");
+            $("#feedback").addClass("text-white");
+            $("#feedback").addClass("bg-danger");
+        }
+
+        $("#feedback").text(kanji_list[kanji_index].hiragana + " - " + kanji_list[kanji_index].english);
+
+        $("#enter_button").text("Next");
+        kanji_index++;
+        if (kanji_index == kanji_list.length){
+            $("#enter_button").text("Finished");
+            $("#enter_button").attr("disabled", "disabled");
+        }
+    }
+    else if ($("#enter_button").text() == "Next"){
+        reset();
+    }
+    
 }
 
 
+function reset(){
+    $("#question").text(kanji_list[kanji_index].symbol);
+    $("#feedback").html("&nbsp;");
+    $("#answer").val("");
 
-function enter_button_click() {
-
+    $("#enter_button").removeClass("btn-danger");
+    $("#enter_button").removeClass("btn-success");
+    $("#enter_button").addClass("btn-dark");
+    $("#enter_button").text("Enter");
+    $("#feedback").removeClass("text-white");
+    $("#feedback").removeClass("bg-danger");
+    $("#feedback").removeClass("bg-success");
 }
 
 
@@ -141,6 +173,13 @@ function practice_button_click() {
     }
 }
 
+
+
+$("#answer").on('keypress',function(e) {
+    if(e.which == 13) {
+        enter_button_click();
+    }
+});
 
 </script>
 
