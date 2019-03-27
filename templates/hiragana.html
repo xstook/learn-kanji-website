@@ -1,5 +1,5 @@
 {% extends "layout.html" %}
-{% block title %}About{% endblock %}
+{% block title %}Hiragana{% endblock %}
 
 {% block content %}
 <div class="row">
@@ -111,6 +111,7 @@ function check(){
             $("#grade").text("Wrong");
             $("#grade").removeClass("text-success");
             $("#grade").addClass("text-danger");
+			$("#question").text(data[index][0] + " - " + data[index][1]);
         }
 
         $("#check_button").text("next");
