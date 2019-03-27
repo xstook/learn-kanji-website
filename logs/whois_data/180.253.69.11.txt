@@ -1,0 +1,88 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '180.253.64.0 - 180.253.127.255'
+
+% Abuse contact for '180.253.64.0 - 180.253.127.255' is 'abuse@telkom.co.id'
+
+inetnum:        180.253.64.0 - 180.253.127.255
+netname:        TLKM_BB_SERVICE_180_253_DIVRE4
+country:        ID
+descr:          PT TELKOM INDONESIA
+descr:          Menara Multimedia Lt. 7
+descr:          Jl. Kebonsirih No.12
+descr:          JAKARTA
+admin-c:        AR165-AP
+tech-c:         HM444-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-TELKOMNET
+mnt-irt:        IRT-IDTELKOM-ID
+last-modified:  2010-12-10T06:37:45Z
+source:         APNIC
+
+irt:            IRT-IDTELKOM-ID
+address:        PT. TELKOM INDONESIA
+address:        STO Telkom Gambir 3th Floor
+address:        Medan Merdeka Selatan
+address:        JAKARTA
+e-mail:         abuse@telkom.co.id
+abuse-mailbox:  abuse@telkom.co.id
+admin-c:        DF99-AP
+tech-c:         AR165-AP
+auth:           # Filtered
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2015-10-15T05:58:44Z
+source:         APNIC
+
+role:           PT Telkom Indonesia APNIC Resources Management
+address:        PT. TELKOM INDONESIA
+address:        Menara Multimedia Lt. 7
+address:        Jl. Kebonsirih No.12
+address:        JAKARTA
+country:        ID
+phone:          +62-21-3860500
+fax-no:         +62-21-3861215
+e-mail:         ip-admin@telkom.net.id
+admin-c:        HM444-AP
+tech-c:         HM444-AP
+nic-hdl:        AR165-AP
+notify:         hostmaster@telkom.net.id
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2008-09-04T07:54:16Z
+source:         APNIC
+
+person:         PT Telkom Indonesia Hostmaster
+nic-hdl:        HM444-AP
+e-mail:         hostmaster@telkom.net.id
+address:        PT. TELKOM INDONESIA
+address:        Menara Multimedia Lt. 7
+address:        Jl. Kebonsirih No.12
+address:        JAKARTA
+phone:          +62-21-3860500
+fax-no:         +62-21-3861215
+country:        ID
+notify:         hostmaster@telkom.net.id
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2008-09-04T07:29:40Z
+source:         APNIC
+
+% Information related to '180.253.64.0/21AS17974'
+
+route:          180.253.64.0/21
+descr:          PT. TELKOM INDONESIA
+                Menara Multimedia Lt. 7
+                Jl. Kebonsirih No.12
+                JAKARTA
+origin:         AS17974
+country:        ID
+mnt-lower:      MAINT-TELKOMNET
+mnt-routes:     MAINT-TELKOMNET
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2011-02-18T02:38:09Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

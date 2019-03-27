@@ -1,0 +1,55 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '94.41.192.0 - 94.41.255.255'
+
+% Abuse contact for '94.41.192.0 - 94.41.255.255' is 'abuse@ufanet.ru'
+
+inetnum:        94.41.192.0 - 94.41.255.255
+netname:        UBN
+descr:          JSC "Ufanet"
+descr:          Ufa, Russia
+country:        RU
+admin-c:        UN1646-RIPE
+tech-c:         UN1646-RIPE
+status:         ASSIGNED PA
+mnt-by:         UBN-MNT
+created:        2009-12-01T12:53:15Z
+last-modified:  2018-08-03T03:10:58Z
+source:         RIPE
+
+role:           Ufanet NOC
+address:        pr. Oktyabrya, 4/3
+address:        Ufa, Russia
+org:            ORG-Zs2-RIPE
+admin-c:        AS39184-RIPE
+tech-c:         VO1179-RIPE
+tech-c:         VDN30-RIPE
+abuse-mailbox:  abuse@ufanet.ru
+nic-hdl:        UN1646-RIPE
+mnt-by:         UBN-MNT
+created:        2018-06-06T11:54:33Z
+last-modified:  2018-12-11T06:50:32Z
+source:         RIPE # Filtered
+
+% Information related to '94.41.238.0/24AS24955'
+
+route:          94.41.238.0/24
+descr:          JSC "Ufanet", Ufa, Russia
+origin:         AS24955
+mnt-by:         UBN-MNT
+created:        2018-08-15T04:06:13Z
+last-modified:  2018-08-15T04:06:13Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

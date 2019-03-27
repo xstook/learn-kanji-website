@@ -1,0 +1,64 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '89.238.214.0 - 89.238.214.255'
+
+% Abuse contact for '89.238.214.0 - 89.238.214.255' is 'abuse@euroweb.ro'
+
+inetnum:        89.238.214.0 - 89.238.214.255
+netname:        RO-EUROWEB-BROADBAND
+descr:          Euroweb Romania SA
+country:        RO
+admin-c:        EWRO-RIPE
+tech-c:         EWRO-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-EWRO
+remarks:        INFRA-AW
+created:        2012-09-12T07:42:15Z
+last-modified:  2012-09-12T07:42:15Z
+source:         RIPE # Filtered
+
+role:           TTI AUSTRIA
+address:        TTI AT
+address:        Ortsstrasse 24
+address:        2331 Vosendorf, Austria
+phone:          +40 31 7100000
+fax-no:         +40 31 7100072
+abuse-mailbox:  abuse@euroweb.ro
+admin-c:        CCX1-RIPE
+admin-c:        AUR-RIPE
+admin-c:        DCIN7
+admin-c:        GC1996-RIPE
+admin-c:        MCM-RIPE
+tech-c:         CCX1-RIPE
+tech-c:         AUR-RIPE
+tech-c:         GC1996-RIPE
+tech-c:         MCM-RIPE
+tech-c:         DCIN7
+nic-hdl:        EWRO-RIPE
+mnt-by:         MNT-EWRO
+created:        2007-07-27T07:25:03Z
+last-modified:  2018-05-18T14:49:20Z
+source:         RIPE # Filtered
+
+% Information related to '89.238.192.0/18AS6663'
+
+route:          89.238.192.0/18
+descr:          EUROWEB ROMANIA
+origin:         AS6663
+mnt-by:         MNT-EWRO
+created:        2015-08-28T12:27:24Z
+last-modified:  2015-08-28T12:27:24Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

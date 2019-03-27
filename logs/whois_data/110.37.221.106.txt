@@ -1,0 +1,54 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '110.37.128.0 - 110.37.255.255'
+
+% Abuse contact for '110.37.128.0 - 110.37.255.255' is 'Muhammad.Ashraf2@wateen.com'
+
+inetnum:        110.37.128.0 - 110.37.255.255
+netname:        WATEEN-TEL
+descr:          National WiMAX/IMS environment
+country:        PK
+admin-c:        MA1104-AP
+tech-c:         MA1104-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-PK-WATEEN
+mnt-irt:        IRT-WATEENTEL-PK
+last-modified:  2018-02-01T07:11:57Z
+source:         APNIC
+
+irt:            IRT-WATEENTEL-PK
+address:        Wateen Telecom Limited Main Walton Road, Opp. Bab-e-Pakistan, Walton Cantt., Lahore
+e-mail:         Muhammad.Ashraf2@wateen.com
+abuse-mailbox:  Muhammad.Ashraf2@wateen.com
+admin-c:        MA1104-AP
+tech-c:         MA1104-AP
+auth:           # Filtered
+mnt-by:         MAINT-PK-WATEEN
+last-modified:  2017-04-24T08:00:32Z
+source:         APNIC
+
+person:         Muhammad Ashraf
+address:        Wateen Telecom Limited Main Walton Road, Opp. Bab-e-Pakistan, Walton Cantt., Lahore
+country:        PK
+phone:          +92-321-4497383
+e-mail:         Muhammad.Ashraf2@wateen.com
+nic-hdl:        MA1104-AP
+mnt-by:         MAINT-PK-WATEEN
+last-modified:  2017-04-24T07:41:16Z
+source:         APNIC
+
+% Information related to '110.37.220.0/23AS38264'
+
+route:          110.37.220.0/23
+descr:          GPON SOHO KHI
+origin:         AS38264
+mnt-by:         MAINT-PK-WATEEN
+last-modified:  2016-05-23T11:41:31Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

@@ -1,0 +1,81 @@
+[Querying whois.arin.net]
+[whois.arin.net]
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       173.64.0.0 - 173.79.255.255
+CIDR:           173.64.0.0/12
+NetName:        VIS-BLOCK
+NetHandle:      NET-173-64-0-0-1
+Parent:         NET173 (NET-173-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+RegDate:        2008-08-11
+Updated:        2016-08-18
+Ref:            https://rdap.arin.net/registry/ip/173.64.0.0
+
+
+
+OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+OrgId:          MCICS
+Address:        22001 Loudoun County Pkwy
+City:           Ashburn
+StateProv:      VA
+PostalCode:     20147
+Country:        US
+RegDate:        2006-05-30
+Updated:        2018-10-11
+Ref:            https://rdap.arin.net/registry/entity/MCICS
+
+
+OrgTechHandle: SWIPP-ARIN
+OrgTechName:   swipper
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizonbusiness.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/SWIPP-ARIN
+
+OrgAbuseHandle: ABUSE3-ARIN
+OrgAbuseName:   abuse
+OrgAbusePhone:  +1-800-900-0241 
+OrgAbuseEmail:  abuse-mail@verizonbusiness.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3-ARIN
+
+OrgTechHandle: SWIPP9-ARIN
+OrgTechName:   SWIPPER
+OrgTechPhone:  +1-800-900-0241 
+OrgTechEmail:  swipper@verizon.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/SWIPP9-ARIN
+
+OrgAbuseHandle: ABUSE5603-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-800-900-0241 
+OrgAbuseEmail:  abuse@verizon.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5603-ARIN
+
+RAbuseHandle: ABUSE5603-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-800-900-0241 
+RAbuseEmail:  abuse@verizon.net
+RAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5603-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+

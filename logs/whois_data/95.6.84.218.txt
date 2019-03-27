@@ -1,0 +1,85 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.0.0.0 - 95.15.255.255'
+
+% Abuse contact for '95.0.0.0 - 95.15.255.255' is 'abuse@ttnet.com.tr'
+
+inetnum:        95.0.0.0 - 95.15.255.255
+netname:        TR-TELEKOM-20081014
+country:        TR
+org:            ORG-TT3-RIPE
+admin-c:        TTBA1-RIPE
+tech-c:         TTBA1-RIPE
+status:         ALLOCATED PA
+remarks:        To report abuse problems mail abuse@ttnet.com.tr
+remarks:        To report abuse problems mail abuse@ttnet.com.tr
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         AS9121-MNT
+mnt-lower:      AS9121-MNT
+mnt-domains:    AS9121-MNT
+mnt-routes:     AS9121-MNT
+created:        2008-10-14T09:15:20Z
+last-modified:  2016-08-16T08:41:57Z
+source:         RIPE # Filtered
+
+organisation:   ORG-TT3-RIPE
+org-name:       Turk Telekomunikasyon Anonim Sirketi
+org-type:       LIR
+address:        Turk Telekomunikasyon A.S Turgut Ozal Blv. Aydinlikevler
+address:        06103
+address:        Ankara
+address:        TURKEY
+phone:          +903125550000
+fax-no:         +903123136589
+admin-c:        NK1283-RIPE
+admin-c:        ZA66-RIPE
+admin-c:        NO638-RIPE
+admin-c:        OM2213-RIPE
+admin-c:        OT1852-RIPE
+abuse-c:        AR12859-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        AS9121-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         AS9121-MNT
+created:        2004-04-17T12:08:15Z
+last-modified:  2019-03-01T14:23:01Z
+source:         RIPE # Filtered
+
+role:           TT Administrative Contact Role
+address:        Turk Telekomunikasyon A.S Turgut Ozal Blv. Aydinlikevler
+address:        06103 ANKARA TURKEY
+phone:          +90 312 555 0000
+fax-no:         +90 312 313 1924
+admin-c:        BADB3-RIPE
+abuse-mailbox:  abuse@ttnet.com.tr
+tech-c:         BADB3-RIPE
+tech-c:         BADB3-RIPE
+tech-c:         BADB3-RIPE
+nic-hdl:        TTBA1-RIPE
+mnt-by:         AS9121-MNT
+created:        2002-02-28T12:22:28Z
+last-modified:  2019-01-23T09:13:01Z
+source:         RIPE # Filtered
+
+% Information related to '95.6.0.0/17AS9121'
+
+route:          95.6.0.0/17
+descr:          TurkTelekom
+origin:         AS9121
+mnt-by:         AS9121-MNT
+created:        2009-06-22T08:12:37Z
+last-modified:  2009-06-22T08:12:37Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

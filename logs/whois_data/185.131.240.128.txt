@@ -1,0 +1,71 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.131.240.0 - 185.131.241.255'
+
+% Abuse contact for '185.131.240.0 - 185.131.241.255' is 'piotr@mk-net.info'
+
+inetnum:        185.131.240.0 - 185.131.241.255
+netname:        PL-MK-NET-NETWORK
+country:        PL
+org:            ORG-MA1425-RIPE
+admin-c:        PM20323-RIPE
+tech-c:         PM20323-RIPE
+status:         ASSIGNED PA
+mnt-by:         pl-mk-net-1-mnt
+mnt-routes:     pl-mk-net-1-mnt
+created:        2018-06-22T11:05:06Z
+last-modified:  2018-06-22T11:05:06Z
+source:         RIPE
+
+organisation:   ORG-MA1425-RIPE
+org-name:       MK-NET
+org-type:       OTHER
+address:        Zielona 35
+address:        23-460
+address:        Jozefow
+address:        POLAND
+admin-c:        PM20323-RIPE
+tech-c:         PM20323-RIPE
+abuse-c:        AR34675-RIPE
+mnt-ref:        pl-mk-net-1-mnt
+mnt-by:         pl-mk-net-1-mnt
+created:        2018-06-22T11:03:29Z
+last-modified:  2018-06-22T11:03:29Z
+source:         RIPE # Filtered
+phone:          +48509605712
+
+person:         Piotr Malinowski
+address:        MK-NET
+address:        Zielona 35
+address:        23-460
+address:        Jozefow
+address:        POLAND
+phone:          +48509605712
+nic-hdl:        PM20323-RIPE
+mnt-by:         pl-mk-net-1-mnt
+created:        2018-06-22T10:53:07Z
+last-modified:  2018-06-22T10:53:07Z
+source:         RIPE
+
+% Information related to '185.131.240.0/23AS203937'
+
+route:          185.131.240.0/23
+descr:          MK-NET via CYFROTEL
+origin:         AS203937
+mnt-by:         pl-mk-net-1-mnt
+created:        2016-01-11T12:16:21Z
+last-modified:  2016-01-11T12:16:21Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

@@ -1,0 +1,123 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '112.78.32.0 - 112.78.39.255'
+
+% Abuse contact for '112.78.32.0 - 112.78.39.255' is 'abuse@gmedia.net.id'
+
+inetnum:        112.78.32.0 - 112.78.39.255
+netname:        GMEDIA-ID
+descr:          PT Media Sarana Data
+descr:          Internet Service Provider
+descr:          Jl. Daradasih No. 11A
+descr:          Patangpuluhan - Wirobrajan
+descr:          Yogyakarta, 55251
+country:        ID
+admin-c:        GH788-AP
+tech-c:         GH788-AP
+status:         ALLOCATED PORTABLE
+remarks:        Send Spam & Abuse Reports to:abuse@gmedia.net.id
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-GMEDIA
+mnt-routes:     MAINT-ID-GMEDIA
+mnt-irt:        IRT-GMEDIA-ID
+last-modified:  2013-04-30T03:14:02Z
+source:         APNIC
+
+irt:            IRT-GMEDIA-ID
+address:        Jl. Daradasih No. 11A
+address:        Patangpuluhan, Yogyakarta
+address:        DIY Yogyakarta, 55251
+e-mail:         hostmaster@gmedia.net.id
+abuse-mailbox:  abuse@gmedia.net.id
+admin-c:        GH788-AP
+tech-c:         GH788-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-GMEDIA
+last-modified:  2018-05-31T22:29:10Z
+source:         APNIC
+
+person:         GMEDIA HOSTMASTER
+address:        Jl. Daradasih No. 11A
+address:        Patangpuluhan, Yogyakarta
+address:        DIY Yogyakarta, 55251
+country:        ID
+phone:          +62-274-380345
+fax-no:         +62-274-379593
+e-mail:         hostmaster@gmedia.net.id
+nic-hdl:        GH788-AP
+notify:         agusr@gmedia.co.id
+mnt-by:         MAINT-ID-GMEDIA
+last-modified:  2011-02-28T19:00:02Z
+source:         APNIC
+
+% Information related to '112.78.38.0/24AS55666'
+
+route:          112.78.38.0/24
+descr:          Route object of GMEDIA
+descr:          toÂ
+country:        ID
+origin:         AS55666
+mnt-by:         MAINT-ID-GMEDIA
+last-modified:  2014-06-06T02:38:01Z
+source:         APNIC
+
+% Information related to '112.78.38.0 - 112.78.38.255'
+
+inetnum:        112.78.38.0 - 112.78.38.255
+netname:        GMEDIA-ID-NET-DATA
+descr:          PT Media Sarana Data
+descr:          Internet Service Provider
+country:        ID
+admin-c:        GH788-AP
+tech-c:         GH788-AP
+status:         ASSIGNED NON-PORTABLE
+remarks:        Send Spam & Abuse report to: abuse@gmedia.net.id
+mnt-by:         MAINT-ID-GMEDIA
+mnt-irt:        IRT-GMEDIA-ID
+last-modified:  2013-05-08T10:20:57Z
+source:         IDNIC
+
+irt:            IRT-GMEDIA-ID
+address:        Jl. Daradasih No. 11A
+address:        Patangpuluhan, Yogyakarta
+address:        DIY Yogyakarta, 55251
+e-mail:         hostmaster@gmedia.net.id
+abuse-mailbox:  abuse@gmedia.net.id
+admin-c:        GH788-AP
+tech-c:         GH788-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-GMEDIA
+last-modified:  2011-02-25T10:06:50Z
+source:         IDNIC
+
+person:         GMEDIA HOSTMASTER
+address:        Jl. Daradasih No. 11A
+address:        Patangpuluhan, Yogyakarta
+address:        DIY Yogyakarta, 55251
+country:        ID
+phone:          +62-274-380345
+fax-no:         +62-274-379593
+e-mail:         hostmaster@gmedia.net.id
+nic-hdl:        GH788-AP
+notify:         agusr@gmedia.co.id
+mnt-by:         MAINT-ID-GMEDIA
+last-modified:  2011-02-28T19:00:02Z
+source:         IDNIC
+
+% Information related to '112.78.38.0/24AS55666'
+
+route:          112.78.38.0/24
+descr:          Route object of GMEDIA
+descr:          to?
+country:        ID
+origin:         AS55666
+mnt-by:         MAINT-ID-GMEDIA
+last-modified:  2014-06-06T02:38:01Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

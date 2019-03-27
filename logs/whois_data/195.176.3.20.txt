@@ -1,0 +1,73 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '195.176.3.16 - 195.176.3.31'
+
+% Abuse contact for '195.176.3.16 - 195.176.3.31' is 'abuse-ripe@digitale-gesellschaft.ch'
+
+inetnum:        195.176.3.16 - 195.176.3.31
+netname:        DIGITALEGESELLSCHAFT-NET
+descr:          Verein Digitale Gesellschaft
+country:        CH
+org:            ORG-DG153-RIPE
+admin-c:        DG11277-RIPE
+tech-c:         DG11277-RIPE
+status:         ASSIGNED PA
+mnt-by:         SWITCH-MNT
+created:        2018-04-19T09:37:06Z
+last-modified:  2018-04-19T09:37:06Z
+source:         RIPE
+
+organisation:   ORG-DG153-RIPE
+org-name:       Digitale Gesellschaft
+org-type:       OTHER
+address:        CH-4000 Basel
+abuse-c:        DG11277-RIPE
+mnt-ref:        MNT-DIGIGES
+mnt-ref:        NINE-MNT
+mnt-ref:        MNT-DA327
+mnt-ref:        SWITCH-MNT
+mnt-by:         MNT-DIGIGES
+created:        2017-11-04T12:43:27Z
+last-modified:  2018-04-18T12:57:40Z
+source:         RIPE # Filtered
+
+role:           Digitale Gesellschaft
+address:        CH-4000 Basel
+remarks:        ----------------------------------------------------------
+remarks:        We operate privacy enhancing technologies,
+remarks:        including Tor exit nodes. In case of abuse
+remarks:        or other emergencies, contact ONLY
+remarks:        abuse[at]digitale-gesellschaft.ch
+remarks:        ----------------------------------------------------------
+remarks:        Please check the information given on
+remarks:        http://www.digitale-gesellschaft.ch/abuse
+remarks:        ----------------------------------------------------------
+nic-hdl:        DG11277-RIPE
+mnt-by:         MNT-DIGIGES
+created:        2017-11-04T12:42:35Z
+last-modified:  2017-11-16T07:47:13Z
+source:         RIPE # Filtered
+abuse-mailbox:  abuse-ripe@digitale-gesellschaft.ch
+
+% Information related to '195.176.0.0/17AS559'
+
+route:          195.176.0.0/17
+descr:          SWITCH-AGGR.100
+origin:         AS559
+mnt-by:         AS559-MNT
+created:        2015-03-10T13:59:41Z
+last-modified:  2015-03-10T13:59:41Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

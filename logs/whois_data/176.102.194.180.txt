@@ -1,0 +1,77 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '176.102.192.0 - 176.102.223.255'
+
+% Abuse contact for '176.102.192.0 - 176.102.223.255' is 'alexnvis@gmail.com'
+
+inetnum:        176.102.192.0 - 176.102.223.255
+netname:        FOBOS-NET
+country:        UA
+org:            ORG-FOBO2-RIPE
+admin-c:        AP7848-RIPE
+tech-c:         ASK1989-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         FOBOS-MNT
+mnt-routes:     FOBOS-MNT
+mnt-domains:    FOBOS-MNT
+created:        2011-11-28T12:46:16Z
+last-modified:  2016-04-14T09:06:47Z
+source:         RIPE # Filtered
+sponsoring-org: ORG-Vs35-RIPE
+
+organisation:   ORG-FOBO2-RIPE
+org-name:       Center for Information Technologies "Fobos" Ltd.
+org-type:       OTHER
+address:        39800, Ukraine, Poltavsky reg. Komsomolsk, Lenina str., 40
+abuse-c:        AR30386-RIPE
+mnt-ref:        vissado-mnt
+mnt-by:         vissado-mnt
+created:        2011-11-11T11:20:11Z
+last-modified:  2014-11-17T22:47:48Z
+source:         RIPE # Filtered
+
+person:         Andrew Philonenko
+address:        Lenina str., 31/31
+address:        Poltava reg
+address:        39800 Komsomolsk, Ukraine
+phone:          +380633131008
+fax-no:         +380675327103
+nic-hdl:        AP7848-RIPE
+mnt-by:         KUTS-MNT
+created:        2006-04-20T16:45:52Z
+last-modified:  2013-02-28T08:46:59Z
+source:         RIPE # Filtered
+
+person:         Alexander S. Kapralov
+address:        Heroiv Dnipra ave., 42/205
+address:        Poltava reg
+address:        39800 Horishni Plavni, Ukraine
+phone:          +380936975170
+nic-hdl:        ASK1989-RIPE
+mnt-by:         FOBOS-MNT
+created:        2015-11-24T09:58:12Z
+last-modified:  2017-10-05T13:17:42Z
+source:         RIPE # Filtered
+
+% Information related to '176.102.192.0/20AS39822'
+
+route:          176.102.192.0/20
+origin:         AS39822
+mnt-by:         FOBOS-MNT
+created:        2017-10-03T07:45:59Z
+last-modified:  2017-10-03T07:45:59Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

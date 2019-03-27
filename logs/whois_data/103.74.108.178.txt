@@ -1,0 +1,70 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.74.108.0 - 103.74.111.255'
+
+% Abuse contact for '103.74.108.0 - 103.74.111.255' is 'abuse@railtelindia.com'
+
+inetnum:        103.74.108.0 - 103.74.111.255
+netname:        TSPLBH
+descr:          TouchStone Pvt. Ltd.
+admin-c:        MK1240-AP
+tech-c:         MN619-AP
+country:        IN
+mnt-by:         MAINT-IN-IRINN
+mnt-irt:        IRT-TSPLBH-IN
+mnt-routes:     MAINT-IN-TSPLBH
+status:         ALLOCATED PORTABLE
+last-modified:  2016-09-06T07:59:06Z
+source:         APNIC
+
+irt:            IRT-TSPLBH-IN
+address:        2nd Floor,Jyoti Bhawan,Krishna Compound,Behind Jagat Trade Centre,Fraser Road,Patna,Bihar-800001
+e-mail:         manish@touchstoneinfra.com
+abuse-mailbox:  abuse@railtelindia.com
+admin-c:        MN619-AP
+tech-c:         MN619-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-TSPLBH
+last-modified:  2016-09-06T07:50:35Z
+source:         APNIC
+
+role:           Manager NOC
+address:        2nd Floor,Jyoti Bhawan,Krishna Compound,Behind Jagat Trade Centre,Fraser Road,Patna,Bihar-800001
+country:        IN
+phone:          +91 06122216055
+e-mail:         kbachchan@railtelindia.com
+admin-c:        MK1240-AP
+tech-c:         MK1240-AP
+nic-hdl:        MN619-AP
+mnt-by:         MAINT-IN-TSPLBH
+last-modified:  2016-09-06T07:51:27Z
+source:         APNIC
+
+person:         Manish Kumar
+address:        2nd Floor,Jyoti Bhawan,Krishna Compound,Behind Jagat Trade Centre,Fraser Road,Patna,Bihar-800001
+country:        IN
+phone:          +91 06122216055
+e-mail:         manish@touchstoneinfra.com
+nic-hdl:        MK1240-AP
+mnt-by:         MAINT-IN-TSPLBH
+last-modified:  2016-09-06T07:51:56Z
+source:         APNIC
+
+% Information related to '103.74.108.0/24AS24186'
+
+route:          103.74.108.0/24
+descr:          TouchStone Pvt. Ltd.
+origin:         AS24186
+country:        IN
+notify:         manish@touchstoneinfra.com
+mnt-by:         MAINT-IN-IRINN
+mnt-routes:     MAINT-IN-IRINN
+last-modified:  2016-09-08T06:56:36Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

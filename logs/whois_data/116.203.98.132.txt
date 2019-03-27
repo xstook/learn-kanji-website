@@ -1,0 +1,77 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.0.0.0 - 119.255.255.255'
+
+% Abuse contact for '116.0.0.0 - 119.255.255.255' is 'helpdesk@apnic.net'
+
+inetnum:        116.0.0.0 - 119.255.255.255
+netname:        APNIC-AP
+descr:          Asia Pacific Network Information Centre
+descr:          Regional Internet Registry for the Asia-Pacific Region
+descr:          6 Cordelia Street
+descr:          PO Box 3646
+descr:          South Brisbane, QLD 4101
+descr:          Australia
+country:        AU
+admin-c:        HM20-AP
+tech-c:         NO4-AP
+mnt-by:         APNIC-HM
+mnt-lower:      APNIC-HM
+mnt-irt:        IRT-APNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2018-06-13T04:29:41Z
+source:         APNIC
+
+irt:            IRT-APNIC-AP
+address:        Brisbane, Australia
+e-mail:         helpdesk@apnic.net
+abuse-mailbox:  helpdesk@apnic.net
+admin-c:        HM20-AP
+tech-c:         NO4-AP
+auth:           # Filtered
+remarks:        APNIC is a Regional Internet Registry.
+remarks:        We do not operate the referring network and
+remarks:        are unable to investigate complaints of network abuse.
+remarks:        For information about IRT, see www.apnic.net/irt
+mnt-by:         APNIC-HM
+last-modified:  2019-02-14T05:37:22Z
+source:         APNIC
+
+role:           APNIC Hostmaster
+address:        6 Cordelia Street
+address:        South Brisbane
+address:        QLD 4101
+country:        AU
+phone:          +61 7 3858 3100
+fax-no:         +61 7 3858 3199
+e-mail:         helpdesk@apnic.net
+admin-c:        AMS11-AP
+tech-c:         AH256-AP
+nic-hdl:        HM20-AP
+remarks:        Administrator for APNIC
+notify:         hostmaster@apnic.net
+mnt-by:         MAINT-APNIC-AP
+last-modified:  2013-10-23T04:06:51Z
+source:         APNIC
+
+person:         APNIC Network Operations
+address:        6 Cordelia Street
+address:        South Brisbane
+address:        QLD 4101
+country:        AU
+phone:          +61 7 3858 3100
+fax-no:         +61 7 3858 3199
+e-mail:         netops@apnic.net
+nic-hdl:        NO4-AP
+remarks:        Administrator for APNIC Network Operations
+notify:         netops@apnic.net
+mnt-by:         MAINT-APNIC-AP
+last-modified:  2010-12-17T01:17:45Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

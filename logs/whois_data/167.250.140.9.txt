@@ -1,0 +1,48 @@
+[Querying whois.arin.net]
+[Redirected to whois.lacnic.net]
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:09:25-03:00
+
+inetnum:     167.250.140.0/22
+aut-num:     AS265201
+abuse-c:     JADHM
+owner:       MEGANET SERVICOS DE COMUNICACAO E MULTIMIDIA LTDA
+ownerid:     12.959.395/0001-33
+responsible: Jardel Alves Dantas de Holanda
+country:     BR
+owner-c:     JADHM
+tech-c:      JADHM
+inetrev:     167.250.140.0/22
+nserver:     ns1.jhnet.net.br [lame - not published]
+nsstat:      20190313 UH
+nslastaa:    20180528
+nserver:     ns2.jhnet.net.br [lame - not published]
+nsstat:      20190313 UH
+nslastaa:    20180528
+created:     20151216
+changed:     20151216
+
+nic-hdl-br:  JADHM
+person:      J A DANTAS DE HOLANDA - ME
+e-mail:      jhnet@jhnet.net.br
+country:     BR
+created:     20140214
+changed:     20160607
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

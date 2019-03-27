@@ -1,0 +1,46 @@
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:09:39-03:00
+
+inetnum:     177.73.200.0/21
+aut-num:     AS262773
+abuse-c:     LLGFI
+owner:       OndaNet Ltda
+ownerid:     09.248.450/0001-72
+responsible: Leonardo de Lima Gomes Filho
+country:     BR
+owner-c:     LLGFI
+tech-c:      LLGFI
+inetrev:     177.73.200.0/21
+nserver:     ns1.entrenaonda.com.br
+nsstat:      20190311 AA
+nslastaa:    20190311
+nserver:     ns2.entrenaonda.com.br
+nsstat:      20190311 AA
+nslastaa:    20190311
+created:     20121226
+changed:     20121226
+
+nic-hdl-br:  LLGFI
+person:      Leonardo de Lima Gomes Filho
+e-mail:      leofilhopb@gmail.com
+country:     BR
+created:     20070207
+changed:     20100827
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

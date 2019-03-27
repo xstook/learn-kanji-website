@@ -1,0 +1,60 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '211.149.128.0 - 211.149.255.255'
+
+% Abuse contact for '211.149.128.0 - 211.149.255.255' is 'noc@west263.com'
+
+inetnum:        211.149.128.0 - 211.149.255.255
+netname:        WEST263
+descr:          Chengdu west dimension digital technology Co., LTD
+descr:          RoomA005, Floor4£¬Tianxiang Building,No.90,
+descr:          Wanhe Road,Qingyang District, Chengdu, China
+country:        CN
+admin-c:        YJ1994-AP
+tech-c:         WX1752-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-WEST263
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2018-03-28T06:52:42Z
+source:         APNIC
+
+irt:            IRT-WEST263
+address:        RoomA005, Floor4Tianxiang Building,No.90,
+e-mail:         dyp@west263.com
+abuse-mailbox:  noc@west263.com
+admin-c:        YJ1994-AP
+tech-c:         WX1752-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2018-03-29T02:13:05Z
+source:         APNIC
+
+person:         Wang XianLian
+address:        RoomA005, Floor4£¬Tianxiang Building,No.90,
+address:        Wanhe Road,Qingyang District, Chengdu, China
+country:        CN
+phone:          +86-028-86263960
+e-mail:         sjwxl@west263.com
+nic-hdl:        WX1752-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-05-10T02:26:01Z
+source:         APNIC
+
+person:         Yang Jun
+address:        RoomA005, Floor4£¬Tianxiang Building,No.90,
+address:        Wanhe Road,Qingyang District, Chengdu, China
+country:        CN
+phone:          +86-028-86263960
+e-mail:         yang.j@west263.com
+nic-hdl:        YJ1994-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2012-05-10T02:26:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

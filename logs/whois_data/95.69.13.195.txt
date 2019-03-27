@@ -1,0 +1,57 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.69.0.0 - 95.69.63.255'
+
+% Abuse contact for '95.69.0.0 - 95.69.63.255' is 'abuse@tmn.pt'
+
+inetnum:        95.69.0.0 - 95.69.63.255
+netname:        PT-TMN-200901
+descr:          MEO Mobile Customers
+country:        PT
+admin-c:        TMN4-RIPE
+tech-c:         TMN4-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-TMN
+created:        2009-01-09T14:19:57Z
+last-modified:  2014-02-28T16:42:49Z
+source:         RIPE
+
+role:           TMN Network Management
+address:        Local Internet Registry Management
+address:        MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+address:        Av. Fontes Pereira de Melo, 40 - 3 Bl A
+address:        Forum Picoas - 1069-300 Lisboa
+address:        Portugal
+admin-c:        PC14515-RIPE
+admin-c:        AA2895-RIPE
+tech-c:         MP8913-RIPE
+tech-c:         AF4174-RIPE
+abuse-mailbox:  abuse@tmn.pt
+nic-hdl:        TMN4-RIPE
+mnt-by:         MNT-TMN
+created:        2006-01-09T19:17:21Z
+last-modified:  2016-07-14T09:55:15Z
+source:         RIPE # Filtered
+
+% Information related to '95.69.0.0/17AS42863'
+
+route:          95.69.0.0/17
+descr:          MEO Address Space
+origin:         AS42863
+mnt-by:         MNT-TMN
+created:        2009-01-26T17:00:00Z
+last-modified:  2014-02-28T16:57:51Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

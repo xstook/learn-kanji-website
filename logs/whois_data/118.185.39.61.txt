@@ -1,0 +1,49 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '118.185.32.1 - 118.185.47.254'
+
+% Abuse contact for '118.185.32.1 - 118.185.47.254' is 'Amit.Tank@vodafone.com'
+
+inetnum:        118.185.32.1 - 118.185.47.254
+netname:        VODAFONE-STATIC-CUSTOMER
+descr:          This space is statically assigned to Vodafone customer
+country:        IN
+admin-c:        VES201-AP
+tech-c:         VES201-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-VODAFONE-FLDS-IN
+mnt-irt:        IRT-VODAFONE-FLDS-IN
+last-modified:  2017-07-27T07:28:09Z
+source:         APNIC
+
+irt:            IRT-VODAFONE-FLDS-IN
+address:        India Bulls Finance Centre, Tower 2&3, 7th floor,Ãâ�, Elphinstone Road (West)-Mumbai Maharas
+e-mail:         Amit.Tank@vodafone.com
+abuse-mailbox:  Amit.Tank@vodafone.com
+admin-c:        VMSL2-AP
+tech-c:         VMSL2-AP
+auth:           # Filtered
+mnt-by:         MAINT-VODAFONE-FLDS-IN
+last-modified:  2017-04-19T02:37:06Z
+source:         APNIC
+
+role:           VODAFONE ESSAR SPACETEL LIMITED
+address:        C48 Okhla Industrial Estate, New Delhi-110020
+country:        IN
+phone:          +91-20-71714178
+fax-no:         +91-22-2498 6789
+e-mail:         kerwin.mendes@vodafone.com
+abuse-mailbox:  antiabuse.ipnoc@vodafone.com
+admin-c:        UJ201-AP
+tech-c:         UJ201-AP
+nic-hdl:        VES201-AP
+mnt-by:         MAINT-VODAFONE-NET-IN
+last-modified:  2017-07-27T06:34:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

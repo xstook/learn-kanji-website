@@ -1,0 +1,57 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '37.156.5.0 - 37.156.5.255'
+
+% Abuse contact for '37.156.5.0 - 37.156.5.255' is 'marius.nicolae@axynet.ro'
+
+inetnum:        37.156.5.0 - 37.156.5.255
+netname:        ELY-COM-SRL
+descr:          ELY COM SRL
+descr:          Str. Poiana Mare, Nr.33
+descr:          Com. Glodeni Dimbovita Romania
+country:        ro
+admin-c:        VG4032-RIPE
+tech-c:         VG4032-RIPE
+abuse-c:        ECS126-RIPE
+status:         ASSIGNED PA
+remarks:        Registered through http://www.ip.ro/ip.html
+mnt-by:         RO-MNT
+mnt-lower:      RO-MNT
+mnt-routes:     ELY-COM-MNT
+created:        2015-01-21T07:48:57Z
+last-modified:  2017-11-02T08:08:25Z
+source:         RIPE
+
+person:         VASILE GHEORGHE
+address:        ELY COM SRL
+address:        Str. Poiana Mare, Nr.33
+address:        Com. Glodeni Dimbovita Romania
+phone:          +40.762621139
+nic-hdl:        VG4032-RIPE
+mnt-by:         ELY-COM-MNT
+created:        2013-10-29T11:48:39Z
+last-modified:  2018-01-03T20:21:40Z
+source:         RIPE # Filtered
+
+% Information related to '37.156.5.0/24AS62343'
+
+route:          37.156.5.0/24
+descr:          SC ELY COM SRL
+origin:         AS62343
+mnt-by:         ELY-COM-MNT
+created:        2015-01-21T07:48:57Z
+last-modified:  2015-01-21T07:48:57Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

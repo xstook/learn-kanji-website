@@ -1,0 +1,68 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.212.88.0 - 103.212.91.255'
+
+% Abuse contact for '103.212.88.0 - 103.212.91.255' is 'netwayinternetservices@gmail.com'
+
+inetnum:        103.212.88.0 - 103.212.91.255
+netname:        NETWAY
+descr:          Netway Internet Pvt Ltd
+admin-c:        MS1996-AP
+tech-c:         IA231-AP
+country:        IN
+mnt-by:         MAINT-IN-IRINN
+mnt-irt:        IRT-NETWAY-IN
+mnt-routes:     MAINT-IN-NETWAY
+status:         ASSIGNED PORTABLE
+last-modified:  2016-03-29T11:04:20Z
+source:         APNIC
+
+irt:            IRT-NETWAY-IN
+address:        42, Krishna Nagar, Meerut Road,,Ghaziabad,Uttar Pradesh-201001
+e-mail:         netwayinternetservices@gmail.com
+abuse-mailbox:  netwayinternetservices@gmail.com
+admin-c:        MS1996-AP
+tech-c:         IA231-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-NETWAY
+last-modified:  2016-03-28T11:14:54Z
+source:         APNIC
+
+role:           IP ADMIN
+address:        42, Krishna Nagar, Meerut Road,,Ghaziabad,Uttar Pradesh-201001
+country:        IN
+phone:          +91 8447749229
+e-mail:         netwayinternetservices@gmail.com
+admin-c:        MS1996-AP
+tech-c:         MS1996-AP
+nic-hdl:        IA231-AP
+mnt-by:         MAINT-IN-NETWAY
+last-modified:  2016-03-28T11:13:27Z
+source:         APNIC
+
+person:         MohitPal Singh
+address:        42, Krishna Nagar, Meerut Road,,Ghaziabad,Uttar Pradesh-201001
+country:        IN
+phone:          +91 8447749229
+e-mail:         netwayinternetservices@gmail.com
+nic-hdl:        MS1996-AP
+mnt-by:         MAINT-IN-NETWAY
+last-modified:  2016-03-28T10:54:52Z
+source:         APNIC
+
+% Information related to '103.212.91.0/24AS135223'
+
+route:          103.212.91.0/24
+descr:          Netway Internet Pvt Ltd
+origin:         AS135223
+mnt-by:         MAINT-IN-NETWAY
+mnt-routes:     MAINT-IN-NETWAY
+last-modified:  2017-11-21T11:16:29Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

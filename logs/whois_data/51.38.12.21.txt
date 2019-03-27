@@ -1,0 +1,69 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '51.38.12.20 - 51.38.12.23'
+
+% Abuse contact for '51.38.12.20 - 51.38.12.23' is 'abuse@intrinsec.com'
+
+inetnum:        51.38.12.20 - 51.38.12.23
+netname:        OVH_174270882
+country:        FR
+descr:          Failover Ips
+org:            ORG-CG192-RIPE
+admin-c:        OTC2-RIPE
+tech-c:         OTC2-RIPE
+status:         LEGACY
+mnt-by:         OVH-MNT
+created:        2018-04-04T13:02:25Z
+last-modified:  2018-04-04T13:02:25Z
+source:         RIPE
+
+organisation:   ORG-CG192-RIPE
+org-name:       Abuse.intrinsec.com Site Abuse
+org-type:       OTHER
+address:        215 Av Georges Clemenceau
+address:        92000 Nanterre
+address:        FR
+phone:          +33.141917777
+abuse-c:        ACRO7415-RIPE
+mnt-ref:        OVH-MNT
+mnt-by:         OVH-MNT
+created:        2017-06-15T08:41:11Z
+last-modified:  2017-10-30T14:44:49Z
+source:         RIPE # Filtered
+
+role:           OVH Technical Contact
+address:        OVH SAS
+address:        2 rue Kellermann
+address:        59100 Roubaix
+address:        France
+admin-c:        OK217-RIPE
+tech-c:         GM84-RIPE
+tech-c:         SL10162-RIPE
+nic-hdl:        OTC2-RIPE
+abuse-mailbox:  abuse@ovh.net
+mnt-by:         OVH-MNT
+created:        2004-01-28T17:42:29Z
+last-modified:  2014-09-05T10:47:15Z
+source:         RIPE # Filtered
+
+% Information related to '51.38.0.0/16AS16276'
+
+route:          51.38.0.0/16
+origin:         AS16276
+mnt-by:         OVH-MNT
+created:        2018-03-07T09:21:14Z
+last-modified:  2018-03-07T09:21:14Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

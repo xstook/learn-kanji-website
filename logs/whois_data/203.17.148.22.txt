@@ -1,0 +1,68 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.17.148.0 - 203.17.151.255'
+
+% Abuse contact for '203.17.148.0 - 203.17.151.255' is 'abuse@bendigotelco.com.au'
+
+inetnum:        203.17.148.0 - 203.17.151.255
+netname:        BCT-AU
+descr:          Bendigo Community Telco Limited
+descr:          23 Mclaren Street, Bendigo Victoria 3550
+country:        AU
+org:            ORG-BCTL1-AP
+admin-c:        BCTL1-AP
+tech-c:         BCTL1-AP
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-BCT-AU
+mnt-irt:        IRT-BCT-AU
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2017-10-12T13:05:16Z
+source:         APNIC
+
+irt:            IRT-BCT-AU
+address:        23 Mclaren Street, Bendigo Victoria 3550
+e-mail:         abuse@bendigotelco.com.au
+abuse-mailbox:  abuse@bendigotelco.com.au
+admin-c:        BCTL1-AP
+tech-c:         BCTL1-AP
+auth:           # Filtered
+mnt-by:         MAINT-BCT-AU
+last-modified:  2013-11-07T04:04:54Z
+source:         APNIC
+
+organisation:   ORG-BCTL1-AP
+org-name:       Bendigo Community Telco Limited
+country:        AU
+address:        23 Mclaren Street
+phone:          +61 35 4545 0000
+fax-no:         +61 35 4545 0001
+e-mail:         abuse@bendigotelco.com.au
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-10-12T12:56:30Z
+source:         APNIC
+
+role:           Bendigo Community Telco Limited administrator
+address:        23 Mclaren Street, Bendigo Victoria 3550
+country:        AU
+phone:          +61 35 4545 0000
+fax-no:         +61 35 4545 0000
+e-mail:         abuse@bendigotelco.com.au
+admin-c:        BCTL1-AP
+tech-c:         BCTL1-AP
+nic-hdl:        BCTL1-AP
+mnt-by:         MAINT-BCT-AU
+last-modified:  2013-11-07T04:04:53Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

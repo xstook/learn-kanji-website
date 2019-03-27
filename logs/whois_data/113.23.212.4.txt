@@ -1,0 +1,75 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.23.128.0 - 113.23.255.255'
+
+% Abuse contact for '113.23.128.0 - 113.23.255.255' is 'abuse@extremebb.net'
+
+inetnum:        113.23.128.0 - 113.23.255.255
+netname:        EXTREME
+descr:          Extreme Broadband Sdn. Bhd.,
+descr:          Network Service Provider
+descr:          Malaysia
+country:        MY
+org:            ORG-EB2-AP
+admin-c:        NOC19-AP
+tech-c:         NOC19-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-irt:        IRT-EXTREMEBB-MY
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-MY-EXBB
+last-modified:  2017-09-26T23:29:25Z
+source:         APNIC
+
+irt:            IRT-EXTREMEBB-MY
+address:        34B, Jalan Diplomatik 3/1
+address:        Precinct 15, Putrajaya
+address:        Wilayah Persekutuan
+address:        Malaysia
+e-mail:         noc@extremebb.net
+abuse-mailbox:  abuse@extremebb.net
+admin-c:        NOC19-AP
+tech-c:         NOC19-AP
+auth:           # Filtered
+mnt-by:         MAINT-MY-EXBB
+last-modified:  2016-05-05T08:39:00Z
+source:         APNIC
+
+organisation:   ORG-EB2-AP
+org-name:       Extreme Broadband
+country:        MY
+address:        34B, Jalan Diplomatik 3/1,
+address:        Precinct 15,
+phone:          +60-3-88888188
+fax-no:         +60-3-88881119
+e-mail:         tac@extremebb.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-09-11T12:56:17Z
+source:         APNIC
+
+person:         Network Operation Center
+address:        Extreme Broadband HQ
+country:        MY
+phone:          +60388888188
+fax-no:         +60388881119
+e-mail:         noc@extremebb.net
+nic-hdl:        NOC19-AP
+remarks:        For routing problems with this ASN contact noc[at]extremebb.net.
+remarks:        For network abuse, please send email to abuse[at]extremebb.net
+notify:         noc@extremebb.net
+abuse-mailbox:  abuse@extremebb.net
+mnt-by:         MAINT-MY-EXBB
+last-modified:  2011-09-07T12:13:45Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

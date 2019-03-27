@@ -1,0 +1,57 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '178.156.82.0 - 178.156.83.254'
+
+% Abuse contact for '178.156.82.0 - 178.156.83.254' is 'abuse@servihosting.es'
+
+inetnum:        178.156.82.0 - 178.156.83.254
+netname:        CMPOHERMOSO-NET
+descr:          WIMACON COMUNICACIONES,S.L.
+country:        ES
+geoloc:         36.96251177659809 -2.206878662109375
+admin-c:        JMLS40-RIPE
+tech-c:         JMLS40-RIPE
+status:         ASSIGNED PA
+mnt-by:         SERVIHOSTING-MNT
+created:        2017-09-01T13:57:30Z
+last-modified:  2017-09-01T13:57:30Z
+source:         RIPE
+
+person:         Jose Morales
+address:        30820 Alcantarilla/Murcia
+phone:          +34868088788
+phone:          +34664441704
+nic-hdl:        JMLS40-RIPE
+mnt-by:         SERVIHOSTING-MNT
+created:        2014-08-21T12:31:24Z
+last-modified:  2016-10-10T08:26:40Z
+source:         RIPE
+
+% Information related to '178.156.80.0/20AS29119'
+
+route:          178.156.80.0/20
+descr:          ServiHosting Networks S.L.
+descr:          Alicante Allocation
+remarks:        **********************************************
+remarks:        |        For ABUSE/SPAM/SCANS issues         |
+remarks:        |    send mail to abuse@servihosting.es      |
+remarks:        |    or Fax at number +34.966980352          |
+remarks:        **********************************************
+origin:         AS29119
+mnt-by:         SERVIHOSTING-MNT
+created:        2010-08-25T10:17:30Z
+last-modified:  2010-08-25T10:17:30Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

@@ -1,0 +1,85 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.70.100.0 - 109.70.100.64'
+
+% Abuse contact for '109.70.100.0 - 109.70.100.64' is 'abuse@appliedprivacy.net'
+
+inetnum:        109.70.100.0 - 109.70.100.64
+netname:        TOR-EXIT--FOUNDATION-FOR-APPLIED-PRIVACY
+remarks:        Sent abuse emails to: abuse@appliedprivacy.net
+country:        AT
+org:            ORG-PRIV3-RIPE
+admin-c:        OPER1-RIPE
+tech-c:         OPER1-RIPE
+abuse-c:        ATF13-RIPE
+status:         ASSIGNED PA
+remarks:        ---------------------------------
+remarks:        This network is used for research
+remarks:        in anonymization services and
+remarks:        provides Tor exit nodes to end
+remarks:        users.
+remarks:        https://appliedprivacy.net/abuse
+remarks:        ---------------------------------
+remarks:        Dieser Netzblock wird zur
+remarks:        Erforschung von Anonymisierungs-
+remarks:        techniken genutzt und stellt
+remarks:        Endnutzern Tor Exit Nodes zur Verfuegung.
+remarks:
+remarks:        https://appliedprivacy.net/de/abuse
+remarks:        ---------------------------------
+mnt-by:         NEXTLAYER-MNT
+mnt-by:         AS1764-MNT
+created:        2018-05-28T07:26:24Z
+last-modified:  2018-05-28T07:27:40Z
+source:         RIPE # Filtered
+
+organisation:   ORG-PRIV3-RIPE
+org-name:       Foundation for Applied Privacy
+descr:          ZVR: 1254016365
+org-type:       OTHER
+address:        Favoritenstrasse 16, 1. Stock
+address:        1040 Wien, Austria
+abuse-c:        ATF13-RIPE
+mnt-ref:        NEXTLAYER-MNT
+mnt-ref:        AS1764-MNT
+mnt-by:         NEXTLAYER-MNT
+mnt-by:         AS1764-MNT
+created:        2018-04-13T13:17:07Z
+last-modified:  2018-04-18T12:10:46Z
+source:         RIPE # Filtered
+
+person:         Operations Team
+org:            ORG-PRIV3-RIPE
+address:        Favoritenstrasse 16, 1. Stock
+address:        1040 Wien, Austria
+phone:          +43 681 10895330
+nic-hdl:        OPER1-RIPE
+mnt-by:         NEXTLAYER-MNT
+mnt-by:         AS1764-MNT
+created:        2018-04-13T13:06:41Z
+last-modified:  2018-04-16T06:36:18Z
+source:         RIPE
+
+% Information related to '109.70.100.0/24AS1764'
+
+route:          109.70.100.0/24
+origin:         AS1764
+mnt-by:         NEXTLAYER-MNT
+mnt-by:         YELLOW
+mnt-by:         AS1764-MNT
+created:        2018-06-28T08:36:26Z
+last-modified:  2018-06-28T08:36:26Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

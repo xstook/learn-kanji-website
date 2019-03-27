@@ -1,0 +1,82 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.200.0.0 - 113.201.255.255'
+
+% Abuse contact for '113.200.0.0 - 113.201.255.255' is 'hqs-ipabuse@chinaunicom.cn'
+
+inetnum:        113.200.0.0 - 113.201.255.255
+netname:        CNCGROUP-SN
+descr:          China Unicom Shannxi Province Network
+descr:          China Unicom
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         CH679-AP
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-SN
+mnt-routes:     MAINT-CNCGROUP-RR
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-irt:        IRT-CU-CN
+last-modified:  2016-05-04T00:15:35Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         hqs-ipabuse@chinaunicom.cn
+abuse-mailbox:  hqs-ipabuse@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2017-10-23T05:59:13Z
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         hqs-ipabuse@chinaunicom.cn
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2017-08-17T06:13:16Z
+source:         APNIC
+
+person:         CNCGroup-SN Hostmaster
+nic-hdl:        CH679-AP
+e-mail:         quyj@china-netcom.com
+address:        China Network Communication ,SVT
+address:        NO.2 GuangDe Road, High Tec Zone
+address:        Xi'an, Shannxi, China
+phone:          +86-29-88192060
+fax-no:         +86-29-88192037
+country:        CN
+mnt-by:         MAINT-CNCGROUP-SN
+last-modified:  2008-09-04T07:35:34Z
+source:         APNIC
+
+% Information related to '113.200.0.0/15AS4837'
+
+route:          113.200.0.0/15
+descr:          CNC Group CHINA169 Shannxi Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2008-12-10T04:26:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

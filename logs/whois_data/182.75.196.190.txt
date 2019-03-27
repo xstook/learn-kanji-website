@@ -1,0 +1,76 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '182.75.196.184 - 182.75.196.191'
+
+% Abuse contact for '182.75.196.184 - 182.75.196.191' is 'ipspamsupport@airtel.com'
+
+inetnum:        182.75.196.184 - 182.75.196.191
+netname:        BLTU-1462296-Chennai
+descr:          LIMRAS ERONET BROADBAND SERVICE PVT LTD
+descr:          n/a
+descr:          18/7 Postal Colony 3rd Street West Mambalam Chennai-600033
+descr:          ,
+descr:          Chennai
+descr:          TAMIL NADU
+descr:          India
+descr:          Contact Person: RAVI P VENKATESH T R M
+descr:          Email: ravi.p@eornet.in
+descr:          Phone: 9381922555
+country:        IN
+admin-c:        NA40-AP
+tech-c:         NA40-AP
+mnt-by:         MAINT-IN-BBIL
+mnt-irt:        IRT-BHARTI-IN
+status:         ASSIGNED NON-PORTABLE
+last-modified:  2015-12-20T11:55:18Z
+source:         APNIC
+
+irt:            IRT-BHARTI-IN
+address:        Bharti Airtel Ltd.
+address:        ISP Division - Transport Network Group
+address:        234 , Okhla Industrial Estate,
+address:        Phase III, New Delhi-110020, INDIA
+e-mail:         ipspamsupport@airtel.com
+abuse-mailbox:  ipspamsupport@airtel.com
+admin-c:        NA40-AP
+tech-c:         NA40-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-BBIL
+last-modified:  2018-08-08T04:49:47Z
+source:         APNIC
+
+person:         Network Administrator
+nic-hdl:        NA40-AP
+e-mail:         noc-dataprov@airtel.com
+address:        Bharti Airtel Ltd.
+address:        ISP Division - Transport Network Group
+address:        Plot no.16 , Udyog Vihar , Phase -IV , Gurgaon - 122015 , Haryana , INDIA
+address:        Phase III, New Delhi-110020, INDIA
+phone:          +91-124-4222222
+fax-no:         +91-124-4244017
+country:        IN
+mnt-by:         MAINT-IN-BBIL
+last-modified:  2018-12-18T12:52:19Z
+source:         APNIC
+
+% Information related to '182.75.0.0/16AS9498'
+
+route:          182.75.0.0/16
+descr:          BHARTI-IN
+descr:          Bharti Airtel Limited
+descr:          Class A ISP in INDIA .
+descr:          Plot No. CP-5,sector-8,
+descr:          IMT Manesar
+descr:          INDIA
+country:        IN
+origin:         AS9498
+mnt-by:         MAINT-IN-BBIL
+last-modified:  2014-09-12T07:02:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

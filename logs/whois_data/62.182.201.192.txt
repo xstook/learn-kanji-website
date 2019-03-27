@@ -1,0 +1,73 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.182.200.0 - 62.182.207.255'
+
+% Abuse contact for '62.182.200.0 - 62.182.207.255' is 'ripenotify@ellcom.ru'
+
+inetnum:        62.182.200.0 - 62.182.207.255
+netname:        DELTATELECOM-NET
+country:        RU
+org:            ORG-LE7-RIPE
+admin-c:        ZAN17-RIPE
+tech-c:         ZAN17-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         ESD-MNT
+mnt-by:         MNT-DELTATELECOM
+mnt-routes:     MNT-DELTATELECOM
+mnt-routes:     ESD-MNT
+mnt-domains:    MNT-DELTATELECOM
+mnt-domains:    ESD-MNT
+created:        2008-04-22T14:05:55Z
+last-modified:  2019-03-01T13:28:50Z
+source:         RIPE
+
+organisation:   ORG-LE7-RIPE
+org-name:       JSC Elektrosvyaz
+org-type:       LIR
+address:        Shamila st.2 v
+address:        367026
+address:        Daghestan,Makhachkala
+address:        RUSSIAN FEDERATION
+phone:          +7 (8722)514444
+phone:          +79034248484
+abuse-c:        AR16649-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        ESD-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         ESD-MNT
+created:        2009-10-26T13:29:25Z
+last-modified:  2017-08-15T10:43:57Z
+source:         RIPE # Filtered
+
+person:         Zapir Abdulmedzhidovich Nasarov
+address:        Russia, 367020, Makhachkala, Kormasova Str., 45
+phone:          +7 8722 681398
+nic-hdl:        ZAN17-RIPE
+created:        2008-04-11T05:33:18Z
+last-modified:  2016-04-06T21:20:28Z
+mnt-by:         RIPE-NCC-LOCKED-MNT
+source:         RIPE
+
+% Information related to '62.182.200.0/21AS45053'
+
+route:          62.182.200.0/21
+descr:          Delta Telecom Ltd.
+origin:         AS45053
+mnt-by:         MNT-DELTATELECOM
+created:        2013-05-16T10:07:59Z
+last-modified:  2013-05-16T10:07:59Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

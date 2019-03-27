@@ -1,0 +1,72 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '93.175.128.0 - 93.175.143.255'
+
+% Abuse contact for '93.175.128.0 - 93.175.143.255' is 'abuse@provector.pl'
+
+inetnum:        93.175.128.0 - 93.175.143.255
+org:            ORG-KPMD2-RIPE
+netname:        PROVECTOR
+remarks:        KSU Provector Network
+country:        PL
+admin-c:        MD7554-RIPE
+tech-c:         MD7554-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         PROVECTOR-MNT
+mnt-routes:     PROVECTOR-MNT
+mnt-domains:    PROVECTOR-MNT
+created:        2008-07-11T13:34:25Z
+last-modified:  2016-04-14T09:06:09Z
+source:         RIPE
+
+organisation:   ORG-KPMD2-RIPE
+org-name:       KSU Provector Mariusz Dziakowicz
+org-type:       LIR
+address:        Pocztowa 6/2
+address:        66-400
+address:        Gorzow Wlkp
+address:        POLAND
+phone:          +48691518218
+fax-no:         +48957151525
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        PROVECTOR-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         PROVECTOR-MNT
+abuse-c:        PLAH1-RIPE
+created:        2009-06-29T14:15:35Z
+last-modified:  2017-11-01T17:45:28Z
+source:         RIPE # Filtered
+
+person:         Mariusz Dziakowicz
+address:        ul. Kochanowskiego 5/10
+address:        66-400 Gorzow Wielkopolski
+phone:          +48691518218
+nic-hdl:        MD7554-RIPE
+created:        2008-07-09T17:25:48Z
+last-modified:  2008-08-15T13:25:28Z
+source:         RIPE # Filtered
+mnt-by:         PROVECTOR-MNT
+
+% Information related to '93.175.128.0/20AS35745'
+
+route:          93.175.128.0/20
+descr:          KSU Provector Network
+origin:         AS35745
+mnt-by:         PROVECTOR-MNT
+created:        2008-07-17T00:58:43Z
+last-modified:  2008-07-17T00:59:35Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

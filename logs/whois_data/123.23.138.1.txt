@@ -1,0 +1,63 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '123.16.0.0 - 123.31.255.255'
+
+% Abuse contact for '123.16.0.0 - 123.31.255.255' is 'hm-changed@vnnic.vn'
+
+inetnum:        123.16.0.0 - 123.31.255.255
+netname:        VNPT-VN
+descr:          Vietnam Posts and Telecommunications Group
+descr:          No 57, Huynh Thuc Khang Street, Lang Ha ward, Dong Da district, Ha Noi City
+country:        VN
+admin-c:        PTH13-AP
+tech-c:         PTH13-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-VN-VNNIC
+mnt-lower:      MAINT-VN-VNPT
+mnt-routes:     MAINT-VN-VNPT
+last-modified:  2018-01-25T03:55:17Z
+mnt-irt:        IRT-VNNIC-AP
+source:         APNIC
+
+irt:            IRT-VNNIC-AP
+address:        Ha Noi, VietNam
+phone:          +84-24-35564944
+fax-no:         +84-24-37821462
+e-mail:         hm-changed@vnnic.vn
+abuse-mailbox:  hm-changed@vnnic.vn
+admin-c:        NTTT1-AP
+tech-c:         NTTT1-AP
+auth:           # Filtered
+mnt-by:         MAINT-VN-VNNIC
+last-modified:  2017-11-08T09:40:06Z
+source:         APNIC
+
+person:         Pham Tien Huy
+address:        VNPT-VN
+country:        VN
+phone:          +84-24-37741604
+e-mail:         huypt@vnpt.vn
+nic-hdl:        PTH13-AP
+mnt-by:         MAINT-VN-VNPT
+last-modified:  2017-11-19T07:06:20Z
+source:         APNIC
+
+% Information related to '123.23.128.0/20AS45899'
+
+route:          123.23.128.0/20
+descr:          VietNam Post and Telecom Corporation (VNPT)
+descr:          VNPT-AS-AP
+country:        VN
+origin:         AS45899
+remarks:        mailto: noc@vnn.vn
+notify:         hm-changed@vnnic.net.vn
+mnt-by:         MAINT-VN-VNPT
+last-modified:  2010-08-10T08:20:16Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

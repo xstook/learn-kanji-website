@@ -1,0 +1,69 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.249.180.0 - 103.249.181.255'
+
+% Abuse contact for '103.249.180.0 - 103.249.181.255' is 'multinetudr@gmail.com'
+
+inetnum:        103.249.180.0 - 103.249.181.255
+netname:        MULTINET-IN
+descr:          Multinet (Udaipur) Private Limited
+descr:          311, Midtown Business Centre,
+descr:          Udaipole, Udaipur - 313001
+descr:          Ph. 0294-5101234
+country:        IN
+admin-c:        MUPL1-AP
+tech-c:         MUPL1-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-IN-IRINN
+mnt-lower:      MAINT-MULTINET-IN
+mnt-routes:     MAINT-MULTINET-IN
+mnt-irt:        IRT-MULTINET-IN
+last-modified:  2015-08-11T04:30:26Z
+source:         APNIC
+
+irt:            IRT-MULTINET-IN
+address:        311, Midtown Business Centre, Udaipole, Udaipur - 313001
+address:        Udaipur, Rajasthan, 31300
+address:        India
+phone:          +91294-5101234
+e-mail:         multinetudr@gmail.com
+abuse-mailbox:  multinetudr@gmail.com
+admin-c:        MUPL1-AP
+tech-c:         MUPL1-AP
+auth:           # Filtered
+mnt-by:         MAINT-MULTINET-IN
+last-modified:  2016-03-04T01:29:55Z
+source:         APNIC
+
+role:           Multinet Udaipur Private Limited Administrator
+address:        311, Midtown Business Centre, Udaipole, Udaipur - 313001
+address:        Udaipur, Rajasthan, 31300
+country:        IN
+phone:          +91294-5101234
+fax-no:         +91294-5101234
+e-mail:         multinetudr@gmail.com
+admin-c:        MUPL1-AP
+tech-c:         MUPL1-AP
+nic-hdl:        MUPL1-AP
+mnt-by:         MAINT-MULTINET-IN
+last-modified:  2014-07-11T08:47:25Z
+source:         APNIC
+
+% Information related to '103.249.181.0/24AS133469'
+
+route:          103.249.181.0/24
+descr:          MULTINET UDAIPUR PVT LTD
+origin:         AS133469
+country:        IN
+mnt-lower:      MAINT-MULTINET-IN
+mnt-routes:     MAINT-MULTINET-IN
+mnt-by:         MAINT-MULTINET-IN
+last-modified:  2014-05-24T16:39:18Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

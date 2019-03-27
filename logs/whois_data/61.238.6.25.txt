@@ -1,0 +1,69 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.238.0.0 - 61.239.255.255'
+
+% Abuse contact for '61.238.0.0 - 61.239.255.255' is 'abuse@hkbn.net'
+
+inetnum:        61.238.0.0 - 61.239.255.255
+netname:        HKBN
+descr:          Hong Kong Broadband Network Ltd
+country:        HK
+org:            ORG-HKBN1-AP
+admin-c:        MH84-AP
+tech-c:         MH84-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-HK-HKBN
+mnt-routes:     MAINT-HK-HKBN
+mnt-irt:        IRT-HKBN-HK
+remarks:        This object can only be modified by APNIC hostmaster
+remarks:        If you wish to modify this object details please
+remarks:        send email to hostmaster@apnic.net with your organisation
+remarks:        account name in the subject line.
+status:         ALLOCATED PORTABLE
+last-modified:  2017-08-30T07:21:43Z
+source:         APNIC
+
+irt:            IRT-HKBN-HK
+address:        15/F Trans Asia Centre
+address:        18 Kin Hong Street, Kwai Chung
+address:        N.T.
+e-mail:         hostmaster@hkbn.com.hk
+abuse-mailbox:  abuse@hkbn.net
+admin-c:        HKBN-HK
+tech-c:         HKBN-HK
+auth:           # Filtered
+mnt-by:         MAINT-HK-HKBN
+last-modified:  2017-10-19T02:38:35Z
+source:         APNIC
+
+organisation:   ORG-HKBN1-AP
+org-name:       Hong Kong Broadband Network Ltd
+country:        HK
+address:        15/F Trans Asia Centre
+address:        18 Kin Hong Street
+phone:          +852-3999-6060
+fax-no:         +852-3999-7774
+e-mail:         nocsn@hkbn.com.hk
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-08-21T12:56:42Z
+source:         APNIC
+
+person:         Master Host
+address:        15/F, 18 Kin Hong Street, Trans Asia Centre, Kwai Chung, Kln
+country:        HK
+phone:          +852-3999-3888
+fax-no:         +852-8167-7020
+e-mail:         hostmaster@hkbn.com.hk
+nic-hdl:        MH84-AP
+mnt-by:         MAINT-HK-HKBN
+abuse-mailbox:  abuse@hkbn.net
+last-modified:  2014-11-11T08:51:41Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

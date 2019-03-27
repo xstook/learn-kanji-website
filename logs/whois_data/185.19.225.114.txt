@@ -1,0 +1,73 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.19.224.0 - 185.19.227.255'
+
+% Abuse contact for '185.19.224.0 - 185.19.227.255' is 'bruno.rocher@ipexia.com'
+
+inetnum:        185.19.224.0 - 185.19.227.255
+netname:        FR-IPEXIA-20130226
+country:        FR
+org:            ORG-IS201-RIPE
+admin-c:        BR2913-RIPE
+tech-c:         BR2913-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         IPEXIA-MNT
+mnt-lower:      IPEXIA-MNT
+mnt-domains:    IPEXIA-MNT
+mnt-routes:     ALPHALINK-MNT
+created:        2013-02-26T12:16:21Z
+last-modified:  2016-05-26T09:39:40Z
+source:         RIPE # Filtered
+
+organisation:   ORG-IS201-RIPE
+org-name:       IPEXIA SAS
+org-type:       LIR
+address:        64 AVENUE LECLERC
+address:        69007
+address:        LYON
+address:        FRANCE
+phone:          +33426841662
+fax-no:         +33472146859
+abuse-c:        AR15287-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        IPEXIA-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         IPEXIA-MNT
+created:        2013-02-20T16:18:59Z
+last-modified:  2016-06-22T15:49:58Z
+source:         RIPE # Filtered
+
+person:         BRUNO ROCHER
+address:        IPEXIA
+address:        4 RUE COLONEL CHAMBONNET
+address:        69500 BRON
+phone:          +33 4 26841662
+nic-hdl:        BR2913-RIPE
+mnt-by:         IPEXIA-MNT
+created:        2013-02-20T17:16:57Z
+last-modified:  2013-02-20T17:16:58Z
+source:         RIPE # Filtered
+
+% Information related to '185.19.224.0/22AS25540'
+
+route:          185.19.224.0/22
+descr:          Global route to ipexia
+origin:         AS25540
+mnt-by:         ALPHALINK-MNT
+created:        2013-03-01T08:34:38Z
+last-modified:  2013-03-01T08:34:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

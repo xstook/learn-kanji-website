@@ -1,0 +1,39 @@
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '196.32.106.0 - 196.32.106.255'
+
+% No abuse contact registered for 196.32.106.0 - 196.32.106.255
+
+inetnum:        196.32.106.0 - 196.32.106.255
+netname:        skyfi
+descr:          Skyfi Internet Solutions (Pty) Ltd
+country:        ZA
+admin-c:        mR40-AFRINIC
+tech-c:         mR40-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         SKYFI-MNT
+source:         AFRINIC # Filtered
+parent:         196.32.96.0 - 196.32.111.255
+
+person:         Michael Ribeiro
+address:        South Africa
+phone:          tel:+82-5031425
+nic-hdl:        MR40-AFRINIC
+mnt-by:         GENERATED-WKPWJFPXXBWMGR5SDAQPXWIVJMCX1H6K-MNT
+source:         AFRINIC # Filtered
+
+% Information related to '196.32.96.0/20AS327984'
+
+route:          196.32.96.0/20
+descr:          Skyfi Internet solutions (PTY) Ltd
+origin:         AS327984
+mnt-by:         SKYFI-MNT
+source:         AFRINIC # Filtered
+
+
+

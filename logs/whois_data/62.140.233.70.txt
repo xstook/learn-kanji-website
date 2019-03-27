@@ -1,0 +1,50 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.140.233.0 - 62.140.233.255'
+
+% Abuse contact for '62.140.233.0 - 62.140.233.255' is 'abuse@fiord.ru'
+
+inetnum:        62.140.233.0 - 62.140.233.255
+netname:        FRYAZINO-NET
+descr:          Fryazino.net
+country:        RU
+admin-c:        FNA12-RIPE
+tech-c:         FNA12-RIPE
+status:         ASSIGNED PA
+mnt-by:         FIORD-MNT
+created:        2010-04-15T11:25:43Z
+last-modified:  2015-07-26T20:54:45Z
+source:         RIPE # Filtered
+
+person:         Fryazino.net Network Administration
+address:        Russia, Moscow region, Fryazino, Mira Avenue, 17
+address:        LLC Fryazinskiy Gorodskoy Informatstionniy Centr
+mnt-by:         FIORD-MNT
+phone:          +7 496 2554000
+nic-hdl:        FNA12-RIPE
+created:        2011-03-01T13:29:52Z
+last-modified:  2017-10-30T22:13:03Z
+source:         RIPE # Filtered
+
+% Information related to '62.140.224.0/19AS28917'
+
+route:          62.140.224.0/19
+descr:          Fiord
+origin:         AS28917
+mnt-by:         FIORD-MNT
+created:        2003-04-04T23:01:16Z
+last-modified:  2015-07-13T20:13:26Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

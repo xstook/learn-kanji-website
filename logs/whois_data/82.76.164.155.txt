@@ -1,0 +1,87 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '82.76.164.0 - 82.76.167.255'
+
+% Abuse contact for '82.76.164.0 - 82.76.167.255' is 'abuse@rcs-rds.ro'
+
+inetnum:        82.76.164.0 - 82.76.167.255
+netname:        RO-RCS-RDS
+descr:          RCS & RDS Business
+descr:          City: Bucuresti
+remarks:        INFRA-AW
+country:        RO
+admin-c:        RDS-RIPE
+tech-c:         RDS-RIPE
+tech-c:         RDS2012-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS8708-MNT
+mnt-lower:      AS8708-MNT
+created:        2016-11-21T07:55:56Z
+last-modified:  2016-11-21T07:55:56Z
+source:         RIPE # Filtered
+
+role:           RCS & RDS NOC
+address:        75 Dr. Staicovici
+address:        Bucharest / ROMANIA
+phone:          +40 314 004 440
+fax-no:         +40 314 004 441
+abuse-mailbox:  abuse@rcs-rds.ro
+admin-c:        GEPU1-RIPE
+admin-c:        VIG10-RIPE
+tech-c:         GEPU1-RIPE
+tech-c:         VIG10-RIPE
+nic-hdl:        RDS-RIPE
+mnt-by:         AS8708-MNT
+remarks:        +--------------------------------------------------------------+
+remarks:        |    ABUSE CONTACT: abuse@rcs-rds.ro IN CASE OF HACK ATTACKS,  |
+remarks:        |    ILLEGAL ACTIVITY, VIOLATION, SCANS, PROBES, SPAM, ETC.    |
+remarks:        | !! PLEASE DO NOT CONTACT OTHER PERSONS FOR THESE PROBLEMS !! |
+remarks:        +--------------------------------------------------------------+
+created:        1970-01-01T00:00:00Z
+last-modified:  2017-07-20T12:31:46Z
+source:         RIPE # Filtered
+
+role:           RCS RDS
+address:        71-75 Dr. Staicovici
+address:        Bucharest / ROMANIA
+phone:          +40 21 30 10 888
+fax-no:         +40 21 30 10 892
+abuse-mailbox:  abuse@rcs-rds.ro
+admin-c:        GEPU1-RIPE
+tech-c:         GEPU1-RIPE
+nic-hdl:        RDS2012-RIPE
+mnt-by:         RDS-MNT
+remarks:        +------------------------------------------------------------+
+remarks:        | Please use ABUSE@RCS-RDS.RO for complaints and only after  |
+remarks:        | you have tried contacting directly our customers according |
+remarks:        | to the details registered in RIPE database.                |
+remarks:        +------------------------------------------------------------+
+remarks:        | DO NOT CALL, FAX, OR CONTACT US BY ANY OTHER MEANS EXCEPT  |
+remarks:        |                    abuse@rcs-rds.ro                        |
+remarks:        +------------------------------------------------------------+
+created:        2012-01-24T08:33:39Z
+last-modified:  2013-05-11T03:16:10Z
+source:         RIPE # Filtered
+
+% Information related to '82.76.0.0/14AS8708'
+
+route:          82.76.0.0/14
+descr:          RDSNET
+origin:         AS8708
+mnt-by:         AS8708-MNT
+created:        2003-07-14T08:23:35Z
+last-modified:  2004-09-09T07:36:42Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

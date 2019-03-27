@@ -1,0 +1,54 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.239.32.0 - 46.239.63.255'
+
+% Abuse contact for '46.239.32.0 - 46.239.63.255' is 'isp@mtel.ba'
+
+inetnum:        46.239.32.0 - 46.239.63.255
+netname:        ADSL-BLOCK-4
+descr:          Internet Service Provider
+descr:          Republika Srpska
+country:        ba
+admin-c:        TS6155-RIPE
+tech-c:         TS6155-RIPE
+status:         ASSIGNED PA
+mnt-by:         TELEKOM-SRPSKE-MNT
+created:        2011-02-11T12:59:00Z
+last-modified:  2011-02-11T13:14:08Z
+source:         RIPE
+
+person:         TS Sysadmin
+address:        Telekom Srpske
+address:        Kralja Petra I Karadjordjevica 93
+address:        Banja Luka 78000
+address:        Bosnia and Herzegovina
+mnt-by:         TELEKOM-SRPSKE-MNT
+phone:          +387 51 211 873
+fax-no:         +387 51 222 730
+nic-hdl:        TS6155-RIPE
+created:        2010-12-17T00:32:10Z
+last-modified:  2013-06-04T13:29:48Z
+source:         RIPE
+
+% Information related to '46.239.32.0/20AS25144'
+
+route:          46.239.32.0/20
+descr:          Telekom Srpske Routes
+origin:         AS25144
+mnt-by:         TELEKOM-SRPSKE-MNT
+created:        2012-04-04T12:57:20Z
+last-modified:  2012-04-04T12:57:20Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

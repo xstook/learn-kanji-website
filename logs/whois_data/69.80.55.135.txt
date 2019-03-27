@@ -1,0 +1,135 @@
+[Querying whois.arin.net]
+[whois.arin.net]
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+
+# start
+
+NetRange:       69.80.0.0 - 69.80.63.255
+CIDR:           69.80.0.0/18
+NetName:        BDS-NET9
+NetHandle:      NET-69-80-0-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS11139
+Organization:   Cable & Wireless (Barbados) Limited (CWBL-1)
+RegDate:        2010-03-23
+Updated:        2012-03-02
+Ref:            https://rdap.arin.net/registry/ip/69.80.0.0
+
+
+OrgName:        Cable & Wireless (Barbados) Limited
+OrgId:          CWBL-1
+Address:        Wildey
+City:           St. Michael
+StateProv:      
+PostalCode:     
+Country:        BB
+RegDate:        2002-10-03
+Updated:        2018-10-11
+Ref:            https://rdap.arin.net/registry/entity/CWBL-1
+
+
+OrgAbuseHandle: CWCCS-ARIN
+OrgAbuseName:   CWC-CSIRT
+OrgAbusePhone:  +4291401 
+OrgAbuseEmail:  cwc-csirt@cwc.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/CWCCS-ARIN
+
+OrgTechHandle: BFMI-ARIN
+OrgTechName:   Mc Intosh, Brent Felix
+OrgTechPhone:  +1-473-441-2360 
+OrgTechEmail:  brent.mcintosh@cwc.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/BFMI-ARIN
+
+OrgTechHandle: SHAST2-ARIN
+OrgTechName:   Shastri Seepaul
+OrgTechPhone:  +1-868-224-2269 
+OrgTechEmail:  sseepaul@cwc.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/SHAST2-ARIN
+
+RAbuseHandle: ER1095-ARIN
+RAbuseName:   Richards, Elon 
+RAbusePhone:  246 437 3491 
+RAbuseEmail:  support@caribsurf.com
+RAbuseRef:    https://rdap.arin.net/registry/entity/ER1095-ARIN
+
+RNOCHandle: ER1095-ARIN
+RNOCName:   Richards, Elon 
+RNOCPhone:  246 437 3491 
+RNOCEmail:  support@caribsurf.com
+RNOCRef:    https://rdap.arin.net/registry/entity/ER1095-ARIN
+
+RTechHandle: ER1095-ARIN
+RTechName:   Richards, Elon 
+RTechPhone:  246 437 3491 
+RTechEmail:  support@caribsurf.com
+RTechRef:    https://rdap.arin.net/registry/entity/ER1095-ARIN
+
+# end
+
+
+# start
+
+NetRange:       69.80.55.0 - 69.80.55.255
+CIDR:           69.80.55.0/24
+NetName:        CWBAR-SVD34
+NetHandle:      NET-69-80-55-0-1
+Parent:         BDS-NET9 (NET-69-80-0-0-1)
+NetType:        Reallocated
+OriginAS:       AS11139
+Organization:   Cable & Wireless (St.Vincent) Limited (CWSL-7)
+RegDate:        2012-08-09
+Updated:        2012-08-09
+Ref:            https://rdap.arin.net/registry/ip/69.80.55.0
+
+
+OrgName:        Cable & Wireless (St.Vincent) Limited
+OrgId:          CWSL-7
+Address:        Halifax Street
+Address:        P.O Box 103
+City:           Kingstown
+StateProv:      
+PostalCode:     
+Country:        VC
+RegDate:        2004-07-15
+Updated:        2018-10-11
+Ref:            https://rdap.arin.net/registry/entity/CWSL-7
+
+
+OrgAbuseHandle: CWCCS-ARIN
+OrgAbuseName:   CWC-CSIRT
+OrgAbusePhone:  +4291401 
+OrgAbuseEmail:  cwc-csirt@cwc.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/CWCCS-ARIN
+
+OrgTechHandle: BFMI1-ARIN
+OrgTechName:   Mc Intosh, Brent Felix
+OrgTechPhone:  +1-473-441-1000 
+OrgTechEmail:  brent.mcintosh@cwc.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/BFMI1-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+

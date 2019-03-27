@@ -1,0 +1,73 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '193.239.124.0 - 193.239.127.255'
+
+% Abuse contact for '193.239.124.0 - 193.239.127.255' is 'ripe@ipartners.pl'
+
+inetnum:        193.239.124.0 - 193.239.127.255
+netname:        RENE-NET
+country:        PL
+org:            ORG-PR9-RIPE
+admin-c:        WK338-RIPE
+tech-c:         WK338-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         IPARTNERS-MNT
+mnt-routes:     IPARTNERS-MNT
+mnt-domains:    IPARTNERS-MNT
+created:        2005-07-12T10:10:44Z
+last-modified:  2016-04-14T08:08:50Z
+source:         RIPE
+sponsoring-org: ORG-ITP1-RIPE
+
+organisation:   ORG-PR9-RIPE
+org-name:       P.P.H. Rene
+org-type:       OTHER
+address:        ul. Kotarbinskiego 6A
+address:        76-200 Slupsk
+address:        Poland
+phone:          +48 59 8417886
+abuse-c:        AR27082-RIPE
+admin-c:        WK338-RIPE
+tech-c:         WK338-RIPE
+mnt-ref:        IPARTNERS-MNT
+mnt-by:         IPARTNERS-MNT
+created:        2005-07-05T14:40:55Z
+last-modified:  2014-11-17T22:29:00Z
+source:         RIPE # Filtered
+
+person:         Wieslaw Kolatowicz
+address:        P.P.H Rene
+address:        ul. Kotarbinskiego 6A
+address:        Slupsk
+phone:          +48 59 8441186
+fax-no:         +48 59 8441186
+nic-hdl:        WK338-RIPE
+created:        2002-07-03T07:11:22Z
+last-modified:  2016-04-06T03:45:45Z
+mnt-by:         RIPE-NCC-LOCKED-MNT
+source:         RIPE # Filtered
+
+% Information related to '193.239.124.0/22AS35306'
+
+route:          193.239.124.0/22
+descr:          P.P.H. Rene, Slupsk
+origin:         AS35306
+mnt-by:         IPARTNERS-MNT
+mnt-lower:      IPARTNERS-MNT
+created:        2005-10-05T23:12:51Z
+last-modified:  2005-10-05T23:12:51Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

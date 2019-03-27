@@ -1,0 +1,23 @@
+[Querying whois.arin.net]
+[Redirected to rwhois.singlehop.net:4321]
+[Querying rwhois.singlehop.net]
+[rwhois.singlehop.net]
+%rwhois V-1.5:003eff:00 rwhois.singlehop.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:ORG-SINGL-8.107-6-169-248/29
+network:Auth-Area:107.6.128.0/18
+network:IP-Network:107.6.169.248/29
+network:Organization:Bitsight Tech
+network:Street-Address:125 Cambridge Park Drive, Suite 204,
+network:City:Cambridge
+network:State:MA
+network:Postal-Code:02140
+network:Country-Code:US
+network:Tech-Contact;I:NETWO1546-ARIN
+network:Admin-Contact;I:NETWO1546-ARIN
+network:Abuse-Contact;I:ABUSE2492-ARIN
+network:Created:20170811
+network:Updated:20170811
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok

@@ -1,0 +1,133 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.154.176.0 - 202.154.191.255'
+
+% Abuse contact for '202.154.176.0 - 202.154.191.255' is 'abuse@vip.net.id'
+
+inetnum:        202.154.176.0 - 202.154.191.255
+netname:        VIP-NET
+descr:          PASIFIK LINTAS BUANA, PT
+descr:          VIP.NET
+descr:          Gedung Elektrindo Lt. 7, Jl. Kuningan Barat No. 8 Jakarta
+country:        ID
+admin-c:        HV12-AP
+tech-c:         HV12-AP
+status:         ALLOCATED PORTABLE
+remarks:        Send Spam and abuse reports to : abuse@vip.net.id
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-VIP
+mnt-irt:        IRT-VIP-ID
+mnt-routes:     MAINT-ID-VIP
+last-modified:  2013-08-23T09:47:51Z
+source:         APNIC
+
+irt:            IRT-VIP-ID
+address:        Jakarta
+e-mail:         abuse@vip.net.id
+abuse-mailbox:  abuse@vip.net.id
+admin-c:        hv12-ap
+tech-c:         hv12-ap
+auth:           # Filtered
+mnt-by:         MAINT-ID-VIP
+last-modified:  2018-05-31T22:30:18Z
+source:         APNIC
+
+person:         HOSTMASTER VIPNET
+nic-hdl:        HV12-AP
+e-mail:         hostmaster@vip.net.id
+address:        Gedung Elektrindo Lt. 7
+address:        Jl. Kuningan Barat No. 8
+address:        Jakarta Selatan
+phone:          +62818885375
+fax-no:         +62818885375
+country:        ID
+mnt-by:         MAINT-ID-VIP
+last-modified:  2008-09-04T07:29:21Z
+source:         APNIC
+
+% Information related to '202.154.187.0/24AS9422'
+
+route:          202.154.187.0/24
+origin:         AS9422
+descr:          Indonesia Network Information Center
+                APJII - Cyber Building 11th Floor
+                Jl. Kuningan Barat No. 8
+mnt-by:         MAINT-SOLNET-ID
+last-modified:  2018-10-03T03:15:21Z
+source:         APNIC
+
+% Information related to '202.154.184.0 - 202.154.187.255'
+
+inetnum:        202.154.184.0 - 202.154.187.255
+netname:        SOLNET-ID
+descr:          PT SOLNET INDONESIA
+descr:          Komp Rafflesia regency Blok E No.1
+descr:          Batam Center
+country:        ID
+admin-c:        HV12-AP
+tech-c:         HV12-AP
+tech-c:         PSI2-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-ID-VIP
+mnt-irt:        IRT-VIP-ID
+mnt-routes:     MAINT-ID-VIP
+last-modified:  2013-08-30T13:25:13Z
+source:         IDNIC
+
+irt:            IRT-VIP-ID
+address:        Jakarta
+e-mail:         abuse@vip.net.id
+abuse-mailbox:  abuse@vip.net.id
+admin-c:        hv12-ap
+tech-c:         hv12-ap
+auth:           # Filtered
+mnt-by:         MAINT-ID-VIP
+last-modified:  2013-08-23T09:44:13Z
+source:         IDNIC
+
+role:           PT SOLNET INDONESIA
+address:        Komp Rafflesia regency Blok E No.1,  Batam Center, Batam - Indonesia
+country:        ID
+phone:          +6597710167
+fax-no:         +6597710167
+e-mail:         apnic@solnet.co.id
+admin-c:        PSI2-AP
+tech-c:         PSI2-AP
+nic-hdl:        PSI2-AP
+mnt-by:         MAINT-SOLNET-ID
+last-modified:  2011-06-28T01:07:16Z
+source:         IDNIC
+
+person:         HOSTMASTER VIPNET
+nic-hdl:        HV12-AP
+e-mail:         hostmaster@vip.net.id
+address:        Gedung Elektrindo Lt. 7
+address:        Jl. Kuningan Barat No. 8
+address:        Jakarta Selatan
+phone:          +62818885375
+fax-no:         +62818885375
+country:        ID
+mnt-by:         MAINT-ID-VIP
+last-modified:  2008-09-04T07:29:21Z
+source:         IDNIC
+
+% Information related to '202.154.184.0/21AS9422'
+
+route:          202.154.184.0/21
+descr:          Route Object of PT SOLNET INDONESIA
+descr:          Internet Service Provider
+descr:          Komp Rafflesia regency Blok E No.1
+descr:          Batam Center
+descr:          Batam - Indonesia
+origin:         AS9422
+country:        ID
+mnt-by:         MAINT-SOLNET-ID
+last-modified:  2013-11-18T04:23:01Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

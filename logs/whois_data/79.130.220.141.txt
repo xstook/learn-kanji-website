@@ -1,0 +1,69 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '79.130.0.0 - 79.130.255.255'
+
+% Abuse contact for '79.130.0.0 - 79.130.255.255' is 'abuse@ote.gr'
+
+inetnum:        79.130.0.0 - 79.130.255.255
+netname:        OTENET
+descr:          Multiprotocol Service Provider to other ISP's and End Users
+descr:          located in Greece and having nodes in 63 cities
+country:        GR
+admin-c:        OIA15-RIPE
+tech-c:         OIA15-RIPE
+remarks:        rev-srv:        ns1.otenet.gr
+remarks:        rev-srv:        ns2.otenet.gr
+status:         ASSIGNED PA
+remarks:        +---------------------------------+
+remarks:        |General enquiries: noc@otenet.gr |
+remarks:        |Abuse & Spam:   abuse@otenet.gr  |
+remarks:        |DNS & RIPE: hostmaster@otenet.gr |
+remarks:        +---------------------------------+
+mnt-by:         OTENET-GR-MNT
+mnt-domains:    OTENET-GR-MNT
+created:        2008-04-16T10:34:09Z
+last-modified:  2009-09-02T21:37:06Z
+source:         RIPE
+remarks:        rev-srv attribute deprecated by RIPE NCC on 02/09/2009
+
+role:           OTENET IP ADM
+address:        OTEnet S.A.
+address:        99 Kifissias Ave, Marousi
+address:        GR-15124 Athens
+address:        Greece
+phone:          +30 210 6110000
+fax-no:         +30 210 8067099
+admin-c:        AV323-RIPE
+tech-c:         PP5896-RIPE
+tech-c:         PZ3132-RIPE
+nic-hdl:        OIA15-RIPE
+abuse-mailbox:  abuse@ote.gr
+remarks:        Please to report spam or abuse use only abuse@ote.gr
+mnt-by:         OTENET-GR-MNT
+mnt-by:         OTE-ADMIN-MNT
+created:        2008-06-12T07:51:22Z
+last-modified:  2016-07-11T11:46:20Z
+source:         RIPE # Filtered
+
+% Information related to '79.130.0.0/16AS6799'
+
+route:          79.130.0.0/16
+descr:          OTEnet
+origin:         AS6799
+mnt-by:         OTENET-GR-MNT
+created:        2007-08-17T07:48:14Z
+last-modified:  2007-08-17T07:48:14Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

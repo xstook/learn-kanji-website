@@ -1,0 +1,86 @@
+[Querying whois.arin.net]
+[whois.arin.net]
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       192.160.102.0 - 192.160.102.255
+CIDR:           192.160.102.0/24
+NetName:        HEXTET
+NetHandle:      NET-192-160-102-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS395089
+Organization:   Hextet Systems (HS-291)
+RegDate:        2015-07-09
+Updated:        2018-01-12
+Ref:            https://rdap.arin.net/registry/ip/192.160.102.0
+
+
+OrgName:        Hextet Systems
+OrgId:          HS-291
+Address:        227 Houde Dr
+City:           Winnipeg
+StateProv:      MB
+PostalCode:     R3V 1C7
+Country:        CA
+RegDate:        2014-10-30
+Updated:        2016-01-28
+Ref:            https://rdap.arin.net/registry/entity/HS-291
+
+
+OrgTechHandle: NETWO7700-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-204-666-2634 
+OrgTechEmail:  noc@hextet.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/NETWO7700-ARIN
+
+OrgNOCHandle: NETWO7700-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-204-666-2634 
+OrgNOCEmail:  noc@hextet.net
+OrgNOCRef:    https://rdap.arin.net/registry/entity/NETWO7700-ARIN
+
+OrgAbuseHandle: ABUSE5339-ARIN
+OrgAbuseName:   Abuse Dept
+OrgAbusePhone:  +1-204-666-2634 
+OrgAbuseEmail:  abuse@hextet.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5339-ARIN
+
+RNOCHandle: NETWO7700-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-204-666-2634 
+RNOCEmail:  noc@hextet.net
+RNOCRef:    https://rdap.arin.net/registry/entity/NETWO7700-ARIN
+
+RTechHandle: NETWO7700-ARIN
+RTechName:   Network Operations
+RTechPhone:  +1-204-666-2634 
+RTechEmail:  noc@hextet.net
+RTechRef:    https://rdap.arin.net/registry/entity/NETWO7700-ARIN
+
+RAbuseHandle: ABUSE5339-ARIN
+RAbuseName:   Abuse Dept
+RAbusePhone:  +1-204-666-2634 
+RAbuseEmail:  abuse@hextet.net
+RAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5339-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+

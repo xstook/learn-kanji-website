@@ -1,0 +1,68 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.20.80.0 - 103.20.83.255'
+
+% Abuse contact for '103.20.80.0 - 103.20.83.255' is 'network@y5net.com.kh'
+
+inetnum:        103.20.80.0 - 103.20.83.255
+netname:        BDKTEL-KH
+descr:          #56, 337 St  Boeung Kak III
+country:        KH
+org:            ORG-BCL7-AP
+admin-c:        BNA18-AP
+tech-c:         BNA18-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-BDKTEL-KH
+mnt-routes:     MAINT-BDKTEL-KH
+mnt-irt:        IRT-BDKTEL-KH
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2019-02-22T04:01:11Z
+source:         APNIC
+
+irt:            IRT-BDKTEL-KH
+address:        #56, St.337, Boeung Kak II, Toul Kok, Phnom Penh
+e-mail:         network@y5net.com.kh
+abuse-mailbox:  network@y5net.com.kh
+admin-c:        BNA18-AP
+tech-c:         BNA18-AP
+auth:           # Filtered
+mnt-by:         MAINT-BDKTEL-KH
+last-modified:  2019-02-25T08:08:12Z
+source:         APNIC
+
+organisation:   ORG-BCL7-AP
+org-name:       BDKTel Co., Ltd.
+country:        KH
+address:        # 56, St.337, Boeung Kak III, Toul Kork
+phone:          +85517738393
+fax-no:         +85517738393
+e-mail:         info@bdktel.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-10-10T12:56:39Z
+source:         APNIC
+
+role:           BDKTEL-KH - NETWORK ADMINISTRATOR
+address:        #56, St.337, Boeung Kak II, Toul Kok, Phnom Penh
+country:        KH
+phone:          +855-17-738393
+e-mail:         piseth.sun@bdktel.com
+admin-c:        BNA18-AP
+tech-c:         BNA18-AP
+nic-hdl:        BNA18-AP
+notify:         piseth.sun@bdktel.com
+mnt-by:         MAINT-BDKTEL-KH
+last-modified:  2016-10-11T15:34:57Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

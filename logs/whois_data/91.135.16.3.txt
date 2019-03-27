@@ -1,0 +1,73 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.135.16.0 - 91.135.16.31'
+
+% Abuse contact for '91.135.16.0 - 91.135.16.31' is 'info@dtg.lv'
+
+inetnum:        91.135.16.0 - 91.135.16.31
+netname:        DTG-DMZ
+org:            ORG-DA137-RIPE
+descr:          DTG DMZ for servers
+country:        LV
+admin-c:        DTG6-RIPE
+tech-c:         DTG6-RIPE
+status:         ASSIGNED PA
+mnt-by:         DTG-MNT
+created:        2007-11-02T11:17:12Z
+last-modified:  2007-11-02T11:17:12Z
+source:         RIPE
+
+organisation:   ORG-DA137-RIPE
+org-name:       SIA "Datu Tehnologiju Grupa"
+org-type:       LIR
+address:        Ganobu Dambis 24a, k.26
+address:        LV-1005
+address:        RIGA
+address:        LATVIA
+phone:          +371 67501421
+fax-no:         +371 67501420
+abuse-c:        AR16088-RIPE
+admin-c:        DTG6-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        DTG-mnt
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         DTG-mnt
+remarks:        Information: http://dtg.lv
+remarks:        routing: mailto:admin@dtg.lv
+created:        2006-09-29T10:11:06Z
+last-modified:  2017-10-30T15:28:54Z
+source:         RIPE # Filtered
+
+person:         Edgars Makna
+address:        DTG
+address:        Ganibu Dambis 24-323
+address:        Riga LV1005
+phone:          +371-67501421
+nic-hdl:        DTG6-RIPE
+mnt-by:         DTG-MNT
+created:        2006-11-14T10:53:56Z
+last-modified:  2015-11-05T07:23:43Z
+source:         RIPE
+
+% Information related to '91.135.16.0/20AS41898'
+
+route:          91.135.16.0/20
+descr:          DTG
+origin:         AS41898
+mnt-by:         DTG-mnt
+created:        2006-11-20T09:59:21Z
+last-modified:  2011-11-15T12:51:46Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

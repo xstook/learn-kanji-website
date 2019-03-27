@@ -1,0 +1,71 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.228.24.0 - 91.228.25.255'
+
+% Abuse contact for '91.228.24.0 - 91.228.25.255' is 'info@kernet.ie'
+
+inetnum:        91.228.24.0 - 91.228.25.255
+netname:        KERBB
+country:        IE
+org:            ORG-KBCL2-RIPE
+admin-c:        DK3369-RIPE
+tech-c:         DK3369-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         IrishWireless-noc
+mnt-routes:     IrishWireless-noc
+mnt-domains:    IrishWireless-noc
+created:        2011-05-20T11:42:37Z
+last-modified:  2016-04-14T09:30:34Z
+source:         RIPE # Filtered
+sponsoring-org: ORG-NL63-RIPE
+
+organisation:   ORG-KBCL2-RIPE
+org-name:       Ker Broadband Communications Ltd
+org-type:       OTHER
+address:        Flemby Bridge
+address:        Ballymacelligott
+address:        Tralee
+address:        Co. Kerry
+address:        IRELAND
+abuse-c:        AC29455-RIPE
+mnt-ref:        IrishWireless-noc
+mnt-by:         IrishWireless-noc
+created:        2011-05-18T16:30:58Z
+last-modified:  2016-02-15T16:36:35Z
+source:         RIPE # Filtered
+
+person:         Danny Kerrin
+address:        Ballymacelligott
+address:        Tralee
+address:        Co. Kerry
+address:        Ireland
+phone:          +353877511004
+nic-hdl:        DK3369-RIPE
+mnt-by:         DK65963-MNT
+created:        2011-05-18T16:15:53Z
+last-modified:  2011-05-18T16:15:54Z
+source:         RIPE # Filtered
+
+% Information related to '91.228.24.0/23AS197957'
+
+route:          91.228.24.0/23
+descr:          Ker Broadband Ltd
+origin:         AS197957
+mnt-by:         irishwireless-noc
+created:        2011-07-27T18:47:53Z
+last-modified:  2011-07-27T18:47:53Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

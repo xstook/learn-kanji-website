@@ -1,0 +1,53 @@
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:09:36-03:00
+
+inetnum:     177.129.24.0/22
+aut-num:     AS53184
+abuse-c:     JEKUN2
+owner:       INB Telecom EIRELI - ME
+ownerid:     04.985.717/0001-90
+responsible: Ivan Bühler
+country:     BR
+owner-c:     INILT17
+tech-c:      JEKUN2
+inetrev:     177.129.24.0/22
+nserver:     dns1.inbnet.com.br
+nsstat:      20190310 AA
+nslastaa:    20190310
+nserver:     dns2.inbnet.com.br
+nsstat:      20190310 AA
+nslastaa:    20190310
+created:     20130424
+changed:     20160812
+
+nic-hdl-br:  INILT17
+person:      INB Informatica LTDA
+e-mail:      ivan@inbtelecom.com.br
+country:     BR
+created:     20070816
+changed:     20160303
+
+nic-hdl-br:  JEKUN2
+person:      JEAN KUNSLER
+e-mail:      jean@inbtelecom.com.br
+country:     BR
+created:     20070909
+changed:     20160830
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

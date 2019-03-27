@@ -1,0 +1,74 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '36.66.112.0 - 36.66.127.255'
+
+% Abuse contact for '36.66.112.0 - 36.66.127.255' is 'abuse@telkom.co.id'
+
+inetnum:        36.66.112.0 - 36.66.127.255
+netname:        TLKM_D2_ASTINET_CUSTOMER_36_66
+descr:          PT TELKOM INDONESIA
+                Menara Multimedia Lt.7
+                Jl. Kebon sirih No.12
+                JAKARTA
+country:        ID
+admin-c:        AZ163-AP
+tech-c:         FS370-AP
+status:         ASSIGNED NON-PORTABLE
+remarks:        These IP was used for PT TELKOM Indonesia's infrastructure
+mnt-by:         MAINT-TELKOMNET
+mnt-lower:      MAINT-TELKOMNET
+mnt-routes:     MAINT-TELKOMNET
+mnt-irt:        IRT-IDTELKOM-ID
+last-modified:  2011-01-31T01:50:05Z
+source:         APNIC
+
+irt:            IRT-IDTELKOM-ID
+address:        PT. TELKOM INDONESIA
+address:        STO Telkom Gambir 3th Floor
+address:        Medan Merdeka Selatan
+address:        JAKARTA
+e-mail:         abuse@telkom.co.id
+abuse-mailbox:  abuse@telkom.co.id
+admin-c:        DF99-AP
+tech-c:         AR165-AP
+auth:           # Filtered
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2015-10-15T05:58:44Z
+source:         APNIC
+
+person:         Akhmad Zaimi
+address:        GSD Lt.14 Jl. Kebon Sirih No.12
+country:        ID
+phone:          +62-21-3860500
+e-mail:         djimie@telkom.co.id
+nic-hdl:        AZ163-AP
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2010-12-20T01:33:46Z
+source:         APNIC
+
+person:         Febrian Setiadi
+address:        GSD Lt 14 Jl. Kebon Sirih No.12
+country:        ID
+phone:          +62-21-3860500
+e-mail:         febrian.setiadi@telkom.co.id
+nic-hdl:        FS370-AP
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2010-12-20T01:30:54Z
+source:         APNIC
+
+% Information related to '36.66.112.0/20AS17974'
+
+route:          36.66.112.0/20
+descr:          PT. Telekomunikasi Indonesia
+country:        ID
+origin:         AS17974
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2013-12-10T08:18:04Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

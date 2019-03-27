@@ -1,0 +1,112 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '93.86.0.0 - 93.87.255.255'
+
+% Abuse contact for '93.86.0.0 - 93.87.255.255' is 'abuse@telekom.rs'
+
+inetnum:        93.86.0.0 - 93.87.255.255
+netname:        RS-TELEKOM-20080312
+country:        RS
+org:            ORG-TS21-RIPE
+admin-c:        GOCA-RIPE
+tech-c:         GDS7-RIPE
+tech-c:         VZ394-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         TELEKOM-MNT
+mnt-lower:      AS8400-MNT
+mnt-lower:      TELEKOM-MNT
+mnt-routes:     TELEKOM-MNT
+mnt-routes:     AS8400-MNT
+created:        2008-03-12T09:15:28Z
+last-modified:  2017-02-01T13:24:57Z
+source:         RIPE # Filtered
+
+organisation:   ORG-TS21-RIPE
+org-name:       TELEKOM SRBIJA a.d.
+org-type:       LIR
+address:        Bulevar umetnosti 16a
+address:        11070
+address:        Belgrade
+address:        SERBIA
+phone:          +381113120124
+fax-no:         +381113120124
+admin-c:        DJDJ-RIPE
+admin-c:        ANAK-RIPE
+admin-c:        ANAV-RIPE
+admin-c:        SSPR-RIPE
+mnt-ref:        TELEKOM-MNT
+mnt-ref:        AS8400-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         TELEKOM-MNT
+abuse-c:        TSA44-RIPE
+created:        2004-04-17T12:25:13Z
+last-modified:  2017-10-30T14:36:12Z
+source:         RIPE # Filtered
+
+person:         Gordana Dubajic Sekulic
+address:        TELEKOM SRBIJA
+address:        Bulevar umetnosti 16a
+address:        11070 Belgrade
+address:        Serbia
+phone:          +381 11 3200 505
+phone:          +381  11 3120221
+fax-no:         +381 11 3120124
+nic-hdl:        GDS7-RIPE
+mnt-by:         TELEKOM-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2010-03-25T09:10:24Z
+source:         RIPE # Filtered
+
+person:         Gordana Dubajic Sekulic
+address:        TELEKOM SRBIJA
+address:        Bulevar umetnosti 16a
+address:        11070 Belgrade
+address:        YUGOSLAVIA
+phone:          +381 11 3200 505
+phone:          +381  11 3120221
+fax-no:         +381 11 3120124
+nic-hdl:        GOCA-RIPE
+mnt-by:         TELEKOM-MNT
+created:        2007-07-24T12:55:41Z
+last-modified:  2010-03-25T09:09:20Z
+source:         RIPE # Filtered
+
+person:         Vesna Zizic
+address:        TELEKOM SRBIJA
+address:        Bulevar umetnosti 16a
+address:        11070 Belgrade
+address:        Serbia
+phone:          +381 11 3200 451
+fax-no:         +381 11 3120 124
+nic-hdl:        VZ394-RIPE
+mnt-by:         TELEKOM-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2010-03-25T09:11:32Z
+source:         RIPE # Filtered
+
+% Information related to '93.86.0.0/15AS8400'
+
+route:          93.86.0.0/15
+descr:          TELEKOM SRBIJA
+descr:          Backbone Network
+origin:         AS8400
+mnt-by:         TELEKOM-MNT
+mnt-by:         AS8400-MNT
+created:        2018-09-03T09:18:11Z
+last-modified:  2018-09-03T09:18:11Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

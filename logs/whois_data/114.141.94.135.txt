@@ -1,0 +1,116 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '114.141.88.0 - 114.141.95.255'
+
+% Abuse contact for '114.141.88.0 - 114.141.95.255' is 'spam@ciputra.biz'
+
+inetnum:        114.141.88.0 - 114.141.95.255
+netname:        CIPUTRA-ID
+descr:          CiputraNet, Surabaya, Indonesia
+descr:          Education, Hospitality, Real Estate Developer
+country:        ID
+admin-c:        CN229-AP
+tech-c:         CN229-AP
+remarks:        Send Spam & Abuse report to: spam@ciputra.biz
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-CIPUTRA
+mnt-routes:     MAINT-ID-CIPUTRA
+status:         ALLOCATED PORTABLE
+mnt-irt:        IRT-CIPUTRA-ID
+last-modified:  2012-09-18T09:52:45Z
+source:         APNIC
+
+irt:            IRT-CIPUTRA-ID
+address:        CiputraNet, Surabaya, Indonesia
+address:        Education, Hospitality, Real Estate Developer
+e-mail:         spam@ciputra.biz
+abuse-mailbox:  spam@ciputra.biz
+admin-c:        CN229-AP
+tech-c:         CN229-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-CIPUTRA
+last-modified:  2018-05-31T22:29:19Z
+source:         APNIC
+
+person:         Ciputra Network
+address:        Office Park #1 CitraLandCity
+address:        Surabaya, East Java
+country:        ID
+phone:          +62-31-7402008
+fax-no:         +62-31-7414618
+e-mail:         hostmaster@ciputra.biz
+nic-hdl:        CN229-AP
+mnt-by:         MAINT-ID-CIPUTRA
+last-modified:  2011-04-29T06:32:02Z
+source:         APNIC
+
+% Information related to '114.141.92.0/22AS38773'
+
+route:          114.141.92.0/22
+descr:          Route object Of CiputraNet
+descr:          Jawa Timur
+country:        ID
+origin:         AS38773
+mnt-by:         MAINT-ID-CIPUTRA
+last-modified:  2011-04-29T17:20:01Z
+source:         APNIC
+
+% Information related to '114.141.88.0 - 114.141.95.255'
+
+inetnum:        114.141.88.0 - 114.141.95.255
+netname:        CIPUTRA-ID
+descr:          CiputraNet, Surabaya, Indonesia
+descr:          Education, Hospitality, Real Estate Developer
+country:        ID
+admin-c:        CN229-AP
+tech-c:         CN229-AP
+remarks:        Send Spam & Abuse report to: spam@ciputra.biz
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-CIPUTRA
+mnt-routes:     MAINT-ID-CIPUTRA
+status:         ALLOCATED PORTABLE
+mnt-irt:        IRT-CIPUTRA-ID
+last-modified:  2012-09-18T09:52:45Z
+source:         IDNIC
+
+irt:            IRT-CIPUTRA-ID
+address:        CiputraNet, Surabaya, Indonesia
+address:        Education, Hospitality, Real Estate Developer
+e-mail:         spam@ciputra.biz
+abuse-mailbox:  spam@ciputra.biz
+admin-c:        CN229-AP
+tech-c:         CN229-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-CIPUTRA
+last-modified:  2011-04-29T08:38:57Z
+source:         IDNIC
+
+person:         Ciputra Network
+address:        Office Park #1 CitraLandCity
+address:        Surabaya, East Java
+country:        ID
+phone:          +62-31-7402008
+fax-no:         +62-31-7414618
+e-mail:         hostmaster@ciputra.biz
+nic-hdl:        CN229-AP
+mnt-by:         MAINT-ID-CIPUTRA
+last-modified:  2011-04-29T06:32:02Z
+source:         IDNIC
+
+% Information related to '114.141.92.0/22AS38773'
+
+route:          114.141.92.0/22
+descr:          Route object Of CiputraNet
+descr:          Jawa Timur
+country:        ID
+origin:         AS38773
+mnt-by:         MAINT-ID-CIPUTRA
+last-modified:  2011-04-29T17:20:01Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

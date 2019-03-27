@@ -1,0 +1,71 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.96.0.0 - 113.111.255.255'
+
+% Abuse contact for '113.96.0.0 - 113.111.255.255' is 'anti-spam@ns.chinanet.cn.net'
+
+inetnum:        113.96.0.0 - 113.111.255.255
+netname:        CHINANET-GD
+descr:          CHINANET Guangdong province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        CH93-AP
+tech-c:         IC83-AP
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-GD
+mnt-routes:     MAINT-CHINANET-GD
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2016-05-04T00:15:17Z
+source:         APNIC
+mnt-irt:        IRT-CHINANET-CN
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+last-modified:  2010-11-15T00:31:55Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2014-02-27T03:37:38Z
+source:         APNIC
+
+person:         IPMASTER CHINANET-GD
+nic-hdl:        IC83-AP
+e-mail:         gdnoc_HLWI@189.cn
+address:        NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU
+phone:          +86-20-87189274
+fax-no:         +86-20-87189274
+country:        CN
+mnt-by:         MAINT-CHINANET-GD
+remarks:        IPMASTER is not for spam complaint,please send spam complaint to abuse_gdnoc@189.cn
+abuse-mailbox:  antispam_gdnoc@189.cn
+last-modified:  2014-09-22T04:41:26Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

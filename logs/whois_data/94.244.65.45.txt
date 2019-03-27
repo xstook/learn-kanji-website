@@ -1,0 +1,75 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '94.244.64.0 - 94.244.127.255'
+
+% Abuse contact for '94.244.64.0 - 94.244.127.255' is 'info@kis.lt'
+
+inetnum:        94.244.64.0 - 94.244.127.255
+netname:        KIS-NET
+country:        LT
+org:            ORG-Uis4-RIPE
+admin-c:        KH2163-RIPE
+tech-c:         KH2163-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         TELECOMLT-MNT
+mnt-routes:     AS8764-MNT
+mnt-domains:    TELECOMLT-MNT
+mnt-by:         KIS-MNT
+mnt-domains:    KIS-MNT
+mnt-routes:     KIS-MNT
+created:        2009-09-09T13:44:44Z
+last-modified:  2016-04-14T09:11:57Z
+source:         RIPE
+sponsoring-org: ORG-LT1-RIPE
+
+organisation:   ORG-Uis4-RIPE
+org-name:       UAB "Kauno interneto sistemos"
+org-type:       OTHER
+address:        Radvilenu pl. 8, Kaunas
+address:        Lithuania
+phone:          +370 37339900
+admin-c:        KH2163-RIPE
+tech-c:         KH2163-RIPE
+abuse-c:        KA4885-RIPE
+mnt-ref:        AS8764-MNT
+mnt-by:         AS8764-MNT
+mnt-ref:        KIS-MNT
+mnt-by:         KIS-MNT
+created:        2005-04-19T12:27:34Z
+last-modified:  2014-04-01T06:04:40Z
+source:         RIPE # Filtered
+
+person:         KIS Hostmaster
+address:        UAB "Kauno interneto sistemos"
+address:        Radvilenu pl. 8, Kaunas, Lithuania
+phone:          +370 37 33 99 00
+nic-hdl:        KH2163-RIPE
+mnt-by:         TELECOMLT-MNT
+mnt-by:         KIS-MNT
+created:        2008-06-19T07:00:08Z
+last-modified:  2009-10-05T05:58:55Z
+source:         RIPE # Filtered
+
+% Information related to '94.244.64.0/18AS25190'
+
+route:          94.244.64.0/18
+descr:          KIS
+origin:         AS25190
+mnt-by:         AS8764-MNT
+created:        2009-09-16T07:39:23Z
+last-modified:  2009-09-16T07:39:23Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

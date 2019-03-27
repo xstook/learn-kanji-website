@@ -1,0 +1,73 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.145.124.0 - 185.145.127.255'
+
+% Abuse contact for '185.145.124.0 - 185.145.127.255' is 'info@sky-en.ru'
+
+inetnum:        185.145.124.0 - 185.145.127.255
+netname:        RU-SKY-EN-20160401
+country:        RU
+org:            ORG-SEL19-RIPE
+admin-c:        KA5807-RIPE
+tech-c:         KA5807-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         ru-sky-en-1-mnt
+mnt-routes:     ru-sky-en-1-mnt
+created:        2016-04-01T14:17:24Z
+last-modified:  2016-12-23T07:08:39Z
+source:         RIPE
+
+organisation:   ORG-SEL19-RIPE
+org-name:       Sky Engineering LLC
+org-type:       LIR
+address:        Sirenevyi boulevard, d.6, kv.180
+address:        142190
+address:        Moscow, Troitsk
+address:        RUSSIAN FEDERATION
+admin-c:        KA5807-RIPE
+tech-c:         KA5807-RIPE
+abuse-c:        AR35897-RIPE
+mnt-ref:        ru-sky-en-1-mnt
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         ru-sky-en-1-mnt
+mnt-ref:        RIPE-NCC-HM-MNT
+created:        2016-03-30T10:31:47Z
+last-modified:  2016-12-23T07:08:44Z
+source:         RIPE # Filtered
+phone:          +74993904442
+
+person:         Kvasov Alexandr
+address:        Sirenevyi boulevard, d.6, kv.180
+address:        142190
+address:        Moscow, Troitsk
+address:        RUSSIAN FEDERATION
+phone:          +7 499 390 44 42
+nic-hdl:        KA5807-RIPE
+mnt-by:         ru-sky-en-1-mnt
+created:        2016-03-30T10:31:46Z
+last-modified:  2016-03-30T10:31:47Z
+source:         RIPE
+
+% Information related to '185.145.126.0/24AS50254'
+
+route:          185.145.126.0/24
+descr:          Sky Engineering LLC
+origin:         AS50254
+mnt-by:         ru-sky-en-1-mnt
+created:        2018-01-23T16:12:19Z
+last-modified:  2018-01-23T16:12:19Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

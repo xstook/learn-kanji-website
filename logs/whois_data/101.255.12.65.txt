@@ -1,0 +1,162 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '101.255.0.0 - 101.255.255.255'
+
+% Abuse contact for '101.255.0.0 - 101.255.255.255' is 'abuse@tachyon.net.id'
+
+inetnum:        101.255.0.0 - 101.255.255.255
+netname:        TACHYON-ID
+descr:          PT Remala Abadi
+descr:          ISP
+descr:          Jakarta
+country:        ID
+admin-c:        BA96-AP
+tech-c:         MNP2-AP
+remarks:        Send Spam & Abuse report to: abuse@tachyon.net.id
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-TACHYON
+mnt-irt:        IRT-ID-TACHYON
+status:         ALLOCATED PORTABLE
+last-modified:  2011-03-02T03:50:11Z
+source:         APNIC
+
+irt:            IRT-ID-TACHYON
+address:        Graha Mustika Ratu.
+address:        JL. Gatot Subroto Kav 74-75
+address:        Jakarta Selatan, 12870, Indonesia
+phone:          +62 21 8611746
+fax-no:         +62 21 84994565
+e-mail:         budi@tachyon.net.id
+abuse-mailbox:  abuse@tachyon.net.id
+admin-c:        BA96-AP
+tech-c:         MNP2-AP
+auth:           # Filtered
+remarks:        emergency phone number +622196165326
+remarks:        timezone GMT+7
+remarks:        http://www.tachyon.net.id
+irt-nfy:        irt@tachyon.net.id
+mnt-by:         MAINT-ID-TACHYON
+last-modified:  2018-05-31T22:29:05Z
+source:         APNIC
+
+person:         Budi Aditya
+address:        JL Kejaksaan 201-202
+address:        Pondok Bambu - 13430, Jakarta - Timur
+address:        DKI - Jakarta, Indonesia
+country:        ID
+phone:          +62-21-8611746
+fax-no:         +62-21-84994564
+e-mail:         hostmaster@tachyon.net.id
+nic-hdl:        BA96-AP
+mnt-by:         MAINT-ID-TACHYON
+last-modified:  2008-09-04T07:35:20Z
+source:         APNIC
+
+person:         M Novel Parisi
+address:        JL Kejaksaan 201-202
+address:        Pondok Bambu - 13430, Jakarta - Timur
+address:        DKI - Jakarta, Indonesia
+country:        ID
+phone:          +62-21-8611746
+fax-no:         +62-21-84994564
+e-mail:         hostmaster@tachyon.net.id
+nic-hdl:        MNP2-AP
+mnt-by:         MAINT-ID-TACHYON
+last-modified:  2008-09-04T07:35:20Z
+source:         APNIC
+
+% Information related to '101.255.0.0/16AS38511'
+
+route:          101.255.0.0/16
+descr:          Route object of PT Remala Abadi
+descr:          Broadband Internet Service Provider
+descr:          Jakarta Selatan
+origin:         AS38511
+country:        ID
+notify:         noc@tachyon.net.id
+mnt-by:         MAINT-ID-TACHYON
+last-modified:  2011-05-26T09:02:45Z
+source:         APNIC
+
+% Information related to '101.255.0.0 - 101.255.255.255'
+
+inetnum:        101.255.0.0 - 101.255.255.255
+netname:        TACHYON-ID
+descr:          PT Remala Abadi
+descr:          ISP
+descr:          Jakarta
+country:        ID
+admin-c:        BA96-AP
+tech-c:         MNP2-AP
+remarks:        Send Spam & Abuse report to: abuse@tachyon.net.id
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-TACHYON
+mnt-irt:        IRT-ID-TACHYON
+status:         ALLOCATED PORTABLE
+last-modified:  2011-03-02T03:50:11Z
+source:         IDNIC
+
+irt:            IRT-ID-TACHYON
+address:        Graha Mustika Ratu.
+address:        JL. Gatot Subroto Kav 74-75
+address:        Jakarta Selatan, 12870, Indonesia
+phone:          +62 21 8611746
+fax-no:         +62 21 84994565
+e-mail:         budi@tachyon.net.id
+abuse-mailbox:  abuse@tachyon.net.id
+admin-c:        BA96-AP
+tech-c:         MNP2-AP
+auth:           # Filtered
+remarks:        emergency phone number +622196165326
+remarks:        timezone GMT+7
+remarks:        http://www.tachyon.net.id
+irt-nfy:        irt@tachyon.net.id
+mnt-by:         MAINT-ID-TACHYON
+last-modified:  2011-01-23T17:24:01Z
+source:         IDNIC
+
+person:         Budi Aditya
+address:        JL Kejaksaan 201-202
+address:        Pondok Bambu - 13430, Jakarta - Timur
+address:        DKI - Jakarta, Indonesia
+country:        ID
+phone:          +62-21-8611746
+fax-no:         +62-21-84994564
+e-mail:         hostmaster@tachyon.net.id
+nic-hdl:        BA96-AP
+mnt-by:         MAINT-ID-TACHYON
+last-modified:  2008-09-04T07:35:20Z
+source:         IDNIC
+
+person:         M Novel Parisi
+address:        JL Kejaksaan 201-202
+address:        Pondok Bambu - 13430, Jakarta - Timur
+address:        DKI - Jakarta, Indonesia
+country:        ID
+phone:          +62-21-8611746
+fax-no:         +62-21-84994564
+e-mail:         hostmaster@tachyon.net.id
+nic-hdl:        MNP2-AP
+mnt-by:         MAINT-ID-TACHYON
+last-modified:  2008-09-04T07:35:20Z
+source:         IDNIC
+
+% Information related to '101.255.0.0/16AS38511'
+
+route:          101.255.0.0/16
+descr:          Route object of PT Remala Abadi
+descr:          Broadband Internet Service Provider
+descr:          Jakarta Selatan
+origin:         AS38511
+country:        ID
+notify:         noc@tachyon.net.id
+mnt-by:         MAINT-ID-TACHYON
+last-modified:  2011-05-26T09:02:45Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

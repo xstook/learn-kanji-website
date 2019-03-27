@@ -1,0 +1,81 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.7.112.0 - 103.7.115.255'
+
+% Abuse contact for '103.7.112.0 - 103.7.115.255' is 'raju@citechco.net'
+
+inetnum:        103.7.112.0 - 103.7.115.255
+netname:        CYBERNET-BD
+descr:          GRAMEEN CYBERNET
+country:        BD
+org:            ORG-GC9-AP
+admin-c:        GM1-AP
+tech-c:         GM1-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-BD-AZHAR
+mnt-routes:     MAINT-BD-AZHAR
+mnt-irt:        IRT-CYBERNET-BD
+status:         ALLOCATED PORTABLE
+last-modified:  2017-12-07T13:02:39Z
+source:         APNIC
+
+irt:            IRT-CYBERNET-BD
+address:        Grameen CyberNet Ltd.
+address:        House#1 Road#80
+address:        Gulshan-2
+address:        Dhaka-1212
+e-mail:         raju@citechco.net
+abuse-mailbox:  raju@citechco.net
+admin-c:        AC553-AP
+tech-c:         AC553-AP
+auth:           # Filtered
+mnt-by:         MAINT-BD-AZHAR
+last-modified:  2011-01-25T10:09:05Z
+source:         APNIC
+
+organisation:   ORG-GC9-AP
+org-name:       GRAMEEN CYBERNET
+country:        BD
+address:        R M Center (4th Floor)
+address:        101 Gulshan Avenue
+phone:          +88-02-8812-103
+fax-no:         +88-02-9886-304
+e-mail:         info@citechco.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-12-07T12:56:52Z
+source:         APNIC
+
+person:         Ghulam Mohiuddin
+nic-hdl:        GM1-AP
+e-mail:         mohi@citechco.net
+address:        Grameen CybeNet Ltd
+address:        RM Center 4th Floor, 101 Gulshan Avenue
+address:        Ghulshan-2
+address:        Dhaka-1212
+phone:          +8802 8812103
+fax-no:         +8802 9886304
+country:        BD
+mnt-by:         MAINT-BD-AZHAR
+last-modified:  2011-05-14T11:37:58Z
+source:         APNIC
+
+% Information related to '103.7.112.0/22AS17471'
+
+route:          103.7.112.0/22
+descr:          Grameen Cybernet Ltd.
+origin:         AS17471
+mnt-by:         MAINT-BD-AZHAR
+country:        BD
+mnt-lower:      MAINT-BD-AZHAR
+mnt-routes:     MAINT-BD-AZHAR
+notify:         raju@citechco.net
+last-modified:  2015-12-14T17:03:11Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

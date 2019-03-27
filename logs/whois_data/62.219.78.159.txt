@@ -1,0 +1,75 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.219.78.0 - 62.219.78.255'
+
+% Abuse contact for '62.219.78.0 - 62.219.78.255' is 'abuse@bezeqint.net'
+
+inetnum:        62.219.78.0 - 62.219.78.255
+netname:        LIVE-DNS
+descr:          LIVE-DNS
+country:        IL
+admin-c:        BNT1-RIPE
+tech-c:         BHT2-RIPE
+status:         ASSIGNED PA
+remarks:        please send ABUSE complains to abuse@bezeqint.net
+remarks:        We are more than NO. 1
+mnt-by:         AS8551-MNT
+mnt-lower:      AS8551-MNT
+created:        2005-12-04T13:41:09Z
+last-modified:  2010-10-12T14:22:00Z
+source:         RIPE
+
+role:           BEZEQINT HOSTMASTERS TEAM
+address:        Bezeq International
+address:        40 hashacham st.
+address:        Petach Tikva 49170 Israel
+phone:          +972 1 800014014
+fax-no:         +972 3 9257674
+admin-c:        MR916-RIPE
+tech-c:         LBHM-RIPE
+tech-c:         HMSB-RIPE
+nic-hdl:        BHT2-RIPE
+remarks:        Please Send Spam and Abuse ONLY to abuse@bezeqint.net
+mnt-by:         AS8551-MNT
+created:        2002-10-29T10:01:49Z
+last-modified:  2009-02-15T12:35:43Z
+source:         RIPE # Filtered
+
+role:           BEZEQINT NETWORKING TEAM
+address:        Bezeq International
+address:        40 hashacham st.
+address:        Petach Tikva 49170 Israel
+phone:          +972 1 800014014
+fax-no:         +972 3 9257674
+admin-c:        MR916-RIPE
+tech-c:         MR916-RIPE
+tech-c:         RD1278-RIPE
+nic-hdl:        BNT1-RIPE
+remarks:        Please Send Spam and Abuse ONLY to abuse@bezeqint.net
+mnt-by:         AS8551-MNT
+created:        2005-09-27T12:31:29Z
+last-modified:  2018-12-05T14:57:44Z
+source:         RIPE # Filtered
+
+% Information related to '62.219.64.0/19AS8551'
+
+route:          62.219.64.0/19
+descr:          BEZEQ-INTERNATIONAL
+origin:         AS8551
+mnt-by:         AS8551-MNT
+created:        2002-09-09T08:13:29Z
+last-modified:  2017-04-05T11:15:09Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

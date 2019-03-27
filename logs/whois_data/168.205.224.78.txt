@@ -1,0 +1,48 @@
+[Querying whois.arin.net]
+[Redirected to whois.lacnic.net]
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:09:26-03:00
+
+inetnum:     168.205.224.0/22
+aut-num:     AS264867
+abuse-c:     CLTLT27
+owner:       Click Telecomunicação Ltda ME
+ownerid:     10.682.477/0001-58
+responsible: Pablo Zacarias Silva
+country:     BR
+owner-c:     CLTLT27
+tech-c:      CLTLT27
+inetrev:     168.205.224.0/24
+nserver:     ns1.clicknetbr.com.br
+nsstat:      20190310 AA
+nslastaa:    20190310
+nserver:     ns2.clicknetbr.com.br
+nsstat:      20190310 AA
+nslastaa:    20190310
+created:     20160315
+changed:     20160315
+
+nic-hdl-br:  CLTLT27
+person:      Click Telecomunicação Ltda
+e-mail:      pablozac@gmail.com
+country:     BR
+created:     20140327
+changed:     20160906
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

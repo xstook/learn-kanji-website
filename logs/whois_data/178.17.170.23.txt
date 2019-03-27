@@ -1,0 +1,149 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '178.17.168.0 - 178.17.175.255'
+
+% Abuse contact for '178.17.168.0 - 178.17.175.255' is 'abuse@trabia.com'
+
+inetnum:        178.17.168.0 - 178.17.175.255
+netname:        TRABIA
+descr:          trabia network
+country:        MD
+geoloc:         47.0232 28.837413
+org:            ORG-TN58-RIPE
+admin-c:        TNET-RIPE
+tech-c:         TNET-RIPE
+status:         SUB-ALLOCATED PA
+mnt-irt:        IRT-TRABIA
+mnt-by:         TRABIA-MNT
+created:        2015-10-12T11:08:03Z
+last-modified:  2016-08-19T12:42:39Z
+source:         RIPE
+
+organisation:   ORG-TN58-RIPE
+org-name:       trabia network
+remarks:
+remarks:        European Headquarters operated by:
+address:        I.C.S. Trabia-Network S.R.L.
+address:        Moldova
+remarks:
+remarks:        Asia-Pacific Office operated by:
+address:        Trabia-Network Limited
+address:        Hong Kong
+remarks:
+remarks:        Contact us by:
+remarks:        http://www.trabia.com
+phone:          +373 22 994-994
+phone:          +852 8199-0344
+remarks:
+remarks:        Report abuse by:
+remarks:
+address:        I.C.S. Trabia-Network S.R.L.
+address:        ATTN: Abuse Department
+address:        str. V. Pircalab 52
+address:        2012 Chisinau
+address:        Moldova
+remarks:
+org-type:       OTHER
+admin-c:        TNET-MD
+admin-c:        TNET-HK
+tech-c:         TNET-MD
+tech-c:         TNET-HK
+mnt-ref:        TRABIA-MNT
+mnt-by:         TRABIA-MNT
+created:        2016-08-19T12:17:00Z
+last-modified:  2017-10-30T16:51:52Z
+source:         RIPE # Filtered
+
+role:           trabia network
+remarks:
+remarks:        European Headquarters operated by:
+address:        I.C.S. Trabia-Network S.R.L.
+address:        Moldova
+remarks:
+remarks:        Asia-Pacific Office operated by:
+address:        Trabia-Network Limited
+address:        Hong Kong
+remarks:
+remarks:        Contact us by:
+remarks:        http://www.trabia.com
+phone:          +373 22 994-994
+phone:          +852 8199-0344
+remarks:
+remarks:        Report abuse by:
+abuse-mailbox:  abuse@trabia.com
+remarks:
+address:        I.C.S. Trabia-Network S.R.L.
+address:        ATTN: Abuse Department
+address:        str. V. Pircalab 52
+address:        2012 Chisinau
+address:        Moldova
+remarks:
+nic-hdl:        TNET-RIPE
+admin-c:        TNET-MD
+admin-c:        TNET-HK
+tech-c:         TNET-MD
+tech-c:         TNET-HK
+mnt-by:         TRABIA-MNT
+created:        2006-11-09T16:21:54Z
+last-modified:  2016-08-19T12:24:10Z
+source:         RIPE # Filtered
+
+% Information related to '178.17.160.0/20AS43289'
+
+route:          178.17.160.0/20
+descr:          trabia network
+org:            ORG-TN58-RIPE
+origin:         AS43289
+components:     {178.17.160.0/20^20-24}
+mnt-by:         TRABIA-MNT
+created:        2010-03-23T11:04:22Z
+last-modified:  2016-08-19T12:46:34Z
+source:         RIPE
+
+organisation:   ORG-TN58-RIPE
+org-name:       trabia network
+remarks:
+remarks:        European Headquarters operated by:
+address:        I.C.S. Trabia-Network S.R.L.
+address:        Moldova
+remarks:
+remarks:        Asia-Pacific Office operated by:
+address:        Trabia-Network Limited
+address:        Hong Kong
+remarks:
+remarks:        Contact us by:
+remarks:        http://www.trabia.com
+phone:          +373 22 994-994
+phone:          +852 8199-0344
+remarks:
+remarks:        Report abuse by:
+remarks:
+address:        I.C.S. Trabia-Network S.R.L.
+address:        ATTN: Abuse Department
+address:        str. V. Pircalab 52
+address:        2012 Chisinau
+address:        Moldova
+remarks:
+org-type:       OTHER
+admin-c:        TNET-MD
+admin-c:        TNET-HK
+tech-c:         TNET-MD
+tech-c:         TNET-HK
+mnt-ref:        TRABIA-MNT
+mnt-by:         TRABIA-MNT
+created:        2016-08-19T12:17:00Z
+last-modified:  2017-10-30T16:51:52Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

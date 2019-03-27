@@ -1,0 +1,54 @@
+[Querying whois.lacnic.net]
+[whois.lacnic.net]
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2019-03-13 22:10:08 (-03 -03:00)
+
+inetnum:     190.198/15
+status:      allocated
+aut-num:     N/A
+owner:       CANTV Servicios, Venezuela
+ownerid:     VE-CSVE-LACNIC
+responsible: Alexander Martinez
+address:     Segunda Avenida de los Palos Grandes, 000, Entre Av. Fr
+address:     1060 - Caracas - MI
+country:     VE
+phone:       +58  2095685 [0000]
+owner-c:     LUM
+tech-c:      LUM
+abuse-c:     LUM
+inetrev:     190.198/15
+nserver:     DNS1.CANTV.NET  
+nsstat:      20190313 AA
+nslastaa:    20190313
+nserver:     DNS2.CANTV.NET  
+nsstat:      20190313 TIMEOUT
+nslastaa:    20190308
+created:     20070613
+changed:     20070613
+
+nic-hdl:     LUM
+person:      Alexander Martinez
+e-mail:      ipadmin@CANTV.NET
+address:     CANTV COR Los Palos Grandes- Chacao, Caracas Venezuela, 000, -
+address:     1060 - Caracas - MI
+country:     VE
+phone:       +58  2122095685 [0]
+created:     20020911
+changed:     20170308
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,57 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.104.120.0 - 185.104.120.63'
+
+% Abuse contact for '185.104.120.0 - 185.104.120.63' is 'abuse@brasshorncommunications.uk'
+
+inetnum:        185.104.120.0 - 185.104.120.63
+netname:        BrassHornComms-Tor-Relays
+descr:          /26 used for public and member sponsored Tor (torproject.org) relays
+descr:          -----------------
+descr:          Exit relays operate the following exit policy;
+descr:          ExitPolicy reject *:25 # WHOIS
+descr:          ExitPolicy accept *:* # DNS
+descr:          ExitPolicy reject6 *:25 # finger, HTTP
+descr:          ExitPolicy accept6 *:* # kerberos
+descr:          -----------------
+descr:          If you have concerns about traffic originating from this subnet please see https://www.torproject.org/about/overview.html.en
+country:        GB
+admin-c:        BHC5-RIPE
+tech-c:         BHC5-RIPE
+status:         ASSIGNED PA
+mnt-by:         BrassHornCommsMntner
+created:        2018-04-11T15:24:17Z
+last-modified:  2018-04-11T15:24:17Z
+source:         RIPE
+
+role:           Brass Horn Comms NOC
+address:        Department 31, 105 London St
+address:        RG1 4QD, UK
+nic-hdl:        BHC5-RIPE
+mnt-by:         BrassHornCommsMntner
+created:        2016-02-04T17:25:11Z
+last-modified:  2017-03-02T21:53:22Z
+source:         RIPE # Filtered
+
+% Information related to '185.104.120.0/24AS28715'
+
+route:          185.104.120.0/24
+descr:          Brass Horn Communications
+origin:         AS28715
+mnt-by:         BrassHornCommsMntner
+created:        2018-09-09T20:50:23Z
+last-modified:  2018-09-09T20:50:23Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

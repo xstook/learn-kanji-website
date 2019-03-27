@@ -1,0 +1,77 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '125.165.16.0 - 125.165.31.255'
+
+% Abuse contact for '125.165.16.0 - 125.165.31.255' is 'abuse@telkom.co.id'
+
+inetnum:        125.165.16.0 - 125.165.31.255
+netname:        TLKM_D1_BB_SPEEDY_MDN
+country:        ID
+descr:          PT TELKOM INDONESIA
+descr:          Menara Multimedia Lt. 7
+descr:          Jl. Kebonsirih No.12
+descr:          JAKARTA
+admin-c:        AR165-AP
+tech-c:         HM444-AP
+remarks:        -----------------------------------------------------------
+remarks:        Broadband Service for Medan (Sumatera Utara).
+remarks:        ** These IP was used dinamically for end user. **
+remarks:        Send ABUSE and SPAM reports with plain ASCII text only to
+remarks:        to abuse@telkom.net.id.
+remarks:        The netname enclosed in square bracket is included in the subject.
+remarks:        -----------------------------------------------------------
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2009-02-13T10:21:21Z
+source:         APNIC
+mnt-by:         MAINT-TELKOMNET
+
+role:           PT Telkom Indonesia APNIC Resources Management
+address:        PT. TELKOM INDONESIA
+address:        Menara Multimedia Lt. 7
+address:        Jl. Kebonsirih No.12
+address:        JAKARTA
+country:        ID
+phone:          +62-21-3860500
+fax-no:         +62-21-3861215
+e-mail:         ip-admin@telkom.net.id
+admin-c:        HM444-AP
+tech-c:         HM444-AP
+nic-hdl:        AR165-AP
+notify:         hostmaster@telkom.net.id
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2008-09-04T07:54:16Z
+source:         APNIC
+
+person:         PT Telkom Indonesia Hostmaster
+nic-hdl:        HM444-AP
+e-mail:         hostmaster@telkom.net.id
+address:        PT. TELKOM INDONESIA
+address:        Menara Multimedia Lt. 7
+address:        Jl. Kebonsirih No.12
+address:        JAKARTA
+phone:          +62-21-3860500
+fax-no:         +62-21-3861215
+country:        ID
+notify:         hostmaster@telkom.net.id
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2008-09-04T07:29:40Z
+source:         APNIC
+
+% Information related to '125.165.24.0/21AS17974'
+
+route:          125.165.24.0/21
+descr:          PT. TELKOM INDONESIA
+descr:          JAKARTA
+country:        ID
+origin:         AS17974
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2015-05-27T03:33:21Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

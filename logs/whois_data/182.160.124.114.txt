@@ -1,0 +1,79 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '182.160.124.0 - 182.160.124.255'
+
+% Abuse contact for '182.160.124.0 - 182.160.124.255' is 'abuse.networks@aamra.com.bd'
+
+inetnum:        182.160.124.0 - 182.160.124.255
+netname:        DEPZPOP-1
+descr:          Assigned for Dhaka EPZ POP Customers
+country:        BD
+admin-c:        SA119-AP
+tech-c:         MR240-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-BD-AAMRA
+mnt-irt:        IRT-AAMRA-BD
+last-modified:  2011-05-22T07:55:00Z
+source:         APNIC
+
+irt:            IRT-AAMRA-BD
+address:        Safura Tower (12th floor),
+address:        20 Kemal Ataturk Avenue,
+address:        Banani C/A,
+address:        Dhaka,
+e-mail:         abuse.networks@aamra.com.bd
+abuse-mailbox:  abuse.networks@aamra.com.bd
+admin-c:        SA119-AP
+tech-c:         MR240-AP
+auth:           # Filtered
+mnt-by:         MAINT-BD-AAMRA
+last-modified:  2014-10-01T09:19:10Z
+source:         APNIC
+
+person:         Mahbubor Rahman
+nic-hdl:        MR240-AP
+e-mail:         mahbub.rahman@aamra.com.bd
+address:        Safura Tower (12th Floor),
+address:        20 Kemal Ataturk Avenue,
+address:        Banani C/A, Dhaka - 1213
+address:        Bangladesh
+phone:          +880-2-9841100
+fax-no:         +880-2-9840077
+country:        BD
+mnt-by:         MAINT-BD-AAMRA
+last-modified:  2014-10-01T09:31:05Z
+source:         APNIC
+
+person:         Syed Faruque Ahmed
+nic-hdl:        SA119-AP
+e-mail:         faruque.ahmed@aamra.com.bd
+address:        20 Kemal Ataturk Avenue,
+address:        Safura Tower (12th floor),
+address:        Banani C/A,
+address:        Dhaka,
+address:        Bangladesh.
+phone:          +880-288-61100
+fax-no:         +880-288-50044
+country:        BD
+mnt-by:         MAINT-BD-AAMRA
+last-modified:  2017-02-01T04:29:32Z
+source:         APNIC
+
+% Information related to '182.160.124.0/24AS24323'
+
+route:          182.160.124.0/24
+origin:         AS24323
+descr:          Aamra Networks Limited
+                20 Kemal Ataturk Avenue,
+                Safura Tower (12th floor)
+                Banani Commercial Area
+mnt-by:         MAINT-BD-AAMRA
+last-modified:  2017-02-01T03:54:51Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

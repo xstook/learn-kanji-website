@@ -1,0 +1,43 @@
+[Querying whois.nic.br]
+[whois.nic.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:10:23-03:00
+
+%  Query rate limit exceeded. Reduced information.
+%  Use https://registro.br/cgi-bin/nicbr/busca_dominio for domain availability.
+
+inetnum:     200.252.200.64/26
+aut-num:     AS4230
+abuse-c:     GSE6
+owner:       E G L FINGER EIRELI -ME
+ownerid:     16.869.016/0001-75
+responsible: ELAINE GONÇALVES LIMA FINGER
+owner-c:     ELFIN6
+tech-c:      ELFIN6
+created:     20150701
+changed:     20150701
+inetnum-up:  200.252.0.0/16
+
+nic-hdl-br:  ELFIN6
+person:      Elaine Finger
+created:     20140207
+changed:     20190218
+
+nic-hdl-br:  GSE6
+person:      Grupo de Segurança Internet da Embratel
+created:     20001005
+changed:     20181227
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

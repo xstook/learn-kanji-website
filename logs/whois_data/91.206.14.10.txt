@@ -1,0 +1,82 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.206.14.0 - 91.206.14.255'
+
+% Abuse contact for '91.206.14.0 - 91.206.14.255' is 'abuse@selectel.ru'
+
+inetnum:        91.206.14.0 - 91.206.14.255
+netname:        SELECTEL-NET
+descr:          Selectel Network
+country:        RU
+admin-c:        TL5407-RIPE
+admin-c:        KS9134-RIPE
+admin-c:        CMH-RIPE
+tech-c:         SA32710-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-SELECTEL
+created:        2019-02-18T15:02:22Z
+last-modified:  2019-02-18T15:02:22Z
+source:         RIPE
+
+role:           SELECTEL-NOC
+address:        Russia, Saint-Petersburg, Cvetochnaya st. 21
+nic-hdl:        SA32710-RIPE
+mnt-by:         mnt-selectel
+created:        2015-01-19T15:40:16Z
+last-modified:  2015-01-19T15:40:16Z
+source:         RIPE # Filtered
+
+person:         Cyrill Malevanov
+address:        Selectel Ltd
+address:        Cvetochnaya st. 21
+address:        190000, Saint-Petersburg
+address:        Russia
+phone:          +78126778036
+fax-no:         +78126778036
+nic-hdl:        CMH-RIPE
+mnt-by:         mnt-selectel
+created:        2005-10-24T12:00:08Z
+last-modified:  2015-01-19T15:37:28Z
+source:         RIPE # Filtered
+
+person:         Kirill Sizov
+address:        190000, Russia, Saint-Petersburg, Tsvetochnaya 21A
+phone:          +78126778036
+org:            ORG-SL223-RIPE
+nic-hdl:        KS9134-RIPE
+mnt-by:         MNT-SELECTEL
+created:        2017-04-17T17:07:36Z
+last-modified:  2017-04-17T17:07:36Z
+source:         RIPE # Filtered
+
+person:         Tatyana Litvinova
+address:        190000, Russia, Saint-Petersburg, Tsvetochnaya 21A
+phone:          +78126778036
+nic-hdl:        TL5407-RIPE
+mnt-by:         MNT-SELECTEL
+created:        2018-02-01T13:19:15Z
+last-modified:  2018-02-01T13:19:15Z
+source:         RIPE
+
+% Information related to '91.206.14.0/23AS49505'
+
+route:          91.206.14.0/23
+descr:          Selectel Route Object
+origin:         AS49505
+mnt-by:         MNT-SELECTEL
+created:        2019-02-18T15:02:22Z
+last-modified:  2019-02-18T15:02:22Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

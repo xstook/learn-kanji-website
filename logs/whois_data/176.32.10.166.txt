@@ -1,0 +1,102 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '176.32.8.0 - 176.32.15.255'
+
+% Abuse contact for '176.32.8.0 - 176.32.15.255' is 'michael@vinnitsa.com'
+
+inetnum:        176.32.8.0 - 176.32.15.255
+org:            ORG-VA18-RIPE
+netname:        UA-VINPORT-20110520
+country:        UA
+admin-c:        VINC
+admin-c:        MY900-RIPE
+tech-c:         SV900-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         VNTPNET-MNT
+mnt-routes:     VNTPNET-MNT
+created:        2011-05-20T15:11:32Z
+last-modified:  2017-07-13T09:59:53Z
+source:         RIPE # Filtered
+
+organisation:   ORG-VA18-RIPE
+org-name:       Telecommunication Company Vinteleport Ltd.
+org-type:       LIR
+address:        14 B Kievskaya St.
+address:        21009
+address:        Vinnitsa
+address:        Ukraine
+phone:          +380432554101
+fax-no:         +380432554110
+abuse-c:        AR17468-RIPE
+admin-c:        SV900-RIPE
+admin-c:        MY900-RIPE
+mnt-ref:        VNTPNET-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         VNTPNET-MNT
+created:        2004-04-17T12:10:24Z
+last-modified:  2017-07-13T09:59:54Z
+source:         RIPE # Filtered
+
+role:           Vinteleport company ROLE
+address:        Vinteleport
+address:        14 B Kievskaya st.
+address:        Vinnitsa, 21032, Ukraine
+phone:          +380 432 554101
+fax-no:         +380 432 554110
+admin-c:        VINC
+admin-c:        MY900-RIPE
+tech-c:         SV900-RIPE
+nic-hdl:        VINC
+mnt-by:         VNTPNET-MNT
+created:        2003-12-02T15:12:58Z
+last-modified:  2003-12-02T15:26:34Z
+source:         RIPE # Filtered
+
+person:         Michael Yakorev
+address:        14 B Kievskaya st.
+address:        Vinnitsa, 21032, Ukraine
+phone:          +380 432 554101
+fax-no:         +380 432 554110
+remarks:        Please send abuse notification to abuse@vinnitsa.com
+nic-hdl:        MY900-RIPE
+mnt-by:         VNTPNET-MNT
+created:        2002-07-29T16:48:58Z
+last-modified:  2002-07-29T16:48:58Z
+source:         RIPE # Filtered
+
+person:         Svetlana Chernysh
+address:        14 B Kievskaya st.
+address:        Vinnitsa, 21032, Ukraine
+phone:          +380 432 554107
+fax-no:         +380 432 554110
+remarks:        Please send abuse notification to abuse@vinnitsa.com
+nic-hdl:        SV900-RIPE
+mnt-by:         VNTPNET-MNT
+created:        2002-07-29T16:48:58Z
+last-modified:  2002-07-29T16:48:58Z
+source:         RIPE # Filtered
+
+% Information related to '176.32.8.0/21AS24945'
+
+route:          176.32.8.0/21
+descr:          Vinteleport Delegated Block
+origin:         AS24945
+mnt-by:         VNTPNET-MNT
+created:        2011-05-23T06:58:56Z
+last-modified:  2011-05-23T06:58:56Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

@@ -1,0 +1,102 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '59.153.80.0 - 59.153.83.255'
+
+% Abuse contact for '59.153.80.0 - 59.153.83.255' is 'baba@globalteknologi.co.id'
+
+inetnum:        59.153.80.0 - 59.153.83.255
+netname:        JURAGANNET-ID
+descr:          PT Surya Global Teknologi
+descr:          Corporate / Direct Member IDNIC
+descr:          Gedung Cyber Lt.3A
+descr:          Jl. Kuningan Barat No.8
+descr:          Jakarta 12710
+country:        ID
+admin-c:        AP21-AP
+tech-c:         AP21-AP
+remarks:        Send Spam & Abuse Reports to: abuse@juragan.net
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-JURAGAN
+mnt-irt:        IRT-JURAGAN-ID
+status:         ASSIGNED PORTABLE
+last-modified:  2017-06-08T06:57:57Z
+source:         APNIC
+
+irt:            IRT-JURAGAN-ID
+address:        PT Surya Global Teknologi
+address:        Gedung Cyber Lt.3A
+address:        Jl. Kuningan Barat No.8
+address:        Jakarta 12710
+e-mail:         baba@globalteknologi.co.id
+abuse-mailbox:  baba@globalteknologi.co.id
+admin-c:        AP21-AP
+tech-c:         AP21-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-JURAGAN
+last-modified:  2018-05-31T22:29:19Z
+source:         APNIC
+
+person:         Ayatullah Pascka Permana Salim
+nic-hdl:        AP21-AP
+e-mail:         baba@globalteknologi.co.id
+address:        Jln. Kamal Raya No. 12
+address:        Jakarta - 11730
+phone:          +62-21-555-2804
+fax-no:         +62-21-555-2804
+country:        ID
+mnt-by:         MAINT-ID-JURAGAN
+last-modified:  2014-03-06T09:17:02Z
+source:         APNIC
+
+% Information related to '59.153.80.0 - 59.153.83.255'
+
+inetnum:        59.153.80.0 - 59.153.83.255
+netname:        JURAGANNET-ID
+descr:          PT Surya Global Teknologi
+descr:          Corporate / Direct Member IDNIC
+descr:          Gedung Cyber Lt.3A
+descr:          Jl. Kuningan Barat No.8
+descr:          Jakarta 12710
+country:        ID
+admin-c:        AP21-AP
+tech-c:         AP21-AP
+remarks:        Send Spam & Abuse Reports to: abuse@juragan.net
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-JURAGAN
+mnt-irt:        IRT-JURAGAN-ID
+status:         ASSIGNED PORTABLE
+last-modified:  2017-06-08T06:57:57Z
+source:         IDNIC
+
+irt:            IRT-JURAGAN-ID
+address:        PT Surya Global Teknologi
+address:        Gedung Cyber Lt.3A
+address:        Jl. Kuningan Barat No.8
+address:        Jakarta 12710
+e-mail:         baba@globalteknologi.co.id
+abuse-mailbox:  baba@globalteknologi.co.id
+admin-c:        AP21-AP
+tech-c:         AP21-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-JURAGAN
+last-modified:  2014-03-18T08:38:58Z
+source:         IDNIC
+
+person:         Ayatullah Pascka Permana Salim
+nic-hdl:        AP21-AP
+e-mail:         baba@globalteknologi.co.id
+address:        Jln. Kamal Raya No. 12
+address:        Jakarta - 11730
+phone:          +62-21-555-2804
+fax-no:         +62-21-555-2804
+country:        ID
+mnt-by:         MAINT-ID-JURAGAN
+last-modified:  2014-03-06T09:17:02Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

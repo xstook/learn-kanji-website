@@ -1,0 +1,59 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '123.192.0.0 - 123.195.255.255'
+
+% Abuse contact for '123.192.0.0 - 123.195.255.255' is 'hostmaster@twnic.net.tw'
+
+inetnum:        123.192.0.0 - 123.195.255.255
+netname:        TUNGHO-NET
+descr:          TUNG HO MULTIMEDIA CO. Ltd.
+descr:          6F,No.42, Kuanchien Rd., Chungcheng  District,.
+descr:          Taipei Taiwan 100
+country:        TW
+admin-c:        VL198-AP
+tech-c:         VL198-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-TW-TWNIC
+mnt-irt:        IRT-TWNIC-AP
+mnt-lower:      MAINT-TW-TWNIC
+mnt-routes:     MAINT-TW-TWNIC
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+last-modified:  2015-12-01T22:23:49Z
+source:         APNIC
+
+irt:            IRT-TWNIC-AP
+address:        Taipei, Taiwan, 100
+e-mail:         hostmaster@twnic.net.tw
+abuse-mailbox:  hostmaster@twnic.net.tw
+admin-c:        TWA2-AP
+tech-c:         TWA2-AP
+auth:           # Filtered
+remarks:        Please note that TWNIC is not an ISP and is not empowered
+remarks:        to investigate complaints of network abuse.
+mnt-by:         MAINT-TW-TWNIC
+last-modified:  2015-10-08T07:58:24Z
+source:         APNIC
+
+person:         vincent Lin
+nic-hdl:        VL198-AP
+e-mail:         cm.manager@ethome.com.tw
+address:        6F,No.42, Kuanchien Rd., Chungcheng  District, Taipei City, Taiwan, R.O.C.
+address:        Taipei City, 100, R.O.C
+phone:          +886-2-8791-0168 ext. 1228
+fax-no:         +886-2-8791-2255
+country:        TW
+mnt-by:         MAINT-TW-TWNIC
+last-modified:  2008-09-04T07:46:11Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

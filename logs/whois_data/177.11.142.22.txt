@@ -1,0 +1,53 @@
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:09:35-03:00
+
+inetnum:     177.11.136.0/21
+aut-num:     AS53209
+abuse-c:     FAF206
+owner:       Mantiqueira Tecnologia Ltda.
+ownerid:     05.354.631/0001-22
+responsible: Felipe de Assis Bodevan
+country:     BR
+owner-c:     FEABO
+tech-c:      FAF206
+inetrev:     177.11.142.0/24
+nserver:     ns1.raimax.com.br
+nsstat:      20190312 AA
+nslastaa:    20190312
+nserver:     ns2.raimax.com.br
+nsstat:      20190312 AA
+nslastaa:    20190312
+created:     20120723
+changed:     20181107
+
+nic-hdl-br:  FEABO
+person:      Felipe de Assis Bodevan
+e-mail:      felipebodevan@hotmail.com
+country:     BR
+created:     20070910
+changed:     20150726
+
+nic-hdl-br:  FAF206
+person:      Fábio Fárias
+e-mail:      farias@bgpconsultoria.com.br
+country:     BR
+created:     20010723
+changed:     20170424
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

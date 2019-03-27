@@ -1,0 +1,79 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.53.88.0 - 185.53.88.255'
+
+% Abuse contact for '185.53.88.0 - 185.53.88.255' is 'abuse@cloudstar.is'
+
+inetnum:        185.53.88.0 - 185.53.88.255
+netname:        CLOUDSTAR-NL-NV-DEDI-02
+descr:          CLOUD STAR HOSTING SERVICES
+country:        NL
+geoloc:         52.6921234 6.1937187
+admin-c:        SS27964-RIPE
+tech-c:         SS27964-RIPE
+org:            ORG-CSHS2-RIPE
+status:         ASSIGNED PA
+mnt-by:         CLOUDSTAR-MNT
+mnt-domains:    CLOUDSTAR-MNT
+mnt-routes:     CLOUDSTAR-MNT
+remarks:        Send all abuse complaints to abuse@cloudstar.is
+created:        2018-11-29T16:14:29Z
+last-modified:  2018-11-29T16:14:29Z
+source:         RIPE
+
+organisation:   ORG-CSHS2-RIPE
+org-name:       CLOUD STAR HOSTING SERVICES
+org-type:       OTHER
+address:        29 Laugavegur Reykjavik Iceland 101
+abuse-c:        CSHS1-RIPE
+mnt-ref:        CLOUDSTAR-MNT
+mnt-by:         CLOUDSTAR-MNT
+created:        2015-08-16T15:08:21Z
+last-modified:  2018-02-20T06:28:56Z
+source:         RIPE # Filtered
+
+person:         Steinn Sighvatsson
+address:        29 Laugavegur Reykjavik Iceland 101
+phone:          +3544584448
+nic-hdl:        SS27964-RIPE
+mnt-by:         CLOUDSTAR-MNT
+created:        2015-08-16T15:02:33Z
+last-modified:  2018-02-26T16:17:11Z
+source:         RIPE # Filtered
+
+% Information related to '185.53.88.0/24AS209299'
+
+route:          185.53.88.0/24
+origin:         AS209299
+descr:          VITOX TELECOM
+org:            ORG-VTX1-RIPE
+mnt-by:         VITOX-MNT
+created:        2019-03-04T17:15:20Z
+last-modified:  2019-03-04T17:15:20Z
+source:         RIPE
+
+organisation:   ORG-VTX1-RIPE
+org-name:       VITOX TELECOM
+org-type:       OTHER
+address:        1, Mangu Panna, Village Jaunti, Delhi 110081 India and NETHERLANDS
+address:        NETHERLANDS ICELAND ROMANIA EUROPE
+geoloc:         52.6921234 6.1937187
+abuse-c:        VTX2-RIPE
+mnt-ref:        VITOX-MNT
+mnt-by:         VITOX-MNT
+created:        2019-02-27T13:42:38Z
+last-modified:  2019-03-13T16:52:42Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

@@ -1,0 +1,58 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '188.211.226.0 - 188.211.227.255'
+
+% Abuse contact for '188.211.226.0 - 188.211.227.255' is 'abuse@netprotect.ro'
+
+inetnum:        188.211.226.0 - 188.211.227.255
+netname:        NETTER-SYSTEM-SRL
+descr:          Netter System SRL
+descr:          Pta.Libertatii 46
+descr:          Cristuru Secuiesc Harghita
+descr:          Romania 535400
+country:        ro
+admin-c:        TM4332-RIPE
+tech-c:         TM4332-RIPE
+status:         ASSIGNED PA
+remarks:        >>>>>>>> registered through: www.netprotect.ro/lir <<<<<<<<
+mnt-by:         ro-netprotect-1-mnt
+mnt-lower:      ro-netprotect-1-mnt
+mnt-routes:     NETTER-SYSTEM-MNT
+created:        2015-07-29T12:43:14Z
+last-modified:  2015-07-29T12:43:14Z
+source:         RIPE # Filtered
+
+person:         TAKACS MIHALY
+address:        Netter System SRL
+address:        Pta.Libertatii 46
+address:        Cristuru Secuiesc Harghita 535400
+phone:          +40.366401121
+fax-no:         +40.366401122
+nic-hdl:        TM4332-RIPE
+mnt-by:         NETTER-SYSTEM-MNT
+created:        2009-12-04T15:29:30Z
+last-modified:  2009-12-04T15:30:48Z
+source:         RIPE # Filtered
+
+% Information related to '188.211.224.0/22AS50336'
+
+route:          188.211.224.0/22
+descr:          Netter System SRL
+origin:         AS50336
+mnt-by:         NETTER-SYSTEM-MNT
+created:        2015-07-21T21:00:38Z
+last-modified:  2015-07-21T21:00:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

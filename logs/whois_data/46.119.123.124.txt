@@ -1,0 +1,79 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.119.123.0 - 46.119.123.255'
+
+% Abuse contact for '46.119.123.0 - 46.119.123.255' is 'abuse@kyivstar.net'
+
+inetnum:        46.119.123.0 - 46.119.123.255
+netname:        DHCP-FTTB-DP-46-119-123-GTUA
+descr:          Golden Telecom
+country:        UA
+org:            ORG-SOGT1-RIPE
+admin-c:        GTUA-RIPE
+tech-c:         GTUA-RIPE
+status:         ASSIGNED PA
+mnt-by:         GTUA-MNT
+mnt-lower:      GTUA-WO-MNT
+mnt-domains:    GTUA-ZONE-MNT
+mnt-routes:     GTUA-RT-MNT
+created:        2011-02-17T15:21:21Z
+last-modified:  2011-02-17T15:21:21Z
+source:         RIPE
+
+organisation:   ORG-SOGT1-RIPE
+org-name:       Golden Telecom LLC
+org-type:       Other
+address:        15/15/6 V. Khvojki str.
+address:        04080
+address:        Kiev
+address:        UKRAINE
+phone:          +380444900000
+fax-no:         +380444900048
+admin-c:        AEL17-RIPE
+admin-c:        NP1533-RIPE
+mnt-ref:        GTUA-MNT
+mnt-ref:        GTUA-MNT
+mnt-by:         GTUA-MNT
+abuse-c:        GTL6-RIPE
+created:        2004-04-17T12:09:58Z
+last-modified:  2015-09-30T09:57:53Z
+source:         RIPE # Filtered
+
+role:           Golden Telecom Ukraine NOC
+address:        Golden Telecom
+address:        4 Lepse blvr
+address:        Kiev, 03067, Ukraine
+phone:          +380 44 4900000
+fax-no:         +380 44 4900048
+remarks:        All abuse notifications have to be sent on:
+abuse-mailbox:  abuse@kyivstar.net
+admin-c:        AEL17-RIPE
+admin-c:        NP1533-RIPE
+nic-hdl:        GTUA-RIPE
+mnt-by:         GTUA-MNT
+created:        2007-07-25T09:02:04Z
+last-modified:  2014-06-17T08:24:26Z
+source:         RIPE # Filtered
+
+% Information related to '46.119.112.0/20AS15895'
+
+route:          46.119.112.0/20
+descr:          Kyivstar GSM, Kiev, Ukraine
+origin:         AS15895
+mnt-by:         GTUA-MNT
+created:        2012-03-21T09:29:14Z
+last-modified:  2012-03-21T09:29:14Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

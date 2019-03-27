@@ -1,0 +1,68 @@
+[Querying whois.arin.net]
+[whois.arin.net]
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       198.167.192.0 - 198.167.223.255
+CIDR:           198.167.192.0/19
+NetName:        1337-NET-KN
+NetHandle:      NET-198-167-192-0-1
+Parent:         NET198 (NET-198-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS54990
+Organization:   1337 Services LLC (SL-206)
+RegDate:        2013-02-11
+Updated:        2013-02-12
+Ref:            https://rdap.arin.net/registry/ip/198.167.192.0
+
+
+OrgName:        1337 Services LLC
+OrgId:          SL-206
+Address:        P.O. Box 590, Springates East, Government Road
+City:           Charlestown
+StateProv:      Nevis
+PostalCode:     
+Country:        KN
+RegDate:        2012-12-11
+Updated:        2012-12-11
+Ref:            https://rdap.arin.net/registry/entity/SL-206
+
+
+OrgTechHandle: WATSO41-ARIN
+OrgTechName:   Watson, Nyahn 
+OrgTechPhone:  +1-869-414-4111 
+OrgTechEmail:  noc@cyberdyne.is
+OrgTechRef:    https://rdap.arin.net/registry/entity/WATSO41-ARIN
+
+OrgAbuseHandle: WATSO41-ARIN
+OrgAbuseName:   Watson, Nyahn 
+OrgAbusePhone:  +1-869-414-4111 
+OrgAbuseEmail:  noc@cyberdyne.is
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/WATSO41-ARIN
+
+OrgNOCHandle: WATSO41-ARIN
+OrgNOCName:   Watson, Nyahn 
+OrgNOCPhone:  +1-869-414-4111 
+OrgNOCEmail:  noc@cyberdyne.is
+OrgNOCRef:    https://rdap.arin.net/registry/entity/WATSO41-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+

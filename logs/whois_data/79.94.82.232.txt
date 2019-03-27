@@ -1,0 +1,77 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '79.94.64.0 - 79.94.95.255'
+
+% Abuse contact for '79.94.64.0 - 79.94.95.255' is 'abuse@gaoland.net'
+
+inetnum:        79.94.64.0 - 79.94.95.255
+netname:        SFR-USER-DATA
+descr:          DSL - End users
+country:        FR
+admin-c:        LD699-RIPE
+tech-c:         LDC76-RIPE
+status:         ASSIGNED PA
+mnt-by:         LDCOM-MNT
+created:        2016-04-14T15:32:36Z
+last-modified:  2016-04-14T15:32:36Z
+source:         RIPE
+
+role:           SFR Legal Contact
+address:        Campus SFR
+address:        12 rue Jean-Philippe Rameau
+address:        CS 80001
+address:        93634 La-Plaine-Saint-Denis Cedex
+address:        France
+phone:          +33 1 70 18 52 00
+admin-c:        LDC76-RIPE
+admin-c:        BEO13-RIPE
+tech-c:         RB14609-RIPE
+tech-c:         BEO13-RIPE
+nic-hdl:        LD699-RIPE
+abuse-mailbox:  abuse@gaoland.net
+mnt-by:         LDCOM-MNT
+created:        2003-10-23T09:15:54Z
+last-modified:  2017-09-05T09:03:05Z
+source:         RIPE # Filtered
+
+role:           LDCOM Networks Tech Contact
+address:        SFR
+address:        CAMPUS SFR
+address:        12 rue Jean-Philippe Rameau
+address:        CS 80001
+address:        93634 La Plaine Saint-Denis Cedex
+address:        France
+phone:          +33 1 70 18 52 00
+admin-c:        LD699-RIPE
+admin-c:        LM5867-RIPE
+admin-c:        BEO13-RIPE
+tech-c:         DG1056-RIPE
+nic-hdl:        LDC76-RIPE
+abuse-mailbox:  abuse@gaoland.net
+mnt-by:         LDCOM-MNT
+created:        2001-12-20T14:34:14Z
+last-modified:  2016-12-14T09:33:06Z
+source:         RIPE # Filtered
+
+% Information related to '79.80.0.0/12AS15557'
+
+route:          79.80.0.0/12
+descr:          LDCOM-NET
+origin:         AS15557
+mnt-by:         LDCOM-MNT
+created:        2007-08-08T09:53:38Z
+last-modified:  2007-08-08T09:53:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

@@ -1,0 +1,61 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '90.77.0.0 - 90.77.255.255'
+
+% Abuse contact for '90.77.0.0 - 90.77.255.255' is 'gestionip.ft@orange.com'
+
+inetnum:        90.77.0.0 - 90.77.255.255
+netname:        UNI2-NET
+descr:          Orange Spain Network
+country:        ES
+admin-c:        HAF10-RIPE
+tech-c:         HAF10-RIPE
+status:         ASSIGNED PA
+remarks:        for hacking, spamming or security problems send mail to
+remarks:        abuse@orange.es
+mnt-by:         FT-BRX
+mnt-routes:     UNI2-MNT
+created:        2015-07-09T08:13:19Z
+last-modified:  2015-07-09T08:13:19Z
+source:         RIPE
+
+role:           Hostmaster Administrator FTE
+address:        Parque Empresarial La Finca
+address:        Edificio 9
+address:        Paseo del Club Deportivo, 1
+address:        28223 Pozuelo de Alarcon
+address:        Madrid, Spain
+admin-c:        HA1066-RIPE
+admin-c:        HA1067-RIPE
+tech-c:         HA1066-RIPE
+tech-c:         HA1067-RIPE
+nic-hdl:        HAF10-RIPE
+remarks:        spam, abuse reports....mailto:abuse@orange.es
+abuse-mailbox:  abuse@orange.es
+mnt-by:         UNI2-MNT
+created:        2005-08-19T10:24:55Z
+last-modified:  2013-01-17T16:47:17Z
+source:         RIPE # Filtered
+
+% Information related to '90.77.0.0/16AS12479'
+
+route:          90.77.0.0/16
+descr:          UNI2-NET- Orange Spain Network
+origin:         AS12479
+mnt-by:         UNI2-MNT
+created:        2015-07-16T08:19:28Z
+last-modified:  2015-07-16T08:19:28Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

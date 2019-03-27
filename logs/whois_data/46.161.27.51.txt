@@ -1,0 +1,66 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.161.27.0 - 46.161.27.255'
+
+% Abuse contact for '46.161.27.0 - 46.161.27.255' is 'abuse@megaholding.biz'
+
+inetnum:        46.161.27.0 - 46.161.27.255
+netname:        Megaholdings-net
+descr:          VPS and Shared Hosting pool
+country:        NL
+admin-c:        MCR109-RIPE
+tech-c:         MCR109-RIPE
+org:            ORG-MHL8-RIPE
+status:         SUB-ALLOCATED PA
+mnt-routes:     MNT-NFORCE
+mnt-by:         MNT-PINSUPPORT
+created:        2018-05-17T10:09:34Z
+last-modified:  2018-05-29T07:38:44Z
+source:         RIPE
+
+organisation:   ORG-MHL8-RIPE
+org-name:       MEGA HOLDINGS LIMITED
+org-type:       OTHER
+address:        E11 - North Ras Al Khaimah , Falcon Technologies International, UAE
+abuse-c:        MCR109-RIPE
+mnt-ref:        megaholdings
+mnt-by:         megaholdings
+created:        2018-05-08T07:51:49Z
+last-modified:  2018-05-29T07:27:16Z
+source:         RIPE # Filtered
+
+role:           MEGAHOLDINGS CONTACT ROLE
+address:        E11 - North Ras Al Khaimah
+address:        Falcon Technologies International
+address:        United Arab Emirates
+abuse-mailbox:  abuse@megaholding.biz
+admin-c:        DH7421-RIPE
+tech-c:         DH7421-RIPE
+nic-hdl:        MCR109-RIPE
+mnt-by:         megaholdings
+created:        2018-05-08T07:49:17Z
+last-modified:  2018-05-29T07:28:02Z
+source:         RIPE # Filtered
+
+% Information related to '46.161.27.0/24AS43350'
+
+route:          46.161.27.0/24
+descr:          NFOrce Entertainment B.V. - Customer 2166
+origin:         AS43350
+mnt-by:         MNT-NFORCE
+created:        2018-05-29T09:08:20Z
+last-modified:  2018-05-29T09:08:20Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

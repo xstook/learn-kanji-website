@@ -1,0 +1,64 @@
+[Querying whois.lacnic.net]
+[whois.lacnic.net]
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2019-03-13 22:10:08 (-03 -03:00)
+
+inetnum:     190.94.128/19
+status:      allocated
+aut-num:     N/A
+owner:       ETAPA EP
+ownerid:     EC-ETAP-LACNIC
+responsible: Juan Pablo León
+address:     Rumihurco y Río Cutucu, ETAPA Central Telefonica Totoracocha, ETAPA, ETAPA Central Telefonica Totoracocha
+address:     010104 - Cuenca - Azuay
+country:     EC
+phone:       +593  991519019 [1293]
+owner-c:     JPL
+tech-c:      ETE3
+abuse-c:     ETE3
+inetrev:     190.94.128/19
+nserver:     DNS1.ETAPA.NET.EC  
+nsstat:      20190312 AA
+nslastaa:    20190312
+nserver:     DNS2.ETAPA.NET.EC  
+nsstat:      20190312 AA
+nslastaa:    20190312
+created:     20070510
+changed:     20150311
+
+nic-hdl:     ETE3
+person:      Wilmer Sarango
+e-mail:      isp@ETAPA.NET.EC
+address:     297, sn, -
+address:     - - Cuenca - Az
+country:     EC
+phone:       +593  72831900 [1264]
+created:     20150309
+changed:     20180327
+
+nic-hdl:     JPL
+person:      Juan Pablo Leon
+e-mail:      jpleon@ETAPA.NET.EC
+address:     Central Telefonica de ETAPA Totoracocha, 0, -
+address:     0101297 - Cuenca - Az
+country:     EC
+phone:       +593  7991519019 [0000]
+created:     20020919
+changed:     20190228
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

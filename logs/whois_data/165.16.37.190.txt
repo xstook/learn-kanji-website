@@ -1,0 +1,40 @@
+[Querying whois.arin.net]
+[Redirected to whois.afrinic.net]
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '165.16.37.128 - 165.16.37.191'
+
+% No abuse contact registered for 165.16.37.128 - 165.16.37.191
+
+inetnum:        165.16.37.128 - 165.16.37.191
+netname:        Alhadatha
+descr:          Alhadatha International
+descr:          Contact person: khalid alezabi
+descr:          E-mail: f.mlitan@hti.ly
+descr:          Phone: +218945056066
+descr:          Country-code: LY
+descr:          Website: https://hti.ly
+country:        LY
+admin-c:        AS108-AFRINIC
+tech-c:         AS108-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         ALJEEL-MNT
+source:         AFRINIC # Filtered
+parent:         165.16.0.0 - 165.16.127.255
+
+person:         Ahmed Sharif
+address:        Abu Salim Street
+address:        Tripoli
+address:        Libya
+phone:          tel:+218-94-6660174
+nic-hdl:        AS108-AFRINIC
+mnt-by:         GENERATED-GUDLAIBN15YOULDD5KJGPLNBHSIMYXMH-MNT
+source:         AFRINIC # Filtered
+
+
+

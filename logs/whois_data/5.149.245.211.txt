@@ -1,0 +1,71 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '5.149.244.0 - 5.149.245.255'
+
+% Abuse contact for '5.149.244.0 - 5.149.245.255' is 'info@hungaropower.hu'
+
+inetnum:        5.149.244.0 - 5.149.245.255
+netname:        HPWR
+descr:          TvNetTel-Szentes-PPPoE
+country:        HU
+admin-c:        RK5458-RIPE
+tech-c:         RK1387-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-HPWR
+mnt-by:         EURONETRT-MNT
+created:        2013-12-16T16:28:26Z
+last-modified:  2018-11-12T14:43:41Z
+source:         RIPE
+
+person:         Richard Kojedzinszky
+address:        HU 6729 Szeged
+phone:          +36704526906
+nic-hdl:        RK1387-RIPE
+created:        2002-11-25T16:59:37Z
+last-modified:  2018-10-10T08:05:22Z
+source:         RIPE # Filtered
+mnt-by:         MNT-RK1387-RIPE
+
+person:         Richard Kothencz
+address:        1 Etelka sor, Szeged, 6723 Hungary
+phone:          +36704526977
+nic-hdl:        RK5458-RIPE
+mnt-by:         RichardKothencz
+created:        2012-02-17T08:14:05Z
+last-modified:  2012-02-17T08:14:06Z
+source:         RIPE # Filtered
+
+% Information related to '5.149.240.0/21AS197248'
+
+route:          5.149.240.0/21
+descr:          HPWR
+origin:         AS197248
+mnt-by:         MNT-HPWR
+mnt-by:         EURONETRT-MNT
+created:        2012-07-23T14:20:54Z
+last-modified:  2018-11-12T14:43:41Z
+source:         RIPE
+
+% Information related to '5.149.240.0/21AS21229'
+
+route:          5.149.240.0/21
+descr:          HPWR
+origin:         AS21229
+mnt-by:         MNT-HPWR
+mnt-by:         EURONETRT-MNT
+created:        2012-08-06T14:24:59Z
+last-modified:  2018-11-12T14:43:42Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

@@ -1,0 +1,104 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.187.96.0 - 91.187.127.255'
+
+% Abuse contact for '91.187.96.0 - 91.187.127.255' is 'abuse@ipko.com'
+
+inetnum:        91.187.96.0 - 91.187.127.255
+netname:        EU-IPKO-20061124
+country:        AL
+org:            ORG-IA73-RIPE
+admin-c:        FK1980-RIPE
+tech-c:         BR2268-RIPE
+tech-c:         DB2818-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MNT-IPKO-NOC
+created:        2006-11-24T10:20:56Z
+last-modified:  2016-07-11T08:27:03Z
+source:         RIPE # Filtered
+
+organisation:   ORG-IA73-RIPE
+org-name:       IPKO Telecommunications LLC
+org-type:       LIR
+address:        Zija Shemsiu nr.34
+address:        10000
+address:        Prishtina,  Republic of Kosovo
+address:        ALBANIA
+phone:          +38338700802
+fax-no:         +38338700801
+tech-c:         DB2818-RIPE
+tech-c:         BR2268-RIPE
+tech-c:         IP2493-RIPE
+admin-c:        FK1980-RIPE
+abuse-c:        IR1702-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MNT-IPKO-NOC
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MNT-IPKO-NOC
+created:        2004-04-17T12:24:59Z
+last-modified:  2019-02-11T09:39:40Z
+source:         RIPE # Filtered
+
+person:         Besian Rexha
+address:        Ipko System Building
+address:        Zona Industriale
+address:        Pristina 10000
+address:        Kosovo
+phone:          +38649700665
+fax-no:         +38643700801
+nic-hdl:        BR2268-RIPE
+mnt-by:         MNT-IPKO-NOC
+created:        2011-03-01T07:32:10Z
+last-modified:  2011-03-01T07:32:10Z
+source:         RIPE # Filtered
+
+person:         Dardan Behluli
+address:        Ipko
+address:        Lagjja Ulpiana
+address:        Rruga "Zija Shemsiu", Nr. 34
+address:        Prishtina, PRN
+address:        Kosovo
+phone:          +38643700621
+fax-no:         +38643700801
+nic-hdl:        DB2818-RIPE
+mnt-by:         MNT-IPKO-NOC
+created:        2004-07-15T09:44:26Z
+last-modified:  2010-04-21T09:39:36Z
+source:         RIPE # Filtered
+
+person:         Faton Kurteshi
+address:        Ipko System Building
+address:        Zona Industriale
+address:        Pristina 10000
+address:        Kosovo
+phone:          +38649700669
+fax-no:         +38643700801
+nic-hdl:        FK1980-RIPE
+mnt-by:         MNT-IPKO-NOC
+created:        2011-03-01T07:46:01Z
+last-modified:  2011-03-01T07:46:01Z
+source:         RIPE # Filtered
+
+% Information related to '91.187.109.0/24AS21246'
+
+route:          91.187.109.0/24
+descr:          IPKO-109
+origin:         AS21246
+mnt-by:         MNT-IPKO-NOC
+created:        2006-11-27T11:29:17Z
+last-modified:  2011-03-08T14:09:24Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

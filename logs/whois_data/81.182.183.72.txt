@@ -1,0 +1,65 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '81.182.78.0 - 81.182.239.255'
+
+% Abuse contact for '81.182.78.0 - 81.182.239.255' is 'abuse@telekom.hu'
+
+inetnum:        81.182.78.0 - 81.182.239.255
+netname:        MT-BROADBAND-DYNAMIC-DSL
+descr:          Magyar Telekom customers using dynamic IP
+descr:          DSL access
+country:        HU
+admin-c:        MTRA-RIPE
+tech-c:         MTNA-RIPE
+status:         ASSIGNED PA
+mnt-by:         TCOM-MNT
+created:        2014-06-30T07:22:57Z
+last-modified:  2014-06-30T07:22:57Z
+source:         RIPE # Filtered
+
+role:           Magyar Telekom Network Administrator
+address:        Budapest, Hungary
+tech-c:         BAT3-RIPE
+nic-hdl:        MTNA-RIPE
+abuse-mailbox:  abuse@telekom.hu
+mnt-by:         MTELEKOM-MNT
+created:        2013-10-13T20:08:36Z
+last-modified:  2018-08-21T13:17:42Z
+source:         RIPE # Filtered
+
+role:           Magyar Telekom RIPE Administrator
+address:        Budapest, Hungary
+admin-c:        DB2380-RIPE
+admin-c:        MK1117-RIPE
+nic-hdl:        MTRA-RIPE
+abuse-mailbox:  abuse@telekom.hu
+mnt-by:         MTELEKOM-MNT
+created:        2013-10-13T19:58:47Z
+last-modified:  2018-02-16T21:01:27Z
+source:         RIPE # Filtered
+
+% Information related to '81.182.0.0/15AS5483'
+
+route:          81.182.0.0/15
+descr:          Hungarian Telecom
+descr:          Public Internet Access Provider
+descr:          Budapest, Hungary
+descr:          HU
+origin:         AS5483
+mnt-by:         AS5483-MNT
+created:        2003-02-05T19:52:30Z
+last-modified:  2003-02-05T19:52:30Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

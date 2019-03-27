@@ -1,0 +1,75 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '111.230.0.0 - 111.231.255.255'
+
+% Abuse contact for '111.230.0.0 - 111.231.255.255' is 'ipas@cnnic.cn'
+
+inetnum:        111.230.0.0 - 111.231.255.255
+netname:        TencentCloud
+descr:          Tencent cloud computing (Beijing) Co., Ltd.
+descr:          Floor 6, Yinke Building,38 Haidian St,
+descr:          Haidian District Beijing
+country:        CN
+admin-c:        JT1125-AP
+tech-c:         JX1747-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2016-08-29T02:48:01Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-11-01T08:57:39Z
+source:         APNIC
+
+person:         James Tian
+address:        9F, FIYTA Building, Gaoxinnanyi Road,Southern
+address:        District of Hi-tech Park, Shenzhen
+country:        CN
+phone:          +86-755-86013388-84952
+e-mail:         harveyduan@tencent.com
+nic-hdl:        JT1125-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-10-31T07:10:47Z
+source:         APNIC
+
+person:         Jimmy Xiao
+address:        9F, FIYTA Building, Gaoxinnanyi Road,Southern
+address:        District of Hi-tech Park, Shenzhen
+country:        CN
+phone:          +86-755-86013388-80224
+e-mail:         harveyduan@tencent.com
+nic-hdl:        JX1747-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-11-04T05:51:38Z
+source:         APNIC
+
+% Information related to '111.230.0.0/15AS45090'
+
+route:          111.230.0.0/15
+descr:          TencentCloud
+country:        CN
+origin:         AS45090
+notify:         jimmyxiao@tencent.com
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2016-10-19T03:16:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

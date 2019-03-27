@@ -1,0 +1,80 @@
+[Querying whois.arin.net]
+[Redirected to whois.apnic.net]
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '134.175.0.0 - 134.175.255.255'
+
+% Abuse contact for '134.175.0.0 - 134.175.255.255' is 'qcloud_net_duty@tencent.com'
+
+inetnum:        134.175.0.0 - 134.175.255.255
+netname:        TENCENT-CN
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+country:        CN
+org:            ORG-TCCC1-AP
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-TENCENT-CN
+mnt-lower:      MAINT-TENCENT-CN
+mnt-irt:        IRT-TENCENT-CN
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2017-11-13T05:58:01Z
+source:         APNIC
+
+irt:            IRT-TENCENT-CN
+address:        Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080
+e-mail:         qcloud_net_duty@tencent.com
+abuse-mailbox:  qcloud_net_duty@tencent.com
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+auth:           # Filtered
+mnt-by:         MAINT-COMSENZ1-CN
+last-modified:  2019-03-11T10:41:44Z
+source:         APNIC
+
+organisation:   ORG-TCCC1-AP
+org-name:       Tencent Cloud Computing (Beijing) Co., Ltd
+country:        CN
+address:        309 West Zone, 3F. 49 Zhichun Road. Haidian District.
+phone:          +86-10-62671299
+fax-no:         +86-10-82602088-41299
+e-mail:         tencent_idc@tencent.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-08-20T22:54:05Z
+source:         APNIC
+
+role:           Tencent Cloud administrator
+address:        Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080
+country:        CN
+phone:          +86-10-62671299
+e-mail:         tencent_idc@tencent.com
+admin-c:        TCA15-AP
+tech-c:         TCA15-AP
+nic-hdl:        TCA15-AP
+mnt-by:         MAINT-AP-DIALPAD
+fax-no:         +86-10-62671299
+last-modified:  2017-04-04T10:34:03Z
+source:         APNIC
+
+% Information related to '134.175.0.0/16AS45090'
+
+route:          134.175.0.0/16
+origin:         AS45090
+descr:          Tencent Cloud Computing (Beijing) Co., Ltd
+                309 West Zone, 3F. 49 Zhichun Road. Haidian District.
+mnt-by:         MAINT-TENCENT-CN
+last-modified:  2017-12-28T07:22:10Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

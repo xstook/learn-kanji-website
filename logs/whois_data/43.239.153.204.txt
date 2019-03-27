@@ -1,0 +1,73 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.239.152.0 - 43.239.155.255'
+
+% Abuse contact for '43.239.152.0 - 43.239.155.255' is 'info@iriisnet.com'
+
+inetnum:        43.239.152.0 - 43.239.155.255
+netname:        IRIISNET
+descr:          IriisNet communication Pvt Ltd
+admin-c:        HJ1798-AP
+tech-c:         TH874-AP
+country:        IN
+mnt-by:         MAINT-IN-IRINN
+mnt-lower:      MAINT-IN-IRIISNET
+mnt-irt:        IRT-IRIISNET-IN
+mnt-routes:     MAINT-IN-IRIISNET
+status:         ALLOCATED PORTABLE
+last-modified:  2015-08-13T12:05:58Z
+source:         APNIC
+
+irt:            IRT-IRIISNET-IN
+address:        IriisNet communication Pvt Ltd
+e-mail:         info@iriisnet.com
+abuse-mailbox:  info@iriisnet.com
+admin-c:        HJ1798-AP
+tech-c:         TH874-AP
+auth:           # Filtered
+remarks:        send spam and abuse report to info@iriisnet.com
+mnt-by:         MAINT-IN-IRIISNET
+last-modified:  2013-12-03T12:03:47Z
+source:         APNIC
+
+role:           Tech head
+address:        IriisNet communication Pvt Ltd
+country:        IN
+phone:          +91 1294319100
+e-mail:         info@iriisnet.com
+admin-c:        HJ1798-AP
+tech-c:         HJ1798-AP
+nic-hdl:        TH874-AP
+mnt-by:         MAINT-IN-IRIISNET
+last-modified:  2013-12-03T12:03:12Z
+source:         APNIC
+
+person:         hardik jhanb
+address:        IriisNet communication Pvt Ltd
+country:        IN
+phone:          +91 1294319100
+e-mail:         info@iriisnet.com
+nic-hdl:        HJ1798-AP
+remarks:        send spam and abuse report to info@iriisnet.com
+notify:         info@iriisnet.com
+abuse-mailbox:  info@iriisnet.com
+mnt-by:         MAINT-IN-IRIISNET
+last-modified:  2013-12-03T12:02:30Z
+source:         APNIC
+
+% Information related to '43.239.152.0/22AS132941'
+
+route:          43.239.152.0/22
+descr:          IriisNet communication Pvt Ltd
+origin:         AS132941
+mnt-by:         MAINT-IN-IRINN
+mnt-routes:     MAINT-IN-IRIISNET
+last-modified:  2015-08-14T05:34:51Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

@@ -1,0 +1,102 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.248.160.0 - 124.248.191.255'
+
+% Abuse contact for '124.248.160.0 - 124.248.191.255' is 'network@cogetel.com.kh'
+
+inetnum:        124.248.160.0 - 124.248.191.255
+netname:        Cogetel
+descr:          Cogetel Online
+descr:          Internet Service Provider,
+descr:          Cambodia
+country:        KH
+org:            ORG-CCL7-AP
+admin-c:        CL965-AP
+tech-c:         CON1-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-KH-BPC
+mnt-routes:     MAINT-KH-BPC
+mnt-irt:        IRT-COGETEL-KH
+last-modified:  2017-08-30T07:18:24Z
+source:         APNIC
+
+irt:            IRT-COGETEL-KH
+address:        #60 Monivong Boulevard Phnom Penh Cambodia
+e-mail:         network@cogetel.com.kh
+abuse-mailbox:  network@cogetel.com.kh
+admin-c:        BB195-AP
+tech-c:         BB195-AP
+auth:           # Filtered
+mnt-by:         MAINT-KH-BPC
+last-modified:  2017-04-04T02:47:31Z
+source:         APNIC
+
+organisation:   ORG-CCL7-AP
+org-name:       COGETEL Co., Ltd
+country:        KH
+address:        60 Monivong Boulevard
+phone:          +855-23-727272
+fax-no:         +855-23-729999
+e-mail:         network@cogetel.com.kh
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-08-20T22:57:10Z
+source:         APNIC
+
+role:           Cogetel Limited
+address:        #60 Monivong Boulevard
+address:        Phnom Penh
+address:        Cambodia
+country:        KH
+phone:          +855-23-727272
+fax-no:         +855-23-725555
+e-mail:         hostmaster@online.com.kh
+admin-c:        BB195-AP
+tech-c:         BB195-AP
+nic-hdl:        CL965-AP
+remarks:        http://www.online.com.kh
+notify:         hostmaster@online.com.kh
+mnt-by:         MAINT-KH-BPC
+mnt-by:         MAINT-KH-BPC
+last-modified:  2012-06-06T05:09:48Z
+source:         APNIC
+
+role:           Cogetel Online NOC
+address:        #60 Monivong Boulevard
+address:        Phnom Penh
+address:        Cambodia
+country:        KH
+phone:          +855-23-727272
+fax-no:         +855-23-725555
+e-mail:         hostmaster@online.com.kh
+admin-c:        BB195-AP
+tech-c:         BB195-AP
+nic-hdl:        CON1-AP
+remarks:        http://www.online.com.kh
+notify:         hostmaster@online.com.kh
+mnt-by:         MAINT-KH-BPC
+mnt-by:         MAINT-KH-BPC
+last-modified:  2012-06-06T05:10:31Z
+source:         APNIC
+
+% Information related to '124.248.160.0/19AS23673'
+
+route:          124.248.160.0/19
+descr:          ONLINE
+origin:         AS23673
+mnt-by:         MAINT-KH-BPC
+last-modified:  2009-07-07T08:34:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

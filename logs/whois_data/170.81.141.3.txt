@@ -1,0 +1,53 @@
+[Querying whois.arin.net]
+[Redirected to whois.lacnic.net]
+[Querying whois.lacnic.net]
+[whois.lacnic.net]
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2019-03-13 22:09:29 (-03 -03:00)
+
+inetnum:     170.81.140/22
+status:      allocated
+aut-num:     N/A
+owner:       NUEVA RED INTERNET DE MEXICO S DE RL DE CV
+ownerid:     MX-NRIM-LACNIC
+responsible: Jaime Perez Davila
+address:     REFORMA, 877, JESUS
+address:     44200 - GUADALAJARA - JA
+country:     MX
+phone:       +52  3310310100 []
+owner-c:     JPD12
+tech-c:      JPD12
+abuse-c:     JPD12
+inetrev:     170.81.140/22
+nserver:     NS1.GRUPOTELECOM.MX  
+nsstat:      20190313 AA
+nslastaa:    20190313
+created:     20161214
+changed:     20161214
+
+nic-hdl:     JPD12
+person:      Jaime Perez Davila
+e-mail:      jaimeperez@NUEVARED.MX
+address:     Reforma, 877, Jesus
+address:     44200 - Guadalajara - JA
+country:     MX
+phone:       +52  3310310100 []
+created:     20160912
+changed:     20160912
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

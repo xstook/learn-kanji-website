@@ -1,0 +1,55 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '37.157.53.88 - 37.157.53.95'
+
+% Abuse contact for '37.157.53.88 - 37.157.53.95' is 'noc@voicehost.co.uk'
+
+inetnum:        37.157.53.88 - 37.157.53.95
+netname:        PETA-NET1
+descr:          PETA
+country:        GB
+admin-c:        RB12984-RIPE
+tech-c:         RB12984-RIPE
+status:         ASSIGNED PA
+mnt-by:         VoiceHost
+mnt-lower:      VoiceHost
+mnt-routes:     VoiceHost
+created:        2012-10-12T15:07:06Z
+last-modified:  2012-10-12T15:07:06Z
+source:         RIPE
+
+person:         Ross Beer
+address:        VoiceHost Ltd
+address:        Norfolk Tower
+address:        Surrey Street
+address:        Norwich
+address:        NR1 3PA
+phone:          +44 345 561 0 561
+nic-hdl:        RB12984-RIPE
+mnt-by:         VoiceHost
+created:        2012-03-08T15:24:53Z
+last-modified:  2013-08-25T19:49:25Z
+source:         RIPE # Filtered
+
+% Information related to '37.157.48.0/21AS31472'
+
+route:          37.157.48.0/21
+descr:          VoiceHost Ltd
+origin:         AS31472
+mnt-by:         VoiceHost
+created:        2012-03-14T20:04:31Z
+last-modified:  2012-03-14T20:04:31Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

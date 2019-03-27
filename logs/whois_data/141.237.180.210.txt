@@ -1,0 +1,62 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '141.237.128.0 - 141.237.255.255'
+
+% Abuse contact for '141.237.128.0 - 141.237.255.255' is 'dionisis.vinieratos@vodafone.com'
+
+inetnum:        141.237.128.0 - 141.237.255.255
+netname:        HOL-INFRA
+descr:          Hellas On Line S.A.
+country:        GR
+admin-c:        HOL-RIPE
+tech-c:         HOL-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS3329-MNT
+mnt-lower:      AS3329-MNT
+mnt-routes:     AS3329-MNT
+created:        2011-07-04T13:42:42Z
+last-modified:  2012-04-10T12:20:21Z
+source:         RIPE
+
+role:           VFGR Fixed Network Operations Center
+address:        Vodafone Greece Fixed (ex Hellas On Line S.A.)
+address:        1-3, Tzavella Str
+address:        15231 , Halandri, Athens, Greece
+remarks:        ------------------------------------------
+remarks:        For complaints regarding abuse, spam, etc:
+remarks:        abuse-mailbox: abuseholgr@hol.net
+remarks:        abuse-mailbox: postmasterholgr@hol.net
+remarks:        ------------------------------------------
+admin-c:        TK583-RIPE
+tech-c:         TK583-RIPE
+tech-c:         HS8157-RIPE
+nic-hdl:        HOL-RIPE
+mnt-by:         AS3329-MNT
+created:        2005-05-04T12:37:03Z
+last-modified:  2019-02-21T09:36:09Z
+source:         RIPE # Filtered
+
+% Information related to '141.237.160.0/19AS3329'
+
+route:          141.237.160.0/19
+descr:          HOL
+origin:         AS3329
+mnt-lower:      AS3329-MNT
+mnt-routes:     AS3329-MNT
+mnt-by:         AS3329-MNT
+created:        2014-10-03T06:45:17Z
+last-modified:  2014-10-03T06:45:17Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

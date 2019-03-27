@@ -1,0 +1,68 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.161.112.252 - 202.161.112.255'
+
+% Abuse contact for '202.161.112.252 - 202.161.112.255' is 'abuse@tpg.com.au'
+
+inetnum:        202.161.112.252 - 202.161.112.255
+netname:        TPGInternetPtyLtd
+descr:          TPG Internet Pty Ltd.
+country:        AU
+admin-c:        TH178-AP
+tech-c:         TH178-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-AU-TPGCOM
+mnt-irt:        IRT-TPGCOM-AU
+last-modified:  2018-09-25T07:48:32Z
+source:         APNIC
+
+irt:            IRT-TPGCOM-AU
+address:        TPG Internet Pty Ltd.
+address:        (Part of the Total Peripherals Group)
+address:        65 Waterloo Road
+address:        North Ryde NSW 2113
+e-mail:         abuse@tpg.com.au
+abuse-mailbox:  abuse@tpg.com.au
+admin-c:        TH178-AP
+tech-c:         TH178-AP
+auth:           # Filtered
+mnt-by:         MAINT-AU-TPGCOM
+last-modified:  2018-09-20T07:20:50Z
+source:         APNIC
+
+role:           TPG Hostmaster
+address:        TPG Telecom Limited
+address:        65 Waterloo Road
+address:        North Ryde NSW 2113
+country:        AU
+phone:          +61 2 9850 0800
+fax-no:         +61 2 9850 0817
+e-mail:         hostmaster@tpg.com.au
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+remarks:        Send all spam and abuse reports to abuse@tpg.com.au or
+remarks:        via our web interface at the link provided below:
+remarks:        http://www.tpg.com.au/about/enquiry.php?type=Report%20Spamming
+remarks:        .
+remarks:        Please include detailed information such as full message
+remarks:        headers and times in UTC
+remarks:        --
+remarks:        Send all network related issues such as routing to
+remarks:        trouble@tpg.com.au
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+remarks:        Australian Internet Service Provider (ISP)
+remarks:        http://www.tpg.com.au
+admin-c:        TPG3-AP
+tech-c:         TPG2-AP
+tech-c:         TA56-AP
+nic-hdl:        TH178-AP
+notify:         hostmaster@tpg.com.au
+mnt-by:         MAINT-AU-TPGCOM
+last-modified:  2013-04-29T00:31:29Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

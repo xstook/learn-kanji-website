@@ -1,0 +1,66 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '83.142.104.0 - 83.142.111.255'
+
+% Abuse contact for '83.142.104.0 - 83.142.111.255' is 'abuse@odessa.tv'
+
+inetnum:        83.142.104.0 - 83.142.111.255
+netname:        NG-NET
+country:        UA
+org:            ORG-GCN2-RIPE
+admin-c:        biba
+tech-c:         biba
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-routes:     BIBA-MNT
+mnt-domains:    BIBA-MNT
+created:        2009-06-30T08:58:49Z
+last-modified:  2016-04-14T10:37:58Z
+source:         RIPE
+sponsoring-org: ORG-RA159-RIPE
+
+organisation:   ORG-GCN2-RIPE
+org-name:       LLC Global-City-Net
+org-type:       OTHER
+address:        Chernomorsk, Odessa region, Dsnchenko str. 3b
+tech-c:         biba
+abuse-c:        AR27155-RIPE
+mnt-ref:        biba-mnt
+mnt-by:         biba-mnt
+created:        2007-02-20T11:30:35Z
+last-modified:  2018-10-14T06:43:04Z
+source:         RIPE # Filtered
+
+person:         Alexey Scherbakov
+address:        Ukraine
+address:        Odessa. Ilyichevsk
+address:        1-Maya 1a, apt 12
+mnt-by:         biba-mnt
+phone:          +380486834888
+nic-hdl:        biba
+created:        2008-05-22T09:10:43Z
+last-modified:  2015-11-06T09:19:41Z
+source:         RIPE # Filtered
+
+% Information related to '83.142.110.0/24AS15713'
+
+route:          83.142.110.0/24
+descr:          NG-NET
+origin:         AS15713
+mnt-by:         biba-mnt
+created:        2011-03-14T15:54:40Z
+last-modified:  2011-03-14T15:54:40Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

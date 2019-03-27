@@ -1,0 +1,69 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '115.204.0.0 - 115.205.255.255'
+
+% Abuse contact for '115.204.0.0 - 115.205.255.255' is 'antispam@dcb.hz.zj.cn'
+
+inetnum:        115.204.0.0 - 115.205.255.255
+netname:        CHINANET-ZJ-HZ
+country:        CN
+descr:          CHINANET-ZJ Hangzhou node network
+descr:          Zhejiang Telecom
+admin-c:        CZ4-AP
+tech-c:         CH122-AP
+mnt-irt:        IRT-CHINANET-ZJ
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-CHINANET-ZJ
+mnt-lower:      MAINT-CN-CHINANET-ZJ-HZ
+last-modified:  2011-01-28T02:42:06Z
+source:         APNIC
+
+irt:            IRT-CHINANET-ZJ
+address:        Hangzhou, 288 fucun Road, China
+e-mail:         lfliu@pubinfo.com.cn
+abuse-mailbox:  antispam@dcb.hz.zj.cn
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2017-10-23T02:48:11Z
+source:         APNIC
+
+role:           CHINANET-ZJ Hangzhou
+address:        No.352 Tiyuchang Road,Hangzhou,Zhejiang.310003
+country:        CN
+phone:          +86-571-85157929
+fax-no:         +86-571-85102776
+e-mail:         anti_spam@mail.hz.zj.cn
+remarks:        send spam reports to anti_spam@mail.hz.zj.cn
+remarks:        and abuse reports to anti_spam@mail.hz.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CH54-AP
+tech-c:         CH54-AP
+nic-hdl:        CH122-AP
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2011-12-06T00:11:22Z
+source:         APNIC
+
+role:           CHINANET ZHEJIANG
+address:        No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066
+country:        CN
+phone:          +86-571-86821752
+fax-no:         +86-571-86988329
+e-mail:         antispam@dcb.hz.zj.cn
+remarks:        send spam reports to antispam@dcb.hz.zj.cn
+remarks:        and abuse reports to antispam@dcb.hz.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+nic-hdl:        CZ4-AP
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2012-04-09T02:34:01Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

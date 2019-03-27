@@ -1,0 +1,81 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.243.80.0 - 103.243.83.255'
+
+% Abuse contact for '103.243.80.0 - 103.243.83.255' is 'robin@aamraoutsourcing.com'
+
+inetnum:        103.243.80.0 - 103.243.83.255
+netname:        AOL-BD
+descr:          Aamra Outsourcing Ltd.
+country:        BD
+org:            ORG-AOL1-AP
+admin-c:        AOLA1-AP
+tech-c:         AOLA1-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AOL-BD
+mnt-routes:     MAINT-AOL-BD
+mnt-irt:        IRT-AOL-BD
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2017-09-26T23:31:09Z
+source:         APNIC
+
+irt:            IRT-AOL-BD
+address:        BTA Tower (11th Floor), 29, Kemal Ataturk Avenue,, Banani C/A, , Dhaka - 1213, Dhaka  1213
+e-mail:         robin@aamraoutsourcing.com
+abuse-mailbox:  robin@aamraoutsourcing.com
+admin-c:        AOLA1-AP
+tech-c:         AOLA1-AP
+auth:           # Filtered
+mnt-by:         MAINT-AOL-BD
+last-modified:  2013-10-08T06:06:27Z
+source:         APNIC
+
+organisation:   ORG-AOL1-AP
+org-name:       aamra Outsourcing Ltd.
+country:        BD
+address:        BTA Tower (11th Floor)
+address:        29, Kemal Ataturk Avenue,
+address:        Banani C/A
+phone:          +8801713064539
+e-mail:         apnic.aamra@aamra.com.bd
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-09-25T12:56:25Z
+source:         APNIC
+
+role:           aamra Outsourcing Ltd administrator
+address:        BTA Tower (11th Floor), 29, Kemal Ataturk Avenue,, Banani C/A, , Dhaka - 1213, Dhaka  1213
+country:        BD
+phone:          +8801713064539
+fax-no:         +8801713064539
+e-mail:         robin@aamraoutsourcing.com
+admin-c:        AOLA1-AP
+tech-c:         AOLA1-AP
+nic-hdl:        AOLA1-AP
+mnt-by:         MAINT-AOL-BD
+last-modified:  2013-10-08T06:06:27Z
+source:         APNIC
+
+% Information related to '103.243.82.0/24AS24323'
+
+route:          103.243.82.0/24
+origin:         AS24323
+descr:          aamra Outsourcing Ltd.
+                BTA Tower (11th Floor)
+                29, Kemal Ataturk Avenue,
+                Banani C/A
+mnt-by:         MAINT-AOL-BD
+last-modified:  2018-01-10T05:53:46Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

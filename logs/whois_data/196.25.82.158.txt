@@ -1,0 +1,44 @@
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '196.25.82.0 - 196.25.82.255'
+
+% No abuse contact registered for 196.25.82.0 - 196.25.82.255
+
+inetnum:        196.25.82.0 - 196.25.82.255
+netname:        COMP-BUSS-SYSTEMS
+descr:          Computer Business Systems
+descr:          P O Box 311593
+descr:          Umtata, 5100
+country:        ZA
+admin-c:        JS1342-AFRINIC
+tech-c:         JS1342-AFRINIC
+status:         ASSIGNED PA
+remarks:        The information for POC handle JS1342-ARIN has been
+remarks:        reported to be invalid. ARIN has attempted to obtain updated
+remarks:        data, but has been unsuccessful. To provide current contact
+remarks:        information, please email hostmaster@arin.net.
+mnt-by:         TF-196-25-MNT
+mnt-lower:      TF-196-25-MNT
+source:         AFRINIC # Filtered
+parent:         196.25.0.0 - 196.25.255.255
+
+person:         Johann Strauss
+address:        PO Box 7303
+address:        Roggebaai, 8012 RSA
+address:        ZA
+phone:          tel:+27-21-414-4766
+nic-hdl:        JS1342-AFRINIC
+remarks:        The information for POC handle JS1342-ARIN has been reported to
+remarks:        be invalid. ARIN has attempted to obtain updated data, but has
+remarks:        been unsuccessful. To provide current contact information,
+remarks:        please e-mail hostmaster@arin.net.
+mnt-by:         GENERATED-3GGCZ9IOCCCE4EOR6J7GVCSYPK6DXX2Q-MNT
+source:         AFRINIC # Filtered
+
+
+

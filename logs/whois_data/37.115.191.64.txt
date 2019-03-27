@@ -1,0 +1,57 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '37.115.128.0 - 37.115.255.255'
+
+% Abuse contact for '37.115.128.0 - 37.115.255.255' is 'abuse@kyivstar.net'
+
+inetnum:        37.115.128.0 - 37.115.255.255
+netname:        KYIVSTAR-NET-4
+descr:          Kyivstar GSM
+descr:          Ukrainian mobile phone operator
+country:        UA
+admin-c:        KSUA-RIPE
+tech-c:         KSUA-RIPE
+status:         ASSIGNED PA
+mnt-by:         KYIVSTAR-MNT
+mnt-lower:      KYIVSTAR-MNT
+mnt-routes:     KYIVSTAR-MNT
+created:        2012-02-17T11:54:16Z
+last-modified:  2012-02-17T11:54:16Z
+source:         RIPE
+
+role:           Kyivstar PJSC
+address:        Degtyarevskaya, 53
+address:        Kiev, Ukraine
+admin-c:        AEL17-RIPE
+tech-c:         MA19315-RIPE
+tech-c:         AEL17-RIPE
+nic-hdl:        KSUA-RIPE
+remarks:        Please send all abuse reports here:
+abuse-mailbox:  abuse@kyivstar.net
+mnt-by:         KYIVSTAR-MNT
+created:        2003-05-19T14:48:31Z
+last-modified:  2016-07-08T10:56:37Z
+source:         RIPE # Filtered
+
+% Information related to '37.115.0.0/16AS15895'
+
+route:          37.115.0.0/16
+descr:          Kyivstar GSM, Kiev, Ukraine
+origin:         AS15895
+mnt-by:         KYIVSTAR-MNT
+created:        2012-02-10T11:24:48Z
+last-modified:  2012-02-10T11:24:48Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

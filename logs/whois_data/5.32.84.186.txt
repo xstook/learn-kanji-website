@@ -1,0 +1,83 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '5.30.0.0 - 5.32.127.255'
+
+% Abuse contact for '5.30.0.0 - 5.32.127.255' is 'abuse@du.ae'
+
+inetnum:        5.30.0.0 - 5.32.127.255
+netname:        AE-DU-20120509
+country:        AE
+org:            ORG-DIC1-RIPE
+admin-c:        EITC2-RIPE
+tech-c:         EITC2-RIPE
+status:         ALLOCATED PA
+remarks:        SPAM complaints to lir@du.ae
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         DIC-MNT
+created:        2012-05-09T06:27:02Z
+last-modified:  2016-06-22T04:16:50Z
+source:         RIPE # Filtered
+
+organisation:   ORG-DIC1-RIPE
+org-name:       Emirates Integrated Telecommunications Company PJSC (EITC-DU)
+org-type:       LIR
+address:        Dubai International Academic City, Block-9, Floor-4
+address:        502666
+address:        Dubai
+address:        UNITED ARAB EMIRATES
+phone:          +97143600000
+fax-no:         +97143655755
+admin-c:        RR4900-RIPE
+admin-c:        BE1098-RIPE
+admin-c:        MA14208-RIPE
+admin-c:        CW1918-RIPE
+admin-c:        YA544-RIPE
+admin-c:        MD19237-RIPE
+abuse-c:        EITC2-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        DIC-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         DIC-MNT
+created:        2004-04-17T10:57:55Z
+last-modified:  2019-02-24T06:12:28Z
+source:         RIPE # Filtered
+
+role:           EITC Contact Role
+address:        Emirates Integrated Telecommunications
+address:        ------
+address:        -------
+phone:          +971043550323
+fax-no:         +971043550323
+admin-c:        CC7854-RIPE
+tech-c:         CC7854-RIPE
+tech-c:         CC7854-RIPE
+tech-c:         CC7854-RIPE
+nic-hdl:        EITC2-RIPE
+abuse-mailbox:  abuse@du.ae
+mnt-by:         DIC-MNT
+created:        2006-07-25T04:42:43Z
+last-modified:  2019-03-11T12:31:11Z
+source:         RIPE # Filtered
+
+% Information related to '5.32.64.0/19AS15802'
+
+route:          5.32.64.0/19
+descr:          Emirates Integrated Telecommunications Company PJSC
+origin:         AS15802
+mnt-by:         DIC-MNT
+created:        2014-01-21T20:20:38Z
+last-modified:  2014-01-21T20:20:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

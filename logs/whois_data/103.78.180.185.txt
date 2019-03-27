@@ -1,0 +1,58 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.78.180.0 - 103.78.183.255'
+
+% Abuse contact for '103.78.180.0 - 103.78.183.255' is 'ktvset.neemuch@gmail.com'
+
+inetnum:        103.78.180.0 - 103.78.183.255
+netname:        JKKTVSET
+descr:          Jk Ktv Set
+admin-c:        AA1281-AP
+tech-c:         MA1041-AP
+country:        IN
+mnt-by:         MAINT-IN-IRINN
+mnt-irt:        IRT-JKKTVSET-IN
+mnt-routes:     MAINT-IN-JKKTVSET
+status:         ASSIGNED PORTABLE
+last-modified:  2016-11-07T11:16:26Z
+source:         APNIC
+
+irt:            IRT-JKKTVSET-IN
+address:        Banglow No. 43, Kashmiri Complex, CRPF Road,Neemuch,Madhya Pradesh-458441
+e-mail:         ktvset.neemuch@gmail.com
+abuse-mailbox:  ktvset.neemuch@gmail.com
+admin-c:        MA1041-AP
+tech-c:         MA1041-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-JKKTVSET
+last-modified:  2016-11-07T11:12:19Z
+source:         APNIC
+
+role:           Manager Admin
+address:        Banglow No. 43, Kashmiri Complex, CRPF Road,Neemuch,Madhya Pradesh-458441
+country:        IN
+phone:          +91 7665436662
+e-mail:         ktvset.neemuch@gmail.com
+admin-c:        AA1281-AP
+tech-c:         AA1281-AP
+nic-hdl:        MA1041-AP
+mnt-by:         MAINT-IN-JKKTVSET
+last-modified:  2016-11-07T11:13:25Z
+source:         APNIC
+
+person:         Atul Agrawal
+address:        Banglow No. 43, Kashmiri Complex, CRPF Road,Neemuch,Madhya Pradesh-458441
+country:        IN
+phone:          +91 7665436662
+e-mail:         ktvset.neemuch@gmail.com
+nic-hdl:        AA1281-AP
+mnt-by:         MAINT-IN-JKKTVSET
+last-modified:  2016-11-07T11:14:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

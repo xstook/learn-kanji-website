@@ -1,0 +1,51 @@
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:10:06-03:00
+
+%  Query rate limit exceeded. Reduced information.
+%  Use https://registro.br/cgi-bin/nicbr/busca_dominio for domain availability.
+
+inetnum:     189.76.0.0/18
+aut-num:     AS22689
+abuse-c:     SESTE68
+owner:       Sercomtel Participações S.A.
+ownerid:     04.459.311/0001-74
+responsible: Roberto Yukio Nishimura
+owner-c:     IBS75
+tech-c:      IBS75
+inetrev:     189.76.0.0/20
+nserver:     dns3.sercomtel.com.br
+nsstat:      20190312 AA
+nslastaa:    20190312
+nserver:     dns4.sercomtel.com.br
+nsstat:      20190312 AA
+nslastaa:    20190312
+created:     20070928
+changed:     20130307
+
+nic-hdl-br:  IBS75
+person:      Internet by Sercomtel S.A
+created:     20040521
+changed:     20160210
+
+nic-hdl-br:  SESTE68
+person:      Sercomtel S/A Telecomunicações
+created:     20181031
+changed:     20181031
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

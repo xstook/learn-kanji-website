@@ -1,0 +1,59 @@
+[Querying whois.arin.net]
+[Redirected to whois.lacnic.net]
+[Querying whois.lacnic.net]
+[whois.lacnic.net]
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2019-03-13 22:09:25 (-03 -03:00)
+
+inetnum:     168.194.108/22
+status:      allocated
+aut-num:     N/A
+owner:       Gandalf Comunicaciones C.A.
+ownerid:     VE-GCCA1-LACNIC
+responsible: Ricardo Ormo
+address:     Calle 64 entre Av. 9 y 9B, Tierra Negra, -, casa # 9-125
+address:     4002 - Maracaibo - ZU
+country:     VE
+phone:       +58 261 7434733 []
+owner-c:     FJR4
+tech-c:      FJR4
+abuse-c:     FJR4
+inetrev:     168.194.108/23
+nserver:     DNS.GANDALFCA.COM.VE  [lame - not published]
+nsstat:      20190313 TIMEOUT
+nslastaa:    20180203
+nserver:     DNS1-GANDALF.GANDALFCA.COM.VE  [lame - not published]
+nsstat:      20190313 UDN
+nslastaa:    20180317
+nserver:     DNS2-GANDALF.GANDALFCA.COM.VE  [lame - not published]
+nsstat:      20190313 UDN
+nslastaa:    20180127
+created:     20160801
+changed:     20160801
+
+nic-hdl:     FJR4
+person:      Francisco J Rodriguez
+e-mail:      fjrodriguez@GANDALFCA.COM
+address:     4001, , 
+address:      - San Jose - SJ
+country:     CR
+phone:       +506  22047444 [8101]
+created:     20110830
+changed:     20171129
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,107 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '82.115.120.0 - 82.115.127.255'
+
+% Abuse contact for '82.115.120.0 - 82.115.127.255' is 'abuse@noc.ktk.de'
+
+inetnum:        82.115.120.0 - 82.115.127.255
+netname:        KTK-DIALIN2-NET
+descr:          Broadband Dialin Pool KO
+descr:          KEVAG Telekom GmbH
+country:        DE
+admin-c:        OG786-RIPE
+tech-c:         RZK1-RIPE
+org:            ORG-KTG1-RIPE
+remarks:        INFRA-AW
+status:         ASSIGNED PA
+mnt-by:         RZO-NOC
+mnt-lower:      RZO-NOC
+created:        2016-01-18T10:05:43Z
+last-modified:  2016-01-18T10:05:43Z
+source:         RIPE
+
+organisation:   ORG-KTG1-RIPE
+org-name:       KEVAG Telekom GmbH
+org-type:       LIR
+address:        Cusanusstr. 7
+address:        56073
+address:        Koblenz
+address:        GERMANY
+phone:          +4926120162242
+phone:          +4926120162334
+fax-no:         +492612016225242
+admin-c:        AG3851-RIPE
+admin-c:        OG786-RIPE
+admin-c:        RZK1-RIPE
+admin-c:        SD3702-RIPE
+mnt-ref:        RZO-NOC
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        GHOSTNET-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         RZO-NOC
+abuse-c:        RZK1-RIPE
+created:        2004-04-17T11:11:47Z
+last-modified:  2017-10-03T09:22:51Z
+source:         RIPE # Filtered
+
+role:           Hostmaster
+nic-hdl:        RZK1-RIPE
+address:        KEVAG Telekom GmbH
+address:        Cusanusstrasse 7
+address:        56073 Koblenz
+address:        DE
+phone:          +49 261 20162-233
+fax-no:         +49 261 20162-25242
+abuse-mailbox:  abuse@noc.ktk.de
+tech-c:         OG786-RIPE
+tech-c:         SD3702-RIPE
+tech-c:         AG3851-RIPE
+remarks:        trouble: Questions: hostmaster@noc.ktk.de
+remarks:        trouble: Abuse: abuse@noc.ktk.de
+remarks:        trouble: Immediate Action: avd@noc.ktk.de
+remarks:        role account for "Hostmaster of the Day"
+remarks:        at "KEVAG Telekom GmbH"
+admin-c:        OG786-RIPE
+admin-c:        SD3702-RIPE
+admin-c:        AG3851-RIPE
+mnt-by:         RZO-NOC
+created:        2002-03-07T14:19:04Z
+last-modified:  2017-08-14T08:11:38Z
+source:         RIPE # Filtered
+
+person:         Oliver Graf
+nic-hdl:        OG786-RIPE
+address:        KEVAG Telekom GmbH
+address:        Cusanusstrasse 7
+address:        56073 Koblenz
+address:        DE
+phone:          +49 261 20162-369
+fax-no:         +49 261 20162-25242
+remarks:        use abuse@noc.ktk.de for abuse complaints
+mnt-by:         RZO-NOC
+created:        2002-07-12T08:31:35Z
+last-modified:  2017-10-30T21:44:52Z
+source:         RIPE # Filtered
+
+% Information related to '82.115.96.0/19AS12360'
+
+route:          82.115.96.0/19
+descr:          KEVAG Telekom GmbH
+origin:         AS12360
+mnt-by:         RZO-NOC
+created:        2004-01-15T13:51:09Z
+last-modified:  2014-10-29T12:17:14Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

@@ -1,0 +1,102 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.10.0.0 - 46.10.255.255'
+
+% Abuse contact for '46.10.0.0 - 46.10.255.255' is 'abuse-ip@vivacom.bg'
+
+inetnum:        46.10.0.0 - 46.10.255.255
+netname:        BG-BTC-20100913
+country:        BG
+org:            ORG-BTCP1-RIPE
+admin-c:        LG700-RIPE
+tech-c:         LG700-RIPE
+tech-c:         SS4127-RIPE
+status:         ALLOCATED PA
+remarks:        -------------------------------------------
+remarks:        For Hacking, Spamming or Security problems
+remarks:        send mail to abuse@btc-net.bg
+remarks:        ----------------------------------------------
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         BT95-ADM
+mnt-lower:      BTC-PROV-ADM
+mnt-lower:      BT95-ADM
+mnt-domains:    MNT-BTCNET
+mnt-domains:    BTC-PROV-ADM
+mnt-routes:     BTC-PROV-ADM
+mnt-routes:     BT95-ADM
+created:        2010-09-13T11:02:22Z
+last-modified:  2016-06-27T07:40:00Z
+source:         RIPE
+
+organisation:   ORG-BTCP1-RIPE
+org-name:       Bulgarian Telecommunications Company Plc.
+org-type:       LIR
+address:        115I, Tsarigradsko shose Blvd.
+address:        1784
+address:        Sofia
+address:        BULGARIA
+phone:          +35929494600
+fax-no:         +35929331200
+admin-c:        BTC3-RIPE
+admin-c:        LG700-RIPE
+admin-c:        VB2225-RIPE
+admin-c:        NP2222-RIPE
+admin-c:        IR778-RIPE
+admin-c:        SS4127-RIPE
+admin-c:        PT1549-RIPE
+abuse-c:        BTC3-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        BT95-ADM
+mnt-ref:        MNT-GNET
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         BT95-ADM
+created:        2004-04-17T11:01:01Z
+last-modified:  2017-06-15T20:22:42Z
+source:         RIPE # Filtered
+
+person:         Lyubomir Georgiev
+address:        BTC Plc
+address:        Bulgarian Telecommunications Company Plc
+address:        Bulgaria
+mnt-by:         BT95-ADM
+phone:          +359 2 932 08 38
+nic-hdl:        LG700-RIPE
+created:        2002-12-27T08:55:53Z
+last-modified:  2015-07-02T14:54:31Z
+source:         RIPE # Filtered
+
+person:         Stanish Stanishev
+address:        BTC-NET Ltd.
+address:        115 I,TSARIGRADSKO CHAUSSEE
+address:        Sofia  1784
+address:        Bulgaria
+mnt-by:         BT95-ADM
+phone:          +359 2 932 08 42
+fax-no:         +359 2 932 08 24
+nic-hdl:        SS4127-RIPE
+created:        2004-05-03T08:50:40Z
+last-modified:  2018-01-08T13:58:02Z
+source:         RIPE # Filtered
+
+% Information related to '46.10.128.0/19AS8866'
+
+route:          46.10.128.0/19
+origin:         AS8866
+mnt-by:         BT95-ADM
+mnt-by:         BTC-PROV-ADM
+created:        2016-04-11T06:13:04Z
+last-modified:  2016-04-11T06:13:04Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

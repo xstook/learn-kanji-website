@@ -1,0 +1,71 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.165.168.0 - 185.165.171.255'
+
+% Abuse contact for '185.165.168.0 - 185.165.171.255' is 'abuse@flokinet.is'
+
+inetnum:        185.165.168.0 - 185.165.171.255
+netname:        SC-FLOKINET-LTD-20160826
+country:        SC
+org:            ORG-FL176-RIPE
+admin-c:        KW2939-RIPE
+tech-c:         KW2939-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         sc-flokinet-ltd-1-mnt
+created:        2016-08-26T13:54:58Z
+last-modified:  2016-08-26T14:43:38Z
+source:         RIPE
+
+organisation:   ORG-FL176-RIPE
+org-name:       Flokinet Ltd
+org-type:       LIR
+address:        Suite Number 2, Olivier Maradan Building, Olivier Maradan St
+address:        NA
+address:        Victoria
+address:        SEYCHELLES
+admin-c:        KW2939-RIPE
+tech-c:         KW2939-RIPE
+abuse-c:        AR37432-RIPE
+mnt-ref:        sc-flokinet-ltd-1-mnt
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         sc-flokinet-ltd-1-mnt
+created:        2016-08-26T07:19:06Z
+last-modified:  2018-03-15T11:19:44Z
+source:         RIPE # Filtered
+phone:          +40734325073
+
+person:         FlokiNET Ltd
+address:        Suite Number 2, Olivier Maradan Building, Olivier Maradan St
+address:        NA
+address:        Victoria
+address:        Seychelles
+phone:          +40734325073
+nic-hdl:        KW2939-RIPE
+mnt-by:         sc-flokinet-ltd-1-mnt
+created:        2016-08-26T07:19:06Z
+last-modified:  2017-11-15T09:46:24Z
+source:         RIPE
+
+% Information related to '185.165.169.0/24AS200651'
+
+route:          185.165.169.0/24
+origin:         AS200651
+mnt-by:         sc-flokinet-ltd-1-mnt
+mnt-by:         FlokiNET
+created:        2017-07-13T12:15:54Z
+last-modified:  2017-07-13T12:15:54Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

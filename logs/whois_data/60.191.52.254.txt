@@ -1,0 +1,62 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '60.191.52.252 - 60.191.52.255'
+
+% Abuse contact for '60.191.52.252 - 60.191.52.255' is 'antispam@dcb.hz.zj.cn'
+
+inetnum:        60.191.52.252 - 60.191.52.255
+netname:        HZ-QDSH
+country:        CN
+descr:          Qingdao Shi Heng Trading Co., Ltd.
+descr:
+admin-c:        DA366-AP
+tech-c:         CH122-AP
+mnt-irt:        IRT-CHINANET-ZJ
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-CN-CHINANET-ZJ-HZ
+last-modified:  2015-07-17T19:54:05Z
+source:         APNIC
+
+irt:            IRT-CHINANET-ZJ
+address:        Hangzhou, 288 fucun Road, China
+e-mail:         lfliu@pubinfo.com.cn
+abuse-mailbox:  antispam@dcb.hz.zj.cn
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2017-10-23T02:48:11Z
+source:         APNIC
+
+role:           CHINANET-ZJ Hangzhou
+address:        No.352 Tiyuchang Road,Hangzhou,Zhejiang.310003
+country:        CN
+phone:          +86-571-85157929
+fax-no:         +86-571-85102776
+e-mail:         anti_spam@mail.hz.zj.cn
+remarks:        send spam reports to anti_spam@mail.hz.zj.cn
+remarks:        and abuse reports to anti_spam@mail.hz.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CH54-AP
+tech-c:         CH54-AP
+nic-hdl:        CH122-AP
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2011-12-06T00:11:22Z
+source:         APNIC
+
+person:         du an
+nic-hdl:        DA366-AP
+e-mail:         18867544944@qq.com
+address:        Hangzhou,Zhejiang.Postcode:310000
+phone:          +86-18867544944
+country:        CN
+mnt-by:         MAINT-CN-CHINANET-ZJ-HZ
+last-modified:  2015-07-17T13:14:03Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

@@ -1,0 +1,73 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.40.0.0 - 61.43.255.255'
+
+% Abuse contact for '61.40.0.0 - 61.43.255.255' is 'hostmaster@nic.or.kr'
+
+inetnum:        61.40.0.0 - 61.43.255.255
+netname:        BORANET
+descr:          LG DACOM Corporation
+admin-c:        IM646-AP
+tech-c:         IM646-AP
+country:        KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+last-modified:  2017-02-03T00:55:02Z
+source:         APNIC
+
+irt:            IRT-KRNIC-KR
+address:        Seocho-ro 398, Seocho-gu, Seoul, Korea
+e-mail:         hostmaster@nic.or.kr
+abuse-mailbox:  hostmaster@nic.or.kr
+admin-c:        IM574-AP
+tech-c:         IM574-AP
+auth:           # Filtered
+mnt-by:         MNT-KRNIC-AP
+last-modified:  2017-10-19T07:36:36Z
+source:         APNIC
+
+person:         IP Manager
+address:        Seoul Yongsan-gu Hangang-daero 32
+country:        KR
+phone:          +82-2-10-1
+e-mail:         ipadm@lguplus.co.kr
+nic-hdl:        IM646-AP
+mnt-by:         MNT-KRNIC-AP
+last-modified:  2017-08-07T01:06:21Z
+source:         APNIC
+
+% Information related to '61.40.0.0 - 61.43.255.255'
+
+inetnum:        61.40.0.0 - 61.43.255.255
+netname:        BORANET-KR
+descr:          LG DACOM Corporation
+country:        KR
+admin-c:        IA5-KR
+tech-c:         IA5-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.kisa.or.kr.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+person:         IP Manager
+address:        Seoul Yongsan-gu Hangang-daero 32
+address:        LG UPLUS
+country:        KR
+phone:          +82-2-10-1
+e-mail:         ipadm@lguplus.co.kr
+nic-hdl:        IA5-KR
+mnt-by:         MNT-KRNIC-AP
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

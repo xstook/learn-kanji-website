@@ -1,0 +1,13 @@
+[Querying whois.apnic.net]
+[Redirected to whois.twnic.net]
+[Querying whois.twnic.net]
+[whois.twnic.net]
+
+   Netname: HINET-NET
+   Netblock: 220.133.0.0/16
+
+   Administrator contact:
+      network-adm@hinet.net
+
+   Technical contact:
+      network-adm@hinet.net

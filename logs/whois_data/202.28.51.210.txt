@@ -1,0 +1,74 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.28.0.0 - 202.29.255.255'
+
+% No abuse contact registered for 202.28.0.0 - 202.29.255.255
+
+inetnum:        202.28.0.0 - 202.29.255.255
+netname:        THAINET-TH
+descr:          UniNet(Inter-university network)
+descr:          Office of Information Technology Administration
+descr:          for Educational Development
+descr:          Ministry of University Affairs
+country:        TH
+admin-c:        YT7
+admin-c:        UV1-AP
+tech-c:         UNOC1-AP
+remarks:        UniNet is the outgrowth of THAINET
+notify:         noc-uninet@it.chula.ac.th
+notify:         noc@uni.net.th
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-TH-UNINET
+status:         ALLOCATED PORTABLE
+last-modified:  2008-09-04T06:50:09Z
+source:         APNIC
+
+person:         UniNet Network Operation Center
+address:        Office of Information Technology Administration
+address:        for Educational Development
+address:        Ministry of University Affairs
+address:        Bangkok 10400
+country:        TH
+phone:          +66-2-232-4000
+fax-no:         +66-2-248-6662
+e-mail:         noc@uni.net.th
+nic-hdl:        UNOC1-AP
+notify:         noc@uni.net.th
+mnt-by:         MAINT-TH-UNINET
+last-modified:  2019-01-10T03:40:24Z
+source:         APNIC
+
+person:         Unnop Viriyavit
+address:        328 Sri-Ayuthya rd. Rajthevi
+address:        Bangkok 10400
+country:        TH
+phone:          +66-2-248-7749
+fax-no:         +66-2-248-6662
+e-mail:         unnop@uni.net.th
+nic-hdl:        UV1-AP
+mnt-by:         MAINT-NULL
+last-modified:  2008-09-04T07:29:16Z
+source:         APNIC
+
+person:         Yunyong Teng-amnuay
+address:        Chulalongkorn University
+address:        Centers of Academic Resources
+address:        Phyathai Road
+address:        Bangkok 10330
+address:        TH
+country:        TH
+phone:          +66-2-218-2910
+fax-no:         +66-2-215-3617
+e-mail:         Yunyong.T@Chula.ac.th
+nic-hdl:        YT7
+notify:         Yunyong.T@Chula.ac.th
+mnt-by:         MAINT-THAINET
+last-modified:  2011-12-22T05:28:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

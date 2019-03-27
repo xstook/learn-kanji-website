@@ -1,0 +1,108 @@
+[Querying whois.arin.net]
+[whois.arin.net]
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+
+# start
+
+NetRange:       66.240.192.0 - 66.240.255.255
+CIDR:           66.240.192.0/18
+NetName:        CARINET-3
+NetHandle:      NET-66-240-192-0-1
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS10439
+Organization:   CariNet, Inc. (CARIN-6)
+RegDate:        2003-06-17
+Updated:        2012-03-02
+Ref:            https://rdap.arin.net/registry/ip/66.240.192.0
+
+
+OrgName:        CariNet, Inc.
+OrgId:          CARIN-6
+Address:        8929 COMPLEX DR
+City:           SAN DIEGO
+StateProv:      CA
+PostalCode:     92123
+Country:        US
+RegDate:        2009-11-17
+Updated:        2017-01-28
+Ref:            https://rdap.arin.net/registry/entity/CARIN-6
+
+
+OrgTechHandle: CARIN-ARIN
+OrgTechName:   CariNet Networking
+OrgTechPhone:  +1-858-974-5080 
+OrgTechEmail:  network@cari.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/CARIN-ARIN
+
+OrgAbuseHandle: ABUSE341-ARIN
+OrgAbuseName:   CariNet Abuse
+OrgAbusePhone:  +1-858-974-5080 
+OrgAbuseEmail:  complaints@cari.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE341-ARIN
+
+# end
+
+
+# start
+
+NetRange:       66.240.205.0 - 66.240.205.63
+CIDR:           66.240.205.0/26
+NetName:        NET-26
+NetHandle:      NET-66-240-205-0-1
+Parent:         CARINET-3 (NET-66-240-192-0-1)
+NetType:        Reassigned
+OriginAS:       AS10439
+Customer:       CariNet, Inc. (C04837820)
+RegDate:        2014-01-03
+Updated:        2014-01-03
+Ref:            https://rdap.arin.net/registry/ip/66.240.205.0
+
+
+CustName:       CariNet, Inc.
+Address:        8929 Complex Drive
+City:           San Diego
+StateProv:      CA
+PostalCode:     92123
+Country:        US
+RegDate:        2014-01-03
+Updated:        2014-01-03
+Ref:            https://rdap.arin.net/registry/entity/C04837820
+
+OrgTechHandle: CARIN-ARIN
+OrgTechName:   CariNet Networking
+OrgTechPhone:  +1-858-974-5080 
+OrgTechEmail:  network@cari.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/CARIN-ARIN
+
+OrgAbuseHandle: ABUSE341-ARIN
+OrgAbuseName:   CariNet Abuse
+OrgAbusePhone:  +1-858-974-5080 
+OrgAbuseEmail:  complaints@cari.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE341-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+

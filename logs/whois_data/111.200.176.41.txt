@@ -1,0 +1,82 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '111.192.0.0 - 111.207.255.255'
+
+% Abuse contact for '111.192.0.0 - 111.207.255.255' is 'hqs-ipabuse@chinaunicom.cn'
+
+inetnum:        111.192.0.0 - 111.207.255.255
+netname:        UNICOM-BJ
+descr:          China Unicom Beijing province network
+descr:          China Unicom
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         SY21-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP
+mnt-lower:      MAINT-CNCGROUP-BJ
+mnt-routes:     MAINT-CNCGROUP-RR
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-irt:        IRT-CU-CN
+last-modified:  2016-05-04T00:18:25Z
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Financial Street
+address:        Beijing,100033
+address:        P.R.China
+e-mail:         hqs-ipabuse@chinaunicom.cn
+abuse-mailbox:  hqs-ipabuse@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2017-10-23T05:59:13Z
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         hqs-ipabuse@chinaunicom.cn
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+mnt-by:         MAINT-CNCGROUP
+last-modified:  2017-08-17T06:13:16Z
+source:         APNIC
+
+person:         sun ying
+address:        fu xing men nei da jie 97, Xicheng District
+address:        Beijing 100800
+country:        CN
+phone:          +86-10-66030657
+fax-no:         +86-10-66078815
+e-mail:         hostmast@publicf.bta.net.cn
+nic-hdl:        SY21-AP
+mnt-by:         MAINT-CNCGROUP-BJ
+last-modified:  2009-06-30T08:42:48Z
+source:         APNIC
+
+% Information related to '111.192.0.0/12AS4808'
+
+route:          111.192.0.0/12
+descr:          China Unicom Beijing Province Network
+country:        CN
+origin:         AS4808
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2016-05-20T01:24:03Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

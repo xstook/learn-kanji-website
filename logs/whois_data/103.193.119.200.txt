@@ -1,0 +1,100 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.193.116.0 - 103.193.119.255'
+
+% Abuse contact for '103.193.116.0 - 103.193.119.255' is 'abuse@starnet.net.id'
+
+inetnum:        103.193.116.0 - 103.193.119.255
+netname:        STARNET-ID
+descr:          PT. Cemerlang Multimedia
+descr:          Internet Service Provider
+descr:          Jl. Bangau No. 2-4
+descr:          Bogor, Jawa Barat 16161
+admin-c:        NS388-AP
+tech-c:         NS388-AP
+country:        ID
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-STARNET
+mnt-irt:        IRT-STARNET-ID
+status:         ALLOCATED PORTABLE
+last-modified:  2017-06-16T03:19:38Z
+source:         APNIC
+
+irt:            IRT-STARNET-ID
+address:        PT. Cemerlang Multimedia
+address:        Jl. Bangau No. 2-4
+address:        Bogor, Jawa Barat 16161
+e-mail:         abuse@starnet.net.id
+abuse-mailbox:  abuse@starnet.net.id
+admin-c:        BB259-AP
+tech-c:         BB259-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-STARNET
+last-modified:  2018-05-31T22:29:30Z
+source:         APNIC
+
+person:         NOC STARNET
+address:        Jl. Bangau No 2
+address:        Bogor 16161
+address:        Jawa Barat
+country:        ID
+phone:          +62-251-8322218
+fax-no:         +62-251-8316813
+e-mail:         hostmaster@starnet.net.id
+nic-hdl:        NS388-AP
+notify:         hostmaster@starnet.net.id
+mnt-by:         MAINT-ID-STARNET
+last-modified:  2012-07-25T04:02:38Z
+source:         APNIC
+
+% Information related to '103.193.116.0 - 103.193.119.255'
+
+inetnum:        103.193.116.0 - 103.193.119.255
+netname:        STARNET-ID
+descr:          PT. Cemerlang Multimedia
+descr:          Internet Service Provider
+descr:          Jl. Bangau No. 2-4
+descr:          Bogor, Jawa Barat 16161
+admin-c:        NS388-AP
+tech-c:         NS388-AP
+country:        ID
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-STARNET
+mnt-irt:        IRT-STARNET-ID
+status:         ALLOCATED PORTABLE
+last-modified:  2017-06-16T03:19:38Z
+source:         IDNIC
+
+irt:            IRT-STARNET-ID
+address:        PT. Cemerlang Multimedia
+address:        Jl. Bangau No. 2-4
+address:        Bogor, Jawa Barat 16161
+e-mail:         abuse@starnet.net.id
+abuse-mailbox:  abuse@starnet.net.id
+admin-c:        BB259-AP
+tech-c:         BB259-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-STARNET
+last-modified:  2017-02-07T14:45:07Z
+source:         IDNIC
+
+person:         NOC STARNET
+address:        Jl. Bangau No 2
+address:        Bogor 16161
+address:        Jawa Barat
+country:        ID
+phone:          +62-251-8322218
+fax-no:         +62-251-8316813
+e-mail:         hostmaster@starnet.net.id
+nic-hdl:        NS388-AP
+notify:         hostmaster@starnet.net.id
+mnt-by:         MAINT-ID-STARNET
+last-modified:  2012-07-25T04:02:38Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

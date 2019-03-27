@@ -1,0 +1,89 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.19.0.0 - 61.19.255.255'
+
+% Abuse contact for '61.19.0.0 - 61.19.255.255' is 'noc@cat.net.th'
+
+inetnum:        61.19.0.0 - 61.19.255.255
+netname:        CAT
+descr:          CAT Telecom public company Ltd
+descr:          International Telecommunications Service Provider
+country:        TH
+org:            ORG-CTPC1-AP
+admin-c:        SA51-AP
+tech-c:         TK38-AP
+status:         ALLOCATED PORTABLE
+remarks:        for ABUSE & SPAM email < suchok@cat.net.th>
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-TH-THIX-CAT
+mnt-routes:     MAINT-TH-THIX-CAT
+mnt-irt:        IRT-CAT-TH
+last-modified:  2017-08-29T23:07:48Z
+source:         APNIC
+
+irt:            IRT-CAT-TH
+address:        Data Comm. Dept.(Internet)
+address:        CAT Bangkok 10501
+address:        Thailand
+e-mail:         noc@cat.net.th
+abuse-mailbox:  noc@cat.net.th
+admin-c:        TC476-AP
+tech-c:         IC174-AP
+auth:           # Filtered
+mnt-by:         MAINT-TH-THIX-CAT
+last-modified:  2016-05-29T03:16:35Z
+source:         APNIC
+
+organisation:   ORG-CTPC1-AP
+org-name:       CAT Telecom Public Company Limited
+country:        TH
+address:        13th CAT TELECOM TOWER
+address:        NEW ROAD SRIPHRAYA BANGRAK
+address:        BANGKOK
+address:        THAILAND
+phone:          +662-104-4300
+fax-no:         +662-104-2270
+e-mail:         noc@cat.net.th
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-10-11T01:28:59Z
+source:         APNIC
+
+person:         Suchok Ardhmad
+nic-hdl:        SA51-AP
+e-mail:         suchok@cat.net.th
+address:        Data Comm. Dept.(Internet)
+address:        CAT Telecom Public Company Ltd,
+address:        72 Charoenkrung Road Bangrak Bangkok THAILAND 10501
+address:        Thailand
+phone:          +66-2-6142488
+fax-no:         +66-2-6142270
+country:        TH
+mnt-by:         MAINT-TH-THIX-CAT
+last-modified:  2008-09-04T07:29:20Z
+source:         APNIC
+
+person:         Tanussit Klaimongkol
+address:        Data Comm. Dept.(Internet)
+address:        CAT Bangkok 10501
+address:        Thailand
+country:        TH
+phone:          +66-2-2374300
+fax-no:         +66-2-5063186
+e-mail:         ktanus@cat.net.th
+nic-hdl:        TK38-AP
+mnt-by:         MAINT-TH-THIX-CAT
+last-modified:  2008-09-04T07:29:15Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

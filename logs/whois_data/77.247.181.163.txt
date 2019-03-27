@@ -1,0 +1,70 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '77.247.181.160 - 77.247.181.175'
+
+% Abuse contact for '77.247.181.160 - 77.247.181.175' is 'abuse@nforce.com'
+
+inetnum:        77.247.181.160 - 77.247.181.175
+netname:        ZWIEBELFREUNDE
+descr:          Customer 692 / Zwiebelfreunde e.V.
+remarks:        Sent abuse to: abuse@torservers.net
+country:        NL
+admin-c:        MB22990-RIPE
+tech-c:         MB22990-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-NFORCE
+mnt-lower:      MNT-NFORCE
+mnt-routes:     MNT-NFORCE
+created:        2015-02-04T09:09:24Z
+last-modified:  2015-02-04T09:09:24Z
+source:         RIPE # Filtered
+
+person:         Moritz Bartl
+address:        Zwiebelfreunde e.V.
+address:        c/o DID Dresdner Institut fuer Datenschutz
+address:        Palaisplatz 3
+address:        01097 Dresden
+address:        Germany
+phone:          +49-351-21296018
+fax-no:         +49-911-3084466748
+remarks:        ---------------------------------
+remarks:        This network is used for research
+remarks:        in anonymization services and
+remarks:        provides Tor exit nodes to end
+remarks:        users.
+remarks:        ---------------------------------
+remarks:        Dieser Netzblock wird zur
+remarks:        Erforschung von Anonymisierungs-
+remarks:        techniken genutzt und stellt
+remarks:        Endnutzern Tor zur Verfuegung.
+remarks:        ---------------------------------
+remarks:        http://www.torservers.net/abuse.html
+remarks:        ---------------------------------
+nic-hdl:        MB22990-RIPE
+mnt-by:         ZWIEBELFREUNDE
+created:        2011-02-11T04:11:32Z
+last-modified:  2017-10-30T22:12:54Z
+source:         RIPE # Filtered
+
+% Information related to '77.247.176.0/21AS43350'
+
+route:          77.247.176.0/21
+descr:          NFOrce Entertainment BV - 77.247.176.0/21 route
+origin:         AS43350
+mnt-by:         MNT-NFORCE
+created:        2007-07-28T17:50:49Z
+last-modified:  2011-04-13T13:20:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

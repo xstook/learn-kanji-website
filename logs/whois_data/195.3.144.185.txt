@@ -1,0 +1,64 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '195.3.144.0 - 195.3.147.255'
+
+% Abuse contact for '195.3.144.0 - 195.3.147.255' is 'rndata.abuse@altnet.lv'
+
+inetnum:        195.3.144.0 - 195.3.147.255
+netname:        RN-Data-DC
+country:        LV
+org:            ORG-RND1-RIPE
+admin-c:        RN2335-RIPE
+tech-c:         RN2335-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         ROWER-MNT
+mnt-routes:     ROWER-MNT
+mnt-domains:    ROWER-MNT
+created:        2006-08-03T10:01:25Z
+last-modified:  2016-04-14T08:48:33Z
+source:         RIPE # Filtered
+sponsoring-org: ORG-SNI2-RIPE
+
+organisation:   ORG-RND1-RIPE
+org-name:       RN Data SIA
+org-type:       OTHER
+address:        Maskavas 322, LV-1063, Riga, Latvia
+abuse-c:        RND911-RIPE
+mnt-ref:        ROWER-MNT
+mnt-by:         ROWER-MNT
+created:        2011-04-21T02:17:16Z
+last-modified:  2017-10-30T14:52:11Z
+source:         RIPE # Filtered
+
+person:         Raitis Nugumanovs
+address:        Maskavas 322, LV-1063, Riga, Latvia
+phone:          +371 20234062
+nic-hdl:        RN2335-RIPE
+mnt-by:         ROWER-MNT
+created:        2011-02-09T13:50:50Z
+last-modified:  2011-03-24T13:40:17Z
+source:         RIPE # Filtered
+
+% Information related to '195.3.144.0/22AS41390'
+
+route:          195.3.144.0/22
+descr:          RN DATA DC
+origin:         AS41390
+mnt-by:         ROWER-MNT
+created:        2010-01-26T21:04:38Z
+last-modified:  2011-03-24T13:38:43Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (HEREFORD)
+
+

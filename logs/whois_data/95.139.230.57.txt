@@ -1,0 +1,67 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.139.224.0 - 95.139.231.255'
+
+% Abuse contact for '95.139.224.0 - 95.139.231.255' is 'abuse@rt.ru'
+
+inetnum:        95.139.224.0 - 95.139.231.255
+netname:        MACROREGIONAL_CENTER
+descr:          OJSC Rostelecom, Tula branch
+descr:          ex-netname: RU-TULATELECOM-ADSL2
+country:        RU
+admin-c:        KSC2-RIPE
+tech-c:         IYK5-RIPE
+status:         ASSIGNED PA
+mnt-by:         TULATEL-MNT-RIPE
+created:        2009-04-14T06:04:26Z
+last-modified:  2012-08-21T11:59:07Z
+source:         RIPE
+
+person:         Inoyat Y. Kayumov
+address:        Tula's Branch OJSC CenterTelecom
+address:        33, Pr. Lenina
+address:        300000, Tula, Russia
+remarks:        phone: +7 0872 360778
+phone:          +7 4872 360778
+nic-hdl:        IYK5-RIPE
+mnt-by:         TULATEL-MNT-RIPE
+created:        2004-12-22T15:03:45Z
+last-modified:  2014-02-13T07:09:16Z
+source:         RIPE # Filtered
+remarks:        modified for Russian phone area changes
+
+person:         Konstantin S. Chesnokov
+address:        Tula's Branch PJSC Rostelecom
+address:        33, Pr. Lenina
+address:        300000, Tula, Russia
+remarks:        phone: +7 4872 361539
+phone:          +7 4872 360778
+nic-hdl:        KSC2-RIPE
+mnt-by:         TULATEL-MNT-RIPE
+created:        1970-01-01T00:00:00Z
+last-modified:  2019-02-13T05:52:28Z
+source:         RIPE # Filtered
+remarks:        modified for Russian phone area changes
+
+% Information related to '95.139.224.0/20AS12389'
+
+route:          95.139.224.0/20
+descr:          Rostelecom networks
+origin:         AS12389
+mnt-by:         ROSTELECOM-MNT
+created:        2018-10-26T11:24:41Z
+last-modified:  2018-10-26T11:24:41Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

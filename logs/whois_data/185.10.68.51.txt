@@ -1,0 +1,71 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.10.68.0 - 185.10.68.255'
+
+% Abuse contact for '185.10.68.0 - 185.10.68.255' is 'abuse@ovo.sc'
+
+inetnum:        185.10.68.0 - 185.10.68.255
+netname:        SC-FLOKINET-LTD-20121116
+country:        SC
+org:            ORG-FL176-RIPE
+remarks:        Subnet used by OvO Systems Ltd - for abuse please contact abuse@ovo.sc or visit https://cock.li/abuse
+admin-c:        ONO6-RIPE
+abuse-c:        OSL26-RIPE
+admin-c:        ONO6-RIPE
+tech-c:         ONO6-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         sc-flokinet-ltd-1-mnt
+created:        2016-10-19T16:49:17Z
+last-modified:  2019-02-15T17:43:40Z
+source:         RIPE
+
+organisation:   ORG-FL176-RIPE
+org-name:       Flokinet Ltd
+org-type:       LIR
+address:        Suite Number 2, Olivier Maradan Building, Olivier Maradan St
+address:        NA
+address:        Victoria
+address:        SEYCHELLES
+admin-c:        KW2939-RIPE
+tech-c:         KW2939-RIPE
+abuse-c:        AR37432-RIPE
+mnt-ref:        sc-flokinet-ltd-1-mnt
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         sc-flokinet-ltd-1-mnt
+created:        2016-08-26T07:19:06Z
+last-modified:  2018-03-15T11:19:44Z
+source:         RIPE # Filtered
+phone:          +40734325073
+
+role:           OvO Network Operations
+address:        Suite 9, Ansuya Estate, Revolution Avenue, Mahe, Seychelles
+abuse-mailbox:  abuse@ovo.sc
+nic-hdl:        ONO6-RIPE
+mnt-by:         sc-flokinet-ltd-1-mnt
+created:        2019-02-15T17:41:26Z
+last-modified:  2019-02-15T17:41:26Z
+source:         RIPE # Filtered
+
+% Information related to '185.10.68.0/24AS200651'
+
+route:          185.10.68.0/24
+origin:         AS200651
+mnt-by:         sc-flokinet-ltd-1-mnt
+mnt-by:         is-flokinet-1-mnt
+created:        2016-10-21T17:06:26Z
+last-modified:  2016-10-21T17:06:26Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+

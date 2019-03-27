@@ -1,0 +1,57 @@
+[Querying whois.lacnic.net]
+[whois.lacnic.net]
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2019-03-13 22:09:43 (-03 -03:00)
+
+inetnum:     181.176/16
+status:      allocated
+aut-num:     N/A
+owner:       VIETTEL PERÚ S.A.C.
+ownerid:     PE-VPSA9-LACNIC
+responsible: Tran Ngoc Thieu
+address:     Calle Bernini, 279, 
+address:     LIMA41 - Lima - 
+country:     PE
+phone:       +51 1 5921607 []
+owner-c:     NVT
+tech-c:      NVT
+abuse-c:     NVT
+inetrev:     181.176/16
+nserver:     DNS1.VIETTELPERU.COM.PE  
+nsstat:      20190311 AA
+nslastaa:    20190311
+nserver:     PDNS1.VIETTELPERU.COM.PE  
+nsstat:      20190311 AA
+nslastaa:    20190311
+nserver:     PDNS2.VIETTELPERU.COM.PE  
+nsstat:      20190311 AA
+nslastaa:    20190311
+created:     20120111
+changed:     20120111
+
+nic-hdl:     NVT
+person:      Dennis Laime Cahuapaza
+e-mail:      dennis.laime@BITEL.COM.PE
+address:     Calle 21 Urb.Corpac - San Isidro, 878, 
+address:     LIMA27 - Lima - 
+country:     PE
+phone:       +51  930800080 []
+created:     20111121
+changed:     20171229
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

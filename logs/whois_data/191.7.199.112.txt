@@ -1,0 +1,46 @@
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:10:12-03:00
+
+%  Query rate limit exceeded. Reduced information.
+%  Use https://registro.br/cgi-bin/nicbr/busca_dominio for domain availability.
+
+inetnum:     191.7.192.0/19
+aut-num:     AS263327
+abuse-c:     FEBMO
+owner:       ONLINE SERVICOS DE TELECOMUNICACOES LTDA
+ownerid:     08.942.571/0001-57
+responsible: Francisco Elmo Bezerra Monte
+owner-c:     FEBMO
+tech-c:      FEBMO
+inetrev:     191.7.198.0/23
+nserver:     ns.online.net.br
+nsstat:      20190313 AA
+nslastaa:    20190313
+nserver:     ns2.online.net.br
+nsstat:      20190313 AA
+nslastaa:    20190313
+created:     20140310
+changed:     20140310
+
+nic-hdl-br:  FEBMO
+person:      Francisco Elmo Bezerra Monte
+created:     20060821
+changed:     20171202
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

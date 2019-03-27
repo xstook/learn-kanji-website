@@ -1,0 +1,55 @@
+[Querying whois.arin.net]
+[Redirected to whois.lacnic.net]
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:09:16-03:00
+
+inetnum:     138.185.156.0/22
+aut-num:     AS264342
+abuse-c:     NUPAT
+owner:       UPNET PROVEDOR DE ACESSO E TELECOM
+ownerid:     19.870.044/0001-09
+responsible: Alex Dias de Meira
+country:     BR
+owner-c:     UPATE2
+tech-c:      NUPAT
+inetrev:     138.185.156.0/22
+nserver:     ns1.upnetdns.com.br
+nsstat:      20190313 AA
+nslastaa:    20190313
+nserver:     ns2.upnetdns.com.br
+nsstat:      20190313 AA
+nslastaa:    20190313
+created:     20150702
+changed:     20160716
+
+nic-hdl-br:  UPATE2
+person:      UPNET PROVEDOR DE ACESSO E TELECOM
+e-mail:      upnet@upnettelecom.com.br
+country:     BR
+created:     20160716
+changed:     20160716
+
+nic-hdl-br:  NUPAT
+person:      N.O.C UPNET PROVEDOR DE ACESSO E TELECOM
+e-mail:      noc@upnettelecom.com.br
+country:     BR
+created:     20160716
+changed:     20160716
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

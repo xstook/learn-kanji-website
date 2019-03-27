@@ -1,0 +1,66 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.43.96.0 - 31.43.127.255'
+
+% Abuse contact for '31.43.96.0 - 31.43.127.255' is 'abuse@lan.ua'
+
+inetnum:        31.43.96.0 - 31.43.127.255
+netname:        LOCALINUA-NET
+remarks:        LocalNet
+country:        UA
+org:            ORG-LOCA1-RIPE
+admin-c:        LYBO1-RIPE
+tech-c:         LYBO1-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         LYUBACHEVSKY-MNT
+mnt-routes:     LYUBACHEVSKY-MNT
+mnt-domains:    LYUBACHEVSKY-MNT
+created:        2011-02-28T11:43:27Z
+last-modified:  2016-04-14T08:57:02Z
+source:         RIPE # Filtered
+sponsoring-org: ORG-Vs35-RIPE
+
+organisation:   ORG-LOCA1-RIPE
+org-name:       LocalNet Ltd.
+org-type:       OTHER
+address:        Ukraine, 04213, Kiev, Prirechnaya ul. 25A
+abuse-c:        AR19344-RIPE
+mnt-ref:        ADMINLANUA-MNT
+mnt-by:         ADMINLANUA-MNT
+created:        2011-09-10T13:12:54Z
+last-modified:  2014-03-27T23:15:51Z
+source:         RIPE # Filtered
+
+person:         Vitalii Lyubachevskyi
+address:        04214, Kiev, Ukraine, pryrichna st 25a of 127
+phone:          +380442213838
+nic-hdl:        LYBO1-RIPE
+mnt-by:         LYUBACHEVSKY-MNT
+created:        2011-02-24T15:04:40Z
+last-modified:  2011-02-24T15:04:40Z
+source:         RIPE
+
+% Information related to '31.43.96.0/19AS56433'
+
+route:          31.43.96.0/19
+descr:          LOCALINUA-NET route object
+origin:         AS56433
+mnt-by:         ADMINLANUA-MNT
+mnt-routes:     LYUBACHEVSKY-MNT
+created:        2011-05-03T18:36:49Z
+last-modified:  2011-05-03T18:36:49Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

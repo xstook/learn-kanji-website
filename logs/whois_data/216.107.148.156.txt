@@ -1,0 +1,31 @@
+[Querying whois.arin.net]
+[Redirected to my.603.newcontinuum.net:4321]
+[Querying my.603.newcontinuum.net]
+[my.603.newcontinuum.net]
+%rwhois V-1.0,V-1.5:00090h:00 my.603.newcontinuum.net (Ubersmith RWhois Server V-4.2.3)
+autharea=216.107.148.0/23
+xautharea=216.107.148.0/23
+network:Class-Name:network
+network:Auth-Area:216.107.148.0/23
+network:ID:NET-448.216.107.148.128/25
+network:Network-Name:Secondary Assignment [Route 173.243.120.174]
+network:IP-Network:216.107.148.128/25
+network:IP-Network-Block:216.107.148.128 - 216.107.148.255
+network:Org-Name:Nexeon Technologies, Inc
+network:Street-Address:13308 Redfish Lane, Ste 101
+network:City:Stafford
+network:State:TX
+network:Postal-Code:77477
+network:Country-Code:US
+network:Tech-Contact:MAINT-448.216.107.148.128/25
+network:Created:20141126183434000
+network:Updated:20161207200945000
+network:Updated-By:noc@newcontinuum.net
+contact:POC-Name:Network Administrator
+contact:POC-Email:noc@newcontinuum.net
+contact:POC-Phone:
+contact:Tech-Name:Network Administrator
+contact:Tech-Email:noc@newcontinuum.net
+contact:Tech-Phone:
+contact:Abuse-Email:abuse@newcontinuum.net
+%ok

@@ -1,0 +1,62 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.228.19.64 - 122.228.19.95'
+
+% Abuse contact for '122.228.19.64 - 122.228.19.95' is 'antispam@dcb.hz.zj.cn'
+
+inetnum:        122.228.19.64 - 122.228.19.95
+netname:        HZZYKJ-WZ
+country:        CN
+descr:          HANGZHOUZHIYUKEJICO.,LTD
+descr:
+admin-c:        YG1159-AP
+tech-c:         CW27-AP
+mnt-irt:        IRT-CHINANET-ZJ
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-CN-CHINANET-ZJ-WZ
+last-modified:  2017-09-08T19:36:02Z
+source:         APNIC
+
+irt:            IRT-CHINANET-ZJ
+address:        Hangzhou, 288 fucun Road, China
+e-mail:         lfliu@pubinfo.com.cn
+abuse-mailbox:  antispam@dcb.hz.zj.cn
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2017-10-23T02:48:11Z
+source:         APNIC
+
+role:           CHINANET-ZJ Wenzhou
+address:        No.2-1 Huancheng Road(East),Wenzhou,Zhejiang.325000
+country:        CN
+phone:          +86-577-88818629
+fax-no:         +86-577-88818635
+e-mail:         anti_spam@wz.zj.cn
+remarks:        send spam reports to anti_spam@wz.zj.cn
+remarks:        and abuse reports to anti_spam@wz.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CH117-AP
+tech-c:         CH117-AP
+nic-hdl:        CW27-AP
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2011-12-06T00:11:25Z
+source:         APNIC
+
+person:         YAO GONG
+nic-hdl:        YG1159-AP
+e-mail:         613370710@qq.com
+address:        Wenzhou,Zhejiang.Postcode:325000
+phone:          +86-15306666998
+country:        CN
+mnt-by:         MAINT-CN-CHINANET-ZJ-WZ
+last-modified:  2017-09-08T08:28:05Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

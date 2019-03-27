@@ -1,0 +1,86 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '110.77.160.0 - 110.77.191.255'
+
+% Abuse contact for '110.77.160.0 - 110.77.191.255' is 'nmc@cat.net.th'
+
+inetnum:        110.77.160.0 - 110.77.191.255
+netname:        CAT-BB-NET
+descr:          10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand
+country:        TH
+admin-c:        TU38-AP
+tech-c:         WP273-AP
+tech-c:         PD452-AP
+tech-c:         CB840-AP
+status:         ALLOCATED NON-PORTABLE
+remarks:        Personal contact #PS474-AP WP273-AP AS1145-AP#
+notify:         pankaew@cat.net.th
+mnt-by:         MAINT-TH-THIX-CAT
+mnt-lower:      MAINT-TH-THIX-CAT
+mnt-routes:     MAINT-TH-THIX-CAT
+mnt-irt:        IRT-CATBB-TH
+last-modified:  2018-02-07T10:19:07Z
+source:         APNIC
+
+irt:            IRT-CATBB-TH
+address:        10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand
+e-mail:         nmc@cat.net.th
+abuse-mailbox:  nmc@cat.net.th
+admin-c:        CB840-AP
+tech-c:         TU38-AP
+tech-c:         PS474-AP
+tech-c:         WP273-AP
+tech-c:         PD452-AP
+auth:           # Filtered
+mnt-by:         MAINT-TH-THIX-CAT
+last-modified:  2018-02-07T10:10:39Z
+source:         APNIC
+
+person:         CAT Broadband
+address:        10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand
+country:        TH
+phone:          +66-261-42138
+e-mail:         nmc@cat.net.th
+nic-hdl:        CB840-AP
+mnt-by:         MAINT-TH-THIX-CAT
+last-modified:  2018-02-07T08:56:35Z
+source:         APNIC
+
+person:         Passanon dumsood
+address:        10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand
+country:        TH
+phone:          +66-261-42138
+e-mail:         passanon.d@cat.net.th
+nic-hdl:        PD452-AP
+mnt-by:         MAINT-TH-THIX-CAT
+last-modified:  2017-06-13T04:19:50Z
+source:         APNIC
+
+person:         Theerachai Udomkitpanya
+address:        10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok
+country:        TH
+phone:          +66-261-42918
+e-mail:         theerachai.u@cattelecom.com
+nic-hdl:        TU38-AP
+mnt-by:         MAINT-TH-THIX-CAT
+last-modified:  2017-11-23T10:20:25Z
+source:         APNIC
+
+person:         Weerapong Pankaew
+nic-hdl:        WP273-AP
+e-mail:         pankaew@cat.net.th
+address:        CAT-BB-NET
+address:        10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand
+phone:          +66-261-42138
+fax-no:         +66-261-42682
+country:        TH
+mnt-by:         MAINT-NEW
+last-modified:  2008-09-25T12:45:58Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

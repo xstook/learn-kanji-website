@@ -1,0 +1,50 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '85.197.176.0 - 85.197.179.255'
+
+% Abuse contact for '85.197.176.0 - 85.197.179.255' is 'abuse@bikab.com'
+
+inetnum:        85.197.176.0 - 85.197.179.255
+netname:        BIKAB-C4
+country:        SE
+admin-c:        PJ3921-RIPE
+tech-c:         PJ3921-RIPE
+status:         ASSIGNED PA
+mnt-by:         BIKAB-MNT
+created:        2016-05-19T10:00:17Z
+last-modified:  2016-09-19T14:42:13Z
+source:         RIPE
+
+person:         Peter Johansson
+address:        Bredband i Kristianstad AB
+address:        Industrigatan 86
+address:        291 36 Kristianstad
+phone:          +4644129513
+nic-hdl:        PJ3921-RIPE
+mnt-by:         BIKAB-MNT
+created:        2015-03-10T12:33:56Z
+last-modified:  2019-02-17T20:42:36Z
+source:         RIPE # Filtered
+
+% Information related to '85.197.128.0/18AS34622'
+
+route:          85.197.128.0/18
+descr:          BIK AB
+origin:         AS34622
+mnt-by:         BIKAB-MNT
+created:        2011-05-14T11:17:15Z
+last-modified:  2011-05-14T11:17:15Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (BLAARKOP)
+
+

@@ -1,0 +1,50 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '60.191.0.240 - 60.191.0.247'
+
+% Abuse contact for '60.191.0.240 - 60.191.0.247' is 'anti-spam@ns.chinanet.cn.net'
+
+inetnum:        60.191.0.240 - 60.191.0.247
+netname:        HANGZHOU-HOLIDAY-HOTEL
+country:        CN
+descr:          HangZhou International Holiday Hotel Co.,LTD
+descr:
+admin-c:        XQ74-AP
+tech-c:         CH122-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-CN-CHINANET-ZJ-HZ
+last-modified:  2008-09-04T06:56:01Z
+source:         APNIC
+
+role:           CHINANET-ZJ Hangzhou
+address:        No.352 Tiyuchang Road,Hangzhou,Zhejiang.310003
+country:        CN
+phone:          +86-571-85157929
+fax-no:         +86-571-85102776
+e-mail:         anti_spam@mail.hz.zj.cn
+remarks:        send spam reports to anti_spam@mail.hz.zj.cn
+remarks:        and abuse reports to anti_spam@mail.hz.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CH54-AP
+tech-c:         CH54-AP
+nic-hdl:        CH122-AP
+mnt-by:         MAINT-CHINANET-ZJ
+last-modified:  2011-12-06T00:11:22Z
+source:         APNIC
+
+person:         XuDong Qi
+nic-hdl:        XQ74-AP
+e-mail:         dkhxtb@mail.hz.zj.cn
+address:        No.259,MoGanShan Road.
+phone:          +86-571-88908888
+country:        CN
+mnt-by:         MAINT-CN-CHINANET-ZJ-HZ
+last-modified:  2008-09-04T07:32:24Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

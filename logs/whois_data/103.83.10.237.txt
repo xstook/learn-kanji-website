@@ -1,0 +1,59 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.83.8.0 - 103.83.11.255'
+
+% Abuse contact for '103.83.8.0 - 103.83.11.255' is 'mandeep.dahiya12@gmail.com'
+
+inetnum:        103.83.8.0 - 103.83.11.255
+netname:        DEVDRPAN
+descr:          Devdarpan Broadband Pvt. Ltd.
+admin-c:        MA1069-AP
+tech-c:         MA1069-AP
+country:        IN
+mnt-by:         MAINT-IN-IRINN
+mnt-irt:        IRT-DEVDRPAN-IN
+mnt-routes:     MAINT-IN-DEVDRPAN
+status:         ASSIGNED PORTABLE
+last-modified:  2017-01-09T10:59:57Z
+source:         APNIC
+
+irt:            IRT-DEVDRPAN-IN
+address:        plot no-40/3, new jain colony,Rudrapur,Uttarakhand-263153
+e-mail:         mandeep.dahiya12@gmail.com
+abuse-mailbox:  mandeep.dahiya12@gmail.com
+admin-c:        MA1069-AP
+tech-c:         MA1069-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-DEVDRPAN
+last-modified:  2017-01-09T11:09:53Z
+source:         APNIC
+
+role:           manager admin
+address:        plot no-40/3, new jain colony,Rudrapur,Uttarakhand-263153
+country:        IN
+phone:          +91 05944250118
+e-mail:         mandeep.dahiya12@gmail.com
+admin-c:        MK1254-AP
+tech-c:         MK1254-AP
+nic-hdl:        MA1069-AP
+mnt-by:         MAINT-IN-DEVDRPAN
+last-modified:  2017-01-09T11:09:33Z
+source:         APNIC
+
+% Information related to '103.83.10.0/24AS136698'
+
+route:          103.83.10.0/24
+descr:          /24
+origin:         AS136698
+mnt-by:         MAINT-IN-DEVDRPAN
+mnt-routes:     MAINT-IN-DEVDRPAN
+notify:         mandeep.dahiya12@gmail.com
+last-modified:  2018-02-01T10:56:53Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

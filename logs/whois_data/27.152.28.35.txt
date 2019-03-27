@@ -1,0 +1,55 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '27.152.0.0 - 27.152.127.255'
+
+% Abuse contact for '27.152.0.0 - 27.152.127.255' is 'abuse@fjdcb.fz.fj.cn'
+
+inetnum:        27.152.0.0 - 27.152.127.255
+netname:        QUANZHOU-B-MAN-QZ-FJ
+country:        CN
+descr:          Quanzhou Broadband MAN
+descr:          Fujian Province
+admin-c:        CA67-AP
+tech-c:         CA67-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-CHINANET-FJ
+last-modified:  2011-01-19T01:52:02Z
+source:         APNIC
+mnt-irt:        IRT-CHINANET-FJ
+
+irt:            IRT-CHINANET-FJ
+address:        no.7,dongjie road,fuzhou,fujian,china
+e-mail:         fjnic@fjdcb.fz.fj.cn
+abuse-mailbox:  abuse@fjdcb.fz.fj.cn
+admin-c:        CA67-AP
+tech-c:         CA67-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET-FJ
+last-modified:  2010-12-07T08:58:01Z
+source:         APNIC
+
+role:           CHINANETFJ IP ADMIN
+address:        7,East Street,Fuzhou,Fujian,PRC
+country:        CN
+phone:          +86-591-83309761
+fax-no:         +86-591-83371954
+e-mail:         fjnic@fjdcb.fz.fj.cn
+remarks:        send spam reports  and abuse reports
+remarks:        to abuse@fjdcb.fz.fj.cn
+remarks:        Please include detailed information and
+remarks:        times in UTC
+admin-c:        FH71-AP
+tech-c:         FH71-AP
+nic-hdl:        CA67-AP
+remarks:        www.fjtelecom.com
+notify:         fjnic@fjdcb.fz.fj.cn
+mnt-by:         MAINT-CHINANET-FJ
+last-modified:  2011-12-06T00:10:50Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

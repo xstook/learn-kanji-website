@@ -1,0 +1,48 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.210.200.0 - 103.210.203.255'
+
+% Abuse contact for '103.210.200.0 - 103.210.203.255' is 'vinayd@joister.net'
+
+inetnum:        103.210.200.0 - 103.210.203.255
+netname:        JOISTER-VISHWAMANI
+descr:          VISHWAMANI SOLUTIONS
+admin-c:        MN546-AP
+tech-c:         MN546-AP
+country:        IN
+mnt-by:         MAINT-IN-IRINN
+mnt-irt:        IRT-VISHWAMANI-IN
+mnt-routes:     MAINT-IN-VISHWAMANI
+status:         ASSIGNED PORTABLE
+last-modified:  2016-03-03T09:14:50Z
+source:         APNIC
+
+irt:            IRT-VISHWAMANI-IN
+address:        SR NO 64 PLOT NO 3 HEMPUSHPA APPARTMENT TRIMURTI HOSPITAL SINHGAD ROAD WADGAON BK PUNE,Pune,Maharashtra-411041
+e-mail:         nikunj@joister.net
+abuse-mailbox:  vinayd@joister.net
+admin-c:        MN546-AP
+tech-c:         MN546-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-VISHWAMANI
+last-modified:  2016-03-03T10:16:39Z
+source:         APNIC
+
+role:           manager noc
+address:        SR NO 64 PLOT NO 3 HEMPUSHPA APPARTMENT TRIMURTI HOSPITAL SINHGAD ROAD WADGAON BK PUNE,Pune,Maharashtra-411041
+country:        IN
+phone:          +91 02261356101
+e-mail:         nikunj@joister.net
+admin-c:        VP188-AP
+tech-c:         VP188-AP
+nic-hdl:        MN546-AP
+mnt-by:         MAINT-IN-VISHWAMANI
+last-modified:  2016-03-03T10:16:11Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

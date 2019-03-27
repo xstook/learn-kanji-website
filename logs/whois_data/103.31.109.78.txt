@@ -1,0 +1,106 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.31.109.0 - 103.31.109.255'
+
+% Abuse contact for '103.31.109.0 - 103.31.109.255' is 'harijanto@gmail.com'
+
+inetnum:        103.31.109.0 - 103.31.109.255
+netname:        IDNIC-CYBER-K-ID
+descr:          Koperasi PRIMKOKAS
+descr:          Corporate / Direct Member IDNIC
+descr:          Jl. Yasin Beji RT.01/03
+descr:          Kota Bumi, Purwakarta
+descr:          Cilegon, Banten 42435
+country:        ID
+admin-c:        HP371-AP
+tech-c:         HP371-AP
+remarks:        Send Spam & Abuse Reports to harijanto@gmail.com
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-CYBERK
+mnt-irt:        IRT-CYBERK-ID
+status:         ASSIGNED PORTABLE
+last-modified:  2012-11-28T01:50:12Z
+source:         APNIC
+
+irt:            IRT-CYBERK-ID
+address:        Koperasi PRIMKOKAS
+address:        Jl. Yasin Beji RT.01/03
+address:        Kota Bumi, Purwakarta
+address:        Cilegon, Banten 42435
+e-mail:         harijanto@gmail.com
+abuse-mailbox:  harijanto@gmail.com
+admin-c:        HP371-AP
+tech-c:         HP371-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-CYBERK
+last-modified:  2018-05-31T22:29:59Z
+source:         APNIC
+
+person:         Harijanto Pribadi
+nic-hdl:        HP371-AP
+e-mail:         harijanto@gmail.com
+address:        Metro Permata I Blok N5 / 24
+address:        Pondok Pucung
+address:        Karang Tengah
+address:        Tangerang
+phone:          +62-21-2599-3104
+fax-no:         +62-21-5367-7047
+country:        ID
+mnt-by:         MAINT-ID-HTS
+last-modified:  2010-10-07T06:58:02Z
+source:         APNIC
+
+% Information related to '103.31.109.0 - 103.31.109.255'
+
+inetnum:        103.31.109.0 - 103.31.109.255
+netname:        IDNIC-CYBER-K-ID
+descr:          Koperasi PRIMKOKAS
+descr:          Corporate / Direct Member IDNIC
+descr:          Jl. Yasin Beji RT.01/03
+descr:          Kota Bumi, Purwakarta
+descr:          Cilegon, Banten 42435
+country:        ID
+admin-c:        HP371-AP
+tech-c:         HP371-AP
+remarks:        Send Spam & Abuse Reports to harijanto@gmail.com
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-CYBERK
+mnt-irt:        IRT-CYBERK-ID
+status:         ASSIGNED PORTABLE
+last-modified:  2012-11-28T01:50:12Z
+source:         IDNIC
+
+irt:            IRT-CYBERK-ID
+address:        Koperasi PRIMKOKAS
+address:        Jl. Yasin Beji RT.01/03
+address:        Kota Bumi, Purwakarta
+address:        Cilegon, Banten 42435
+e-mail:         harijanto@gmail.com
+abuse-mailbox:  harijanto@gmail.com
+admin-c:        HP371-AP
+tech-c:         HP371-AP
+auth:           # Filtered
+mnt-by:         MAINT-ID-CYBERK
+last-modified:  2012-11-27T08:41:08Z
+source:         IDNIC
+
+person:         Harijanto Pribadi
+nic-hdl:        HP371-AP
+e-mail:         harijanto@gmail.com
+address:        Metro Permata I Blok N5 / 24
+address:        Pondok Pucung
+address:        Karang Tengah
+address:        Tangerang
+phone:          +62-21-2599-3104
+fax-no:         +62-21-5367-7047
+country:        ID
+mnt-by:         MAINT-ID-HTS
+last-modified:  2010-10-07T06:58:02Z
+source:         IDNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

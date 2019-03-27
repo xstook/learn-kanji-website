@@ -1,0 +1,61 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.102.28.0 - 122.102.28.255'
+
+% Abuse contact for '122.102.28.0 - 122.102.28.255' is 'kka_kota@yahoo.co.in'
+
+inetnum:        122.102.28.0 - 122.102.28.255
+netname:        Kappa-CHD
+descr:          Kappa Choti Sadri Network
+country:        IN
+admin-c:        KISP1-AP
+tech-c:         KISP1-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-KAPPA-IN
+mnt-lower:      MAINT-KAPPA-IN
+mnt-routes:     MAINT-KAPPA-IN
+mnt-irt:        IRT-KAPPA-IN
+last-modified:  2013-11-20T15:01:01Z
+source:         APNIC
+
+irt:            IRT-KAPPA-IN
+address:        1-RA-8 Vigyan Nagar, KOTA - 5, INDIA
+e-mail:         kka_kota@yahoo.co.in
+abuse-mailbox:  kka_kota@yahoo.co.in
+admin-c:        KISP1-AP
+tech-c:         KISP1-AP
+auth:           # Filtered
+mnt-by:         MAINT-KAPPA-IN
+last-modified:  2010-12-13T15:46:20Z
+source:         APNIC
+
+role:           KAPPA INTERNET SERVICES PRIVATE LIMITED - network
+address:        1-RA-8 Vigyan Nagar, KOTA - 5, INDIA
+country:        IN
+phone:          +91-744-2436000
+fax-no:         +91-744-2426000
+e-mail:         krshn@kappa.net.in
+admin-c:        KISP1-AP
+tech-c:         KISP1-AP
+nic-hdl:        KISP1-AP
+mnt-by:         MAINT-KAPPA-IN
+last-modified:  2008-09-09T04:48:00Z
+source:         APNIC
+
+% Information related to '122.102.28.0/24AS45433'
+
+route:          122.102.28.0/24
+descr:          Kappa Internet Services Private Limited
+origin:         AS45433
+mnt-by:         MAINT-KAPPA-IN
+mnt-routes:     MAINT-KAPPA-IN
+notify:         ipnoc@kappa.net.in
+last-modified:  2018-06-01T11:40:06Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

@@ -1,0 +1,67 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '182.70.128.0 - 182.70.255.255'
+
+% Abuse contact for '182.70.128.0 - 182.70.255.255' is 'dsltac2north.unoc@airtel.com'
+
+inetnum:        182.70.128.0 - 182.70.255.255
+netname:        ABTS-DSL-MPCG
+descr:          Bharti Airtel Ltd, 1 Malviya Nagar Bhopal Madhya Pradesh 462003
+country:        IN
+admin-c:        DEL2-AP
+tech-c:         DEL2-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-IN-TELEMEDIA
+mnt-irt:        IRT-BHARTI-TELEMEDIA-IN
+geoloc:         23.240122 77.406257
+last-modified:  2019-02-19T12:13:47Z
+source:         APNIC
+
+irt:            IRT-BHARTI-TELEMEDIA-IN
+address:        Bharti Airtel Ltd.
+e-mail:         dsltac2north.unoc@airtel.com
+abuse-mailbox:  dsltac2north.unoc@airtel.com
+admin-c:        NS282-AP
+tech-c:         NS282-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-TELEMEDIA
+last-modified:  2018-08-08T06:20:07Z
+source:         APNIC
+
+person:         Network Administrator for ABTS DEL
+address:        Bharti Airtel Ltd. - TELEMEDIA Services
+address:        224, Okhla Industrial Estate
+address:        Phase III, New Delhi-110020
+country:        IN
+phone:          +91-11-41615533
+e-mail:         dsl.noc@airtel.com
+nic-hdl:        DEL2-AP
+remarks:        --------------------------------------
+remarks:        Send abuse reports to
+remarks:        DSLTAC2NORTH.UNOC@airtel.com
+remarks:        --------------------------------------
+mnt-by:         MAINT-IN-TELEMEDIA
+last-modified:  2015-11-05T05:17:08Z
+source:         APNIC
+
+% Information related to '182.70.128.0/17AS24560'
+
+route:          182.70.128.0/17
+descr:          ABTS-MP-819332-BPL
+descr:          BHARTI TELENET LTD.MADHYA PRADESH
+descr:          1st Floor, Malviya Nagar,
+descr:          Bhopal
+descr:          Madhya Pradesh
+descr:          INDIA
+country:        IN
+origin:         AS24560
+mnt-by:         MAINT-IN-TELEMEDIA
+last-modified:  2013-06-19T07:53:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-US3)
+
+

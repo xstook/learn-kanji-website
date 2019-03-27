@@ -1,0 +1,55 @@
+[Querying whois.arin.net]
+[Redirected to whois.lacnic.net]
+[Querying whois.lacnic.net]
+[Redirected to whois.registro.br]
+[Querying whois.registro.br]
+[whois.registro.br]
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-03-13T22:09:17-03:00
+
+inetnum:     138.185.176.0/22
+aut-num:     AS264348
+abuse-c:     JJS254
+owner:       FRANCISCO DE ASSIS BARBOSA DE BRITO GOMES
+ownerid:     07.820.567/0001-53
+responsible: FRANCISCO DE ASSIS BARBOSA DE BRITO GOME
+country:     BR
+owner-c:     FABBG
+tech-c:      FABBG
+inetrev:     138.185.176.0/22
+nserver:     ns1.webcentertelecom.com.br
+nsstat:      20190313 AA
+nslastaa:    20190313
+nserver:     ns2.webcentertelecom.com.br
+nsstat:      20190313 AA
+nslastaa:    20190313
+created:     20150706
+changed:     20160620
+
+nic-hdl-br:  FABBG
+person:      FRANCISCO DE ASSIS BARBOSA DE BRITO GOME
+e-mail:      fran_bryto@hotmail.com
+country:     BR
+created:     20150512
+changed:     20150512
+
+nic-hdl-br:  JJS254
+person:      JOZEILDO JOSE DA SILVA
+e-mail:      jozeildo@bol.com.br
+country:     BR
+created:     20050821
+changed:     20080816
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.

@@ -1,0 +1,56 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '79.98.220.0 - 79.98.220.255'
+
+% Abuse contact for '79.98.220.0 - 79.98.220.255' is 'administracion@ib-red.com'
+
+inetnum:        79.98.220.0 - 79.98.220.255
+netname:        IBRED
+descr:          Red digital de telecomunicaciones de las Islas Baleares
+country:        es
+language:       es
+geoloc:         39.875113710070714 3.0170559883117676
+admin-c:        FH4855-RIPE
+tech-c:         FH4855-RIPE
+status:         ASSIGNED PA
+mnt-by:         FHIDALGO
+mnt-lower:      FHIDALGO
+mnt-routes:     FHIDALGO
+mnt-routes:     MNT-JO84787
+mnt-routes:     ONO-MNT
+created:        2018-06-20T14:12:14Z
+last-modified:  2018-06-20T14:12:14Z
+source:         RIPE
+remarks:        INFRA-AW
+
+person:         Francisco Hidalgo
+address:        C/Santo Domingo, 31
+phone:          +34 653078995
+nic-hdl:        FH4855-RIPE
+mnt-by:         FHIDALGO
+created:        2016-03-31T20:21:45Z
+last-modified:  2016-03-31T20:21:45Z
+source:         RIPE
+
+% Information related to '79.98.220.0/24AS200064'
+
+route:          79.98.220.0/24
+descr:          IBRed
+origin:         AS200064
+mnt-by:         JO84787-MNT
+created:        2014-01-20T22:06:29Z
+last-modified:  2014-01-20T22:06:29Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (ANGUS)
+
+

@@ -1,0 +1,36 @@
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '196.52.43.0 - 196.52.43.255'
+
+% No abuse contact registered for 196.52.43.0 - 196.52.43.255
+
+inetnum:        196.52.43.0 - 196.52.43.255
+netname:        NetSystems
+descr:          Net Systems Research, LLC
+country:        US
+admin-c:        CA12-AFRINIC
+tech-c:         CA12-AFRINIC
+status:         ASSIGNED PA
+remarks:        For abuse or concerns, contact urgent@netsystemsresearch.com
+mnt-by:         LOGICWEB-MNT
+source:         AFRINIC # Filtered
+parent:         196.52.0.0 - 196.55.255.255
+
+person:         Chad Abizeid
+address:        LogicWeb Inc.
+address:        4509 Steeplechase Dr.
+address:        Easton, PA 18040
+address:        USA
+phone:          tel:+1-866-611-1556
+org:            ORG-LWI1-AFRINIC
+nic-hdl:        CA12-AFRINIC
+mnt-by:         LOGICWEB-MNT
+source:         AFRINIC # Filtered
+
+
+

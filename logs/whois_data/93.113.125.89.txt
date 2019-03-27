@@ -1,0 +1,55 @@
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '93.113.124.0 - 93.113.125.255'
+
+% Abuse contact for '93.113.124.0 - 93.113.125.255' is 'abuse@ip.ro'
+
+inetnum:        93.113.124.0 - 93.113.125.255
+netname:        DDNET-SOLUTIONS-SRL
+descr:          DDNET SOLUTIONS SRL
+descr:          Str SPLAI BAHLUI Nr 53B
+descr:          Iasi Romania 700393
+country:        ro
+admin-c:        MA7781-RIPE
+tech-c:         MA7781-RIPE
+status:         ASSIGNED PA
+remarks:        Registered through http://www.ip.ro/ip.html
+mnt-by:         RO-MNT
+mnt-lower:      RO-MNT
+mnt-routes:     FX-SOFT-MNT
+created:        2016-10-28T13:15:52Z
+last-modified:  2017-01-16T07:33:42Z
+source:         RIPE
+
+person:         MARIUS AFTINIEI
+address:        DDNET SOLUTIONS SRL
+address:        Str SPLAI BAHLUI Nr 53B
+address:        Iasi Romania 700393
+phone:          +40.720255408
+nic-hdl:        MA7781-RIPE
+mnt-by:         DDN-MNT
+created:        2008-09-14T19:10:12Z
+last-modified:  2012-08-27T05:33:41Z
+source:         RIPE # Filtered
+
+% Information related to '93.113.124.0/23AS43443'
+
+route:          93.113.124.0/23
+origin:         AS43443
+mnt-by:         FX-SOFT-MNT
+created:        2017-01-25T12:25:47Z
+last-modified:  2017-01-25T12:25:47Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.93.2 (WAGYU)
+
+
