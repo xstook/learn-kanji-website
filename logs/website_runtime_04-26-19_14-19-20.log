@@ -1,0 +1,7 @@
+ * Serving Flask app "main.py"
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+98.216.55.83 - - [26/Apr/2019 14:19:40] "GET / HTTP/1.1" 200 -
